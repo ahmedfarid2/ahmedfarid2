@@ -39,6 +39,16 @@ Experience the future of dental product procurement. Explore Compass Med today!<
 
 <hr>
 
+### Xera Lab Website
+
+Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.<br/>
+
+<h3>Comming Soon(under Development)</h3> <br/>
+
+<p><a href="http://xeralab.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
+
+<hr>
+
 ### J&D Pharmacy App
 
 Experience trusted healthcare services at your fingertips with the <b>J&D Pharmacy</b> App. Manage prescriptions, access health news, explore medical equipment, and connect with pharmacy professionals—all in one place. Download now for personalized care and convenience!<br/>
