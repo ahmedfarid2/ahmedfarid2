@@ -39,13 +39,12 @@ Experience the future of dental product procurement. Explore Compass Med today!<
 
 <hr>
 
-### Xera Lab Website
+### Fixawy
 
-Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.<br/>
+<b>Fixawy</b> offers the top experts in maintenance, appliance repairs, utilities, repair and upkeep, and other professional local services in Egypt. We built our services and technology based on customer needs and requirements.
+<br/>
 
-<h3>Comming Soon(under Development)</h3> <br/>
-
-<p><a href="http://xeralab.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
+<p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
@@ -62,3 +61,21 @@ Experience trusted healthcare services at your fingertips with the <b>J&D Pharma
 Transform your health journey with the <b>Medical Center Compounding Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.<br/>
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Quick RX App
+
+Ultimate digital solution with the <b>Quick Rx</b> App. User-friendly mobile application streamlining pharmacy services with features such as prescription refills, patient transfers, health news updates, appointment scheduling, and medication reminders to enhance health management..<br/>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Xera Lab Website
+
+Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.<br/>
+
+<h3>Comming Soon(under Development)</h3> <br/>
+
+<p><a href="http://xeralab.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
