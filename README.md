@@ -39,6 +39,23 @@ Experience the future of dental product procurement. Explore Compass Med today!<
 
 <hr>
 
+### Yelo Sale
+
+<b>Yelo Sale</b> Recognized as a leading car rental brand in the region, Yelo operates over 90 branches across 23 cities in Saudi Arabia, with locations at key airports in KSA, Dubai, and Cairo. Committed to exceptional customer service, Yelo offers a seamless booking experience through its website and app. Its loyalty program, Amyali, redefines customer rewards by enhancing rental experiences and providing exclusive privileges. Guided by its vision to exceed client expectations, Yelo ensures a stress-free and customer-centric car rental journey. <br/>
+
+<h3>Key features include:</h3> <br/>
+
+<ul>
+  <li>User-friendly dashboard for seamless management</li>
+  <li>B2b module</li>
+  <li>B2c module</li>
+</ul>
+<br/>
+
+<p><a href="http://beta.yelo.daldart.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
+
+<hr>
+
 ### Fixawy
 
 <b>Fixawy</b> offers the top experts in maintenance, appliance repairs, utilities, repair and upkeep, and other professional local services in Egypt. We built our services and technology based on customer needs and requirements.
@@ -46,7 +63,7 @@ Experience the future of dental product procurement. Explore Compass Med today!<
 
 <p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-<b>Fixawy Fixer:</b> <p><a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<p><b>Fixawy Fixer:</b><a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
 <hr>
 
