@@ -47,8 +47,8 @@ Experience the future of dental product procurement. Explore Compass Med today!<
 
 <ul>
   <li>User-friendly dashboard for seamless management</li>
-  <li>B2B module</li>
-  <li>B2C module</li>
+  <li>B2B module (Almost Done)</li>
+  <li>B2C module (In Development Phase)</li>
 </ul>
 <br/>
 
