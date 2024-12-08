@@ -46,6 +46,8 @@ Experience the future of dental product procurement. Explore Compass Med today!<
 
 <p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
+<b>Fixawy Fixer:</b> <p><a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+
 <hr>
 
 ### J&D Pharmacy App
