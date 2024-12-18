@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Ahmed Farid 👋 </h2>
 
 - Software Engineer
-- Flutter Developer
+- Full Stack Developer
 
 <hr>
 
