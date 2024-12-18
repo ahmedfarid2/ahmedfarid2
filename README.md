@@ -91,6 +91,14 @@ Ultimate digital solution with the <b>Quick Rx</b> App. User-friendly mobile app
 
 <hr>
 
+### Holland Pharmacy App
+
+Transform your health journey with the <b>Medical Center Compounding Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.<br/>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### Xera Lab Website
 
 Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.<br/>
