@@ -52,7 +52,11 @@ Experience the future of dental product procurement. Explore Compass Med today!<
 </ul>
 <br/>
 
-<p><a href="https://alpha.yelo-dev.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
+<p>Admin Dashboard: <a href="https://alpha.yelo-dev.com/en/admin" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
+  
+<p>B2B: <a href="https://alpha.yelo-dev.com/en/company" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
+  
+<p>B2C: <a href="https://alpha.yelo-dev.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
 
 <hr>
 
