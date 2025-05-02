@@ -17,28 +17,6 @@
 
 <h2> Samples from my projects </h2>
 
-### Compass med Website
-
-Introducing the <b>Compass Med</b> website: Your gateway to quality dental equipment. With a decade of expertise in setting healthcare standards, particularly in dentistry, we offer an e-commerce platform tailored for dentists.<br/>
-
-<h3>Key features include:</h3> <br/>
-
-<ul>
-  <li>User-friendly dashboard for seamless management</li>
-  <li>Wallet and coupon system for added convenience</li>
-  <li>Shipping and stock management for efficient operations</li>
-  <li>Product recommendations for informed choices</li>
-  <li>Detailed reports, admin activity, and role management</li>
-  <li>Seamless integration with Odoo via external API</li>
-  <li>Fawaterk integration for secure payments</li>
-</ul>
-<br/>
-Experience the future of dental product procurement. Explore Compass Med today!<br/><br/>
-
-<p><a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
-
-<hr>
-
 ### Yelo Sale
 
 <b>Yelo Sale</b> Recognized as a leading car rental brand in the region, Yelo operates over 90 branches across 23 cities in Saudi Arabia, with locations at key airports in KSA, Dubai, and Cairo. Committed to exceptional customer service, Yelo offers a seamless booking experience through its website and app. Its loyalty program, Amyali, redefines customer rewards by enhancing rental experiences and providing exclusive privileges. Guided by its vision to exceed client expectations, Yelo ensures a stress-free and customer-centric car rental journey. <br/>
@@ -72,6 +50,64 @@ Experience the future of dental product procurement. Explore Compass Med today!<
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
 </p>
+
+<hr>
+
+### Phonic Maps
+
+Phonic Maps is a centralized platform for managing business locations and data across multiple providers like Google, Facebook, Instagram, X (Twitter), and more.
+It serves as a single source of truth for all location-based information, enabling businesses to:
+
+<ul>
+   <li>📍 Sync, Import and manage location details across various platforms </li>
+   <li>💬 Collect and organize reviews from multiple sources </li>  
+   <li>📈 Track engagement and interactions in one dashboard </li>
+   <li>🔗 Unify presence and simplify updates across all connected services </li>
+</ul>
+This tool empowers customers to control their brand visibility and data with ease, without switching between different provider dashboards.
+
+<p>
+  Admin Dashboard: 
+  <a href="http://alpha.phonicmaps.com/admin" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
+  </a>
+</p>
+
+<p>
+  App Platform: 
+  <a href="http://alpha.phonicmaps.com/app" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
+  </a>
+</p>
+
+<p>
+  B2C Platform: 
+  <a href="http://alpha.phonicmaps.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
+  </a>
+</p>
+
+<hr>
+
+### Compass med
+
+Introducing the <b>Compass Med</b> website: Your gateway to quality dental equipment. With a decade of expertise in setting healthcare standards, particularly in dentistry, we offer an e-commerce platform tailored for dentists.<br/>
+
+<h3>Key features include:</h3> <br/>
+
+<ul>
+  <li>User-friendly dashboard for seamless management</li>
+  <li>Wallet and coupon system for added convenience</li>
+  <li>Shipping and stock management for efficient operations</li>
+  <li>Product recommendations for informed choices</li>
+  <li>Detailed reports, admin activity, and role management</li>
+  <li>Seamless integration with Odoo via external API</li>
+  <li>Fawaterk integration for secure payments</li>
+</ul>
+<br/>
+Experience the future of dental product procurement. Explore Compass Med today!<br/><br/>
+
+<p><a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
 
 <hr>
 
@@ -118,7 +154,7 @@ Transform your health journey with the <b>Medical Center Compounding Pharmacy</b
 
 <hr>
 
-### Xera Lab Website
+### Xera Lab
 
 Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.<br/>
 
