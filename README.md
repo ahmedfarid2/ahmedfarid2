@@ -28,21 +28,21 @@
 <br/>
 
 <p>
-  Admin Dashboard: 
+  Admin Dashboard: </br>
   <a href="https://alpha.yelo-dev.com/en/admin" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
 </p>
 
 <p>
-  B2B Platform: 
+  B2B Platform: </br>
   <a href="https://alpha.yelo-dev.com/en/company" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
 </p>
 
 <p>
-  B2C Platform: 
+  B2C Platform: </br>
   <a href="https://alpha.yelo-dev.com/en" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
@@ -64,21 +64,21 @@ It serves as a single source of truth for all location-based information, enabli
 This tool empowers customers to control their brand visibility and data with ease, without switching between different provider dashboards.
 
 <p>
-  Admin Dashboard: 
+  Admin Dashboard: </br>
   <a href="http://alpha.phonicmaps.com/admin" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
 </p>
 
 <p>
-  App Platform: 
+  App Platform: </br>
   <a href="http://alpha.phonicmaps.com/app" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
 </p>
 
 <p>
-  B2C Platform: 
+  B2C Platform: </br>
   <a href="http://alpha.phonicmaps.com" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
@@ -115,7 +115,8 @@ Experience the future of dental product procurement. Explore Compass Med today!<
 
 <p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-<p><b>Fixawy Fixer: </b><a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<p><b>Fixawy Fixer: </b> </br>
+<a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
 <hr>
 
@@ -155,6 +156,10 @@ Transform your health journey with the <b>Medical Center Compounding Pharmacy</b
 
 Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.<br/>
 
-<h3>Comming Soon(under Development)</h3> <br/>
+<h3>Comming Soon(under Development)</h3>
 
-<p><a href="http://xeralab.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
+<hr>
+
+### Ofoq App
+
+Ofoq is a mobile application designed to connect households in Saudi Arabia with trusted service workers for home responsibilities such as cleaning, maintenance, and support tasks.
