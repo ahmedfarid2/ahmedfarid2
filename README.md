@@ -156,8 +156,6 @@ Transform your health journey with the <b>Medical Center Compounding Pharmacy</b
 
 Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.<br/>
 
-<h3>Comming Soon(under Development)</h3>
-
 <hr>
 
 ### Ofoq App
