@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+  workflow_dispatch:       # allow manual run
+
+permissions:
+  contents: write          # needed to push the generated file
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Generate the SVG to ./dist/snake.svg
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ahmedfarid2   # <-- change if different
+          outputs: dist/snake.svg
+
+      # Publish ./dist/* to the "output" branch (created if missing)
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
