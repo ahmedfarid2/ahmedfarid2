@@ -5,6 +5,12 @@
 
 <hr>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi!+I'm+Ahmed+Farid;Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  </a>
+</p>
+
 <h2> Keep in Touch </h2>
 
 <p> <a href="mailto:ahmedfareed2025@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/details/featured/1750960332667/single-media-viewer/?profileId=ACoAADeBkOYB6O_rbWtqld6CsWkhtTkpduSbKXo" target="_blank"><img alt="View My CV" src="https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge" /></a> <a href="http://wa.me/201013996079" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.behance.net/ahmedfarid20" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a> <a href="https://www.facebook.com/ahmed.fareed.79677/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <p>
@@ -90,8 +96,6 @@
 
 <hr>
 
-###
-
 <h3 align="left">🏆 GitHub Trophies:</h3>
 
 <div align="left">
@@ -115,6 +119,8 @@
 <img src="https://raw.githubusercontent.com/ahmedfarid2/ahmedfarid2/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<hr>
 
 <h2> Samples from my projects </h2>
 
