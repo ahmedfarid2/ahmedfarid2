@@ -29,21 +29,21 @@
 
 <p>
   Admin Dashboard: </br>
-  <a href="https://alpha.yelo-dev.com/en/admin" target="_blank">
+  <a href="https://sales.iyelo.com/en/admin" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
 </p>
 
 <p>
   B2B Platform: </br>
-  <a href="https://alpha.yelo-dev.com/en/company" target="_blank">
+  <a href="https://sales.iyelo.com/en/company" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
 </p>
 
 <p>
   B2C Platform: </br>
-  <a href="https://alpha.yelo-dev.com/en" target="_blank">
+  <a href="https://sales.iyelo.com/en/customer" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
   </a>
 </p>
