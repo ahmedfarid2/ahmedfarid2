@@ -109,10 +109,18 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfarid2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfarid2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahmedfarid2&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfarid2&layout=compact&langs_count=6&hide=jupyter%20notebook&card_width=360&theme=dark&hide_border=false"
+    height="150"
+    alt="Top languages"
+  />
+</p>
 
 ###
 
