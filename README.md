@@ -204,6 +204,28 @@ This tool empowers customers to control their brand visibility and data with eas
 
 <hr>
 
+### Recovery Advisers
+
+**Recovery Advisers** is a comprehensive management system built to streamline company operations, case handling, HR functions, and more. It integrates an admin dashboard, employee & HR modules, and advanced tools to ensure smooth workflow and oversight.
+
+## 🛠️ Features
+
+Here are the key modules and functionalities:
+
+| Module | Description |
+|---|---|
+| **Admin Panel** | Central control interface for managing companies, roles, permissions, settings, and system-wide configurations. |
+| **Case Management / Action Cases** | Track, assign, update, and monitor company action cases. Maintain case histories, status, deadlines, and associated data. |
+| **HR / Employee Module** | Employee profiles, attendance, leave management, recruitment workflows, performance reviews, payroll (if applicable) |
+| **Role-based Access Control (RBAC)** | Define user roles (Admin, Manager, HR, Staff, etc) and permissions per module. |
+| **Notifications / Alerts** | Email or in-app alerts for upcoming deadlines, new assignments, or status changes. |
+| **Reports & Analytics** | Generate reports and dashboards: overall activity, case progress, HR metrics, etc. |
+| **Audit / Logging** | Keep logs of actions (who did what when) for transparency and security. |
+
+<p><a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
+
+<hr>
+
 ### Compass med
 
 Introducing the <b>Compass Med</b> website: Your gateway to quality dental equipment. With a decade of expertise in setting healthcare standards, particularly in dentistry, we offer an e-commerce platform tailored for dentists.<br/>
