@@ -140,9 +140,9 @@
 
 A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Saudi Arabia, with airport locations in KSA, Dubai &amp; Cairo). Ships admin, B2B and B2C portals plus the <b>Amyali</b> loyalty &amp; rewards program.
 
-<b>🛠 Stack:</b> Laravel · Next.js · Flutter · MySQL · PayFort / Amazon Payment Services · SMS Gateway · REST API<br/>
+<b>🛠 Stack:</b> Laravel · Next.js · Flutter · MySQL · PayFort / Amazon Payment Services · Infinito SMS · Yelo ERP · REST API<br/>
 <b>👤 Role:</b> Full-Stack Developer — Laravel back-end, Next.js front-end &amp; Flutter mobile app<br/>
-<b>✨ Highlights:</b> Admin dashboard · B2B &amp; B2C modules · mobile app · PayFort (AWS) payment integration · SMS notifications · loyalty &amp; rewards
+<b>✨ Highlights:</b> Admin dashboard · B2B &amp; B2C modules · mobile app · PayFort (AWS) payment integration · Infinito SMS notifications · Yelo ERP integration · loyalty &amp; rewards
 
 <p>
   <a href="https://sales.iyelo.com/en/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
