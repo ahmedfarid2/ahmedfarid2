@@ -74,15 +74,11 @@
 
 <p align="left"><b>AI</b></p>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="64" alt="ChatGPT (OpenAI)" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="64" alt="Claude" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" height="64" alt="OpenAI Codex" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="64" alt="Cursor" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openrouter.svg" height="64" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="36" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="36" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openrouter&logoColor=white" height="36" alt="OpenRouter" />
 </p>
 
 <hr>
