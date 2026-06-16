@@ -18,97 +18,44 @@
 
 <hr>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages &amp; Tools</h3>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+<p align="left"><b>Languages</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,dart,py,html,css" height="48" alt="PHP, JavaScript, TypeScript, Dart, Python, HTML, CSS" />
+</p>
 
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+<p align="left"><b>Frameworks &amp; Libraries</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,nextjs,flutter,fastapi,bootstrap,tailwind,materialui" height="48" alt="Laravel, Node.js, Express, React, Next.js, Flutter, FastAPI, Bootstrap, Tailwind, Material UI" />
+</p>
 
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+<p align="left"><b>Databases</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="48" alt="MySQL, PostgreSQL, MongoDB, Redis" />
+</p>
 
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="60" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo"  />
-  
-  <img width="24" />
-  <img src="https://cdn.simpleicons.org/openai/74aa9c" height="40" alt="ChatGPT logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="40" alt="Claude AI symbol" />
-</div>
+<p align="left"><b>DevOps &amp; Cloud</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,cloudflare,nginx,linux,ubuntu,githubactions" height="48" alt="Docker, AWS, GCP, Firebase, Cloudflare, Nginx, Linux, Ubuntu, GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="Apache" />
+</p>
+
+<p align="left"><b>Tools</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,replit" height="48" alt="Git, GitHub, Postman, Figma, Notion, Replit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48" alt="Swagger" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira" />
+</p>
+
+<p align="left"><b>AI</b></p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="44" alt="ChatGPT (OpenAI)" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="44" alt="Claude" />
+</p>
 
 <hr>
 
