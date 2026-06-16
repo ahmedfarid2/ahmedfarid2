@@ -132,8 +132,6 @@
 
 <h2 align="center">💼 Samples from My Projects</h2>
 
-<sub><i>⚙️ Tech stacks below are indicative — adjust any that don't match what you actually used.</i></sub>
-
 <br/>
 
 <details open>
