@@ -140,14 +140,19 @@
 
 A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Saudi Arabia, with airport locations in KSA, Dubai &amp; Cairo). Ships admin, B2B and B2C portals plus the <b>Amyali</b> loyalty &amp; rewards program.
 
-<b>🛠 Stack:</b> Laravel · MySQL · Redis · REST API · Tailwind CSS<br/>
-<b>👤 Role:</b> Full-Stack Developer<br/>
-<b>✨ Highlights:</b> Admin dashboard · B2B module · B2C module · loyalty &amp; rewards
+<b>🛠 Stack:</b> Next.js · Laravel · Flutter · MySQL · REST API<br/>
+<b>👤 Role:</b> Full-Stack Developer — Next.js front-end, Laravel back-end &amp; Flutter mobile app<br/>
+<b>✨ Highlights:</b> Admin dashboard · B2B module · B2C module · mobile app · loyalty &amp; rewards
 
 <p>
   <a href="https://sales.iyelo.com/en/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://sales.iyelo.com/en/company" target="_blank"><img alt="B2B Platform" src="https://img.shields.io/badge/B2B-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://sales.iyelo.com/en/customer" target="_blank"><img alt="B2C Platform" src="https://img.shields.io/badge/B2C-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.yelo_sale.mobile" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+  <a href="https://apps.apple.com/us/app/%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D9%8A%D9%84%D9%88-yelo-sales/id6766059397" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 </p>
 
 </details>
