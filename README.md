@@ -68,19 +68,21 @@
   <img src="https://cdn.simpleicons.org/googlechat/00AC47" height="42" alt="Google Chat" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/clickup/7B68EE" height="42" alt="ClickUp" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/asana/F06A6A" height="42" alt="Asana" />
 </p>
 
 <p align="left"><b>AI</b></p>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="56" alt="ChatGPT (OpenAI)" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="64" alt="ChatGPT (OpenAI)" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="56" alt="Claude" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="64" alt="Claude" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" height="56" alt="OpenAI Codex" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" height="64" alt="OpenAI Codex" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="56" alt="Cursor" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="64" alt="Cursor" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openrouter.svg" height="56" alt="OpenRouter" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openrouter.svg" height="64" alt="OpenRouter" />
 </p>
 
 <hr>
