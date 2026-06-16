@@ -35,6 +35,9 @@
 <p align="left"><b>Databases</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="48" alt="MySQL, PostgreSQL, MongoDB, Redis" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="48" alt="MariaDB" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" height="48" alt="InfluxDB" />
 </p>
 
@@ -54,20 +57,23 @@
 <p align="left"><b>Collaboration</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=discord" height="48" alt="Discord" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="48" alt="Slack" />
-  <img src="https://cdn.simpleicons.org/googlechat/00AC47" height="44" alt="Google Chat" />
-  <img src="https://cdn.simpleicons.org/clickup/7B68EE" height="44" alt="ClickUp" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="44" alt="Slack" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlechat/00AC47" height="42" alt="Google Chat" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/clickup/7B68EE" height="42" alt="ClickUp" />
 </p>
 
 <p align="left"><b>AI</b></p>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="48" alt="ChatGPT (OpenAI)" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="48" alt="Claude" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" height="48" alt="OpenAI Codex" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="48" alt="Cursor" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="56" alt="ChatGPT (OpenAI)" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="56" alt="Claude" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" height="56" alt="OpenAI Codex" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="56" alt="Cursor" />
 </p>
 
 <hr>
