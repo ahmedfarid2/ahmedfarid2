@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Farid&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn" alt="Ahmed Farid" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Farid&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Software%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" alt="Ahmed Farid" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🚀 Results-driven <b>Software Engineer</b> &amp; <b>Full-Stack Developer</b> building scalable web &amp; mobile apps<br/>
+  🚀 Results-driven <b>Software Engineer</b> building scalable web &amp; mobile apps<br/>
   with <b>Laravel</b>, <b>Flutter</b>, and modern JavaScript frameworks &nbsp;·&nbsp; based in Cairo, Egypt 🇪🇬
 </p>
 
@@ -143,7 +143,7 @@ A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Sa
 <b>🛠 Stack:</b> Laravel · Next.js · Flutter · MySQL · REST API<br/>
 <b>🔌 Integrations:</b> PayFort / Amazon Payment Services · Infinito SMS · Yelo ERP<br/>
 <b>🚀 DevOps:</b> Docker · Docker Compose · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS RDS · branch-based alpha / beta / prod deployments<br/>
-<b>👤 Role:</b> Full-Stack Developer — Laravel back-end, Next.js front-end &amp; Flutter mobile app<br/>
+<b>👤 Role:</b> Software Engineer — Laravel back-end, Next.js front-end &amp; Flutter mobile app<br/>
 <b>✨ Highlights:</b> Admin dashboard · B2B &amp; B2C modules · mobile app · automated CI/CD to alpha, beta &amp; production · loyalty &amp; rewards
 
 <p>
@@ -166,7 +166,7 @@ A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Sa
 A centralized platform that unifies business locations and data across <b>Google, Facebook, Instagram, X (Twitter)</b> and more — a single source of truth so businesses manage everything from one dashboard instead of juggling provider portals.
 
 <b>🛠 Stack:</b> Laravel · MySQL · Queues/Jobs · Google / Meta / X APIs · REST API<br/>
-<b>👤 Role:</b> Full-Stack Developer<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Multi-provider location sync · review aggregation · engagement analytics · unified updates
 
 <p>
@@ -184,7 +184,7 @@ A centralized platform that unifies business locations and data across <b>Google
 A comprehensive management system that streamlines company operations — case handling, HR, role-based access, notifications and reporting — through a single admin dashboard.
 
 <b>🛠 Stack:</b> Laravel · MySQL · Role-Based Access Control · REST API<br/>
-<b>👤 Role:</b> Full-Stack Developer<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Admin panel · case / action management · HR &amp; employee module · RBAC · notifications &amp; alerts · reports &amp; analytics · audit logging
 
 <p><a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
@@ -198,7 +198,7 @@ A comprehensive management system that streamlines company operations — case h
 A B2B e-commerce platform for dental equipment, tailored for dentists — with wallet, coupons, stock &amp; shipping management, product recommendations and secure payments, synced to Odoo.
 
 <b>🛠 Stack:</b> Laravel · MySQL · Odoo API · Fawaterk payments · Tailwind CSS<br/>
-<b>👤 Role:</b> Full-Stack Developer<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Wallet &amp; coupons · stock &amp; shipping · product recommendations · Odoo integration · roles &amp; reports
 
 <p><a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
@@ -212,7 +212,7 @@ A B2B e-commerce platform for dental equipment, tailored for dentists — with w
 A home-services marketplace connecting customers in Egypt with vetted professionals for maintenance, appliance repair and utilities — a customer app plus a dedicated <b>Fixer</b> app for service providers.
 
 <b>🛠 Stack:</b> Laravel · Flutter · MySQL · Firebase (push notifications) · REST API<br/>
-<b>👤 Role:</b> Full-Stack &amp; Mobile Developer<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Service booking · provider (Fixer) app · scheduling · in-app notifications
 
 <p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -229,7 +229,7 @@ A home-services marketplace connecting customers in Egypt with vetted profession
 A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medical equipment, read health news and connect directly with pharmacists.
 
 <b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
-<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Prescription management · medical-equipment catalog · health news · pharmacist contact
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -243,7 +243,7 @@ A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medi
 A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and transfer prescriptions, book appointments and follow health news in one place.
 
 <b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
-<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -257,7 +257,7 @@ A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and tra
 A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescription transfers, appointment scheduling and medication reminders.
 
 <b>🛠 Stack:</b> Flutter · Firebase · Local Notifications · REST API<br/>
-<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Refills &amp; transfers · appointment scheduling · medication reminders · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -271,7 +271,7 @@ A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescript
 A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescriptions, book appointments and stay up to date with health news.
 
 <b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
-<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -285,7 +285,7 @@ A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescrip
 A dental-outsourcing platform positioning itself as a global dental outsource partner — connecting labs, manufacturers and dentists so they can scale faster.
 
 <b>🛠 Stack:</b> Laravel · MySQL · REST API<br/>
-<b>👤 Role:</b> Full-Stack Developer<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Lab–dentist marketplace · order &amp; case management · multi-party workflow
 
 </details>
@@ -297,7 +297,7 @@ A dental-outsourcing platform positioning itself as a global dental outsource pa
 A home-services app for the Saudi market connecting households with trusted workers for cleaning, maintenance and household tasks.
 
 <b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
-<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Service booking · worker matching · scheduling
 
 </details>
