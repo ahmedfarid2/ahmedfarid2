@@ -24,7 +24,7 @@
 
 <p align="left"><b>Languages</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,dart,py,html,css" height="48" alt="PHP, JavaScript, TypeScript, Dart, Python, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,dart,py,go,html,css" height="48" alt="PHP, JavaScript, TypeScript, Dart, Python, Go, HTML, CSS" />
 </p>
 
 <p align="left"><b>Frameworks &amp; Libraries</b></p>
