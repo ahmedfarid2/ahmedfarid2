@@ -1,9 +1,4 @@
-<h2> Hi there, I'm Ahmed Farid 👋 </h2>
-
-- Software Engineer
-- Full Stack Developer
-
-<hr>
+<h1 align="center">Hi 👋, I'm Ahmed Farid</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/">
@@ -11,14 +6,27 @@
   </a>
 </p>
 
-<h2> Keep in Touch </h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedfarid2&label=Profile%20views&color=00FFAA&style=flat" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/ahmedfarid2?tab=followers"><img src="https://img.shields.io/github/followers/ahmedfarid2?label=Followers&style=flat&color=00FFAA" alt="Followers" /></a>
+</p>
 
-<p> <a href="mailto:ahmedfareed2025@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/details/featured/1750960332667/single-media-viewer/?profileId=ACoAADeBkOYB6O_rbWtqld6CsWkhtTkpduSbKXo" target="_blank"><img alt="View My CV" src="https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge" /></a> <a href="http://wa.me/201013996079" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.behance.net/ahmedfarid20" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a> <a href="https://www.facebook.com/ahmed.fareed.79677/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <p>
+<p align="center">
+  🚀 Results-driven <b>Software Engineer</b> &amp; <b>Full-Stack Developer</b> building scalable web &amp; mobile apps<br/>
+  with <b>Laravel</b>, <b>Flutter</b>, and modern JavaScript frameworks &nbsp;·&nbsp; based in Cairo, Egypt 🇪🇬
+</p>
+
+<hr>
+
+<h3 align="center">📫 Keep in Touch</h3>
+
+<p align="center"> <a href="mailto:ahmedfareed2025@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/details/featured/1750960332667/single-media-viewer/?profileId=ACoAADeBkOYB6O_rbWtqld6CsWkhtTkpduSbKXo" target="_blank"><img alt="View My CV" src="https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge" /></a> <a href="http://wa.me/201013996079" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.behance.net/ahmedfarid20" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a> <a href="https://www.facebook.com/ahmed.fareed.79677/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <p>
 <!-- <a href="https://youtube.com/@ahmedfarid4034?si=Nh_OUyiEMpfrGMaf" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a> -->
 
 <hr>
 
-<h3 align="left">🛠 Languages &amp; Tools</h3>
+<h3 align="center">🛠 Languages &amp; Tools</h3>
 
 ###
 
@@ -83,19 +91,17 @@
 
 <hr>
 
-<h3 align="left">🔥 GitHub Streak:</h3>
+<h3 align="center">🔥 GitHub Streak</h3>
 
-<div align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedfarid2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">📊 My Stats</h3>
 
-###
-
-<p align="left">
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ahmedfarid2&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false"
     height="150"
@@ -110,13 +116,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahmedfarid2/ahmedfarid2/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedfarid2/ahmedfarid2/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
 <hr>
 
-<h2> Samples from my projects </h2>
+<h2 align="center">💼 Samples from My Projects</h2>
 
 ### Yelo Sale
 
