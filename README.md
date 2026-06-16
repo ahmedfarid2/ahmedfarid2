@@ -37,7 +37,7 @@
 
 <p align="left"><b>Frameworks &amp; Libraries</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,nextjs,flutter,fastapi,bootstrap,tailwind,materialui" height="48" alt="Laravel, Node.js, Express, React, Next.js, Flutter, FastAPI, Bootstrap, Tailwind, Material UI" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,nextjs,flutter,fastapi,bootstrap,tailwind,materialui,vite,sass" height="48" alt="Laravel, Node.js, Express, React, Next.js, Flutter, FastAPI, Bootstrap, Tailwind, Material UI, Vite, Sass" />
 </p>
 
 <p align="left"><b>Databases</b></p>
@@ -53,7 +53,7 @@
 
 <p align="left"><b>DevOps &amp; Cloud</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,cloudflare,nginx,linux,ubuntu,githubactions,grafana,sentry" height="48" alt="Docker, AWS, GCP, Firebase, Cloudflare, Nginx, Linux, Ubuntu, GitHub Actions, Grafana, Sentry" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,cloudflare,nginx,linux,ubuntu,githubactions,grafana,sentry,vercel" height="48" alt="Docker, AWS, GCP, Firebase, Cloudflare, Nginx, Linux, Ubuntu, GitHub Actions, Grafana, Sentry, Vercel" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="Apache" />
   &nbsp;&nbsp;
@@ -323,4 +323,4 @@ Ofoq is a mobile application designed to connect households in Saudi Arabia with
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" />
