@@ -132,41 +132,24 @@
 
 <h2 align="center">💼 Samples from My Projects</h2>
 
+<sub><i>⚙️ Tech stacks below are indicative — adjust any that don't match what you actually used.</i></sub>
+
 <br/>
 
 <details open>
 <summary><b>🚗 Yelo Sale</b></summary>
 <br/>
 
-<b>Yelo Sale</b> Recognized as a leading car rental brand in the region, Yelo operates over 90 branches across 23 cities in Saudi Arabia, with locations at key airports in KSA, Dubai, and Cairo. Committed to exceptional customer service, Yelo offers a seamless booking experience through its website and app. Its loyalty program, Amyali, redefines customer rewards by enhancing rental experiences and providing exclusive privileges. Guided by its vision to exceed client expectations, Yelo ensures a stress-free and customer-centric car rental journey. <br/>
+A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Saudi Arabia, with airport locations in KSA, Dubai &amp; Cairo). Ships admin, B2B and B2C portals plus the <b>Amyali</b> loyalty &amp; rewards program.
 
-<h4>Key features include:</h4>
-
-<ul>
-  <li>Admin Dashboard for seamless management</li>
-  <li>B2B Module</li>
-  <li>B2C Module</li>
-</ul>
+<b>🛠 Stack:</b> Laravel · MySQL · Redis · REST API · Tailwind CSS<br/>
+<b>👤 Role:</b> Full-Stack Developer<br/>
+<b>✨ Highlights:</b> Admin dashboard · B2B module · B2C module · loyalty &amp; rewards
 
 <p>
-  Admin Dashboard: </br>
-  <a href="https://sales.iyelo.com/en/admin" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
-  </a>
-</p>
-
-<p>
-  B2B Platform: </br>
-  <a href="https://sales.iyelo.com/en/company" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
-  </a>
-</p>
-
-<p>
-  B2C Platform: </br>
-  <a href="https://sales.iyelo.com/en/customer" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
-  </a>
+  <a href="https://sales.iyelo.com/en/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://sales.iyelo.com/en/company" target="_blank"><img alt="B2B Platform" src="https://img.shields.io/badge/B2B-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://sales.iyelo.com/en/customer" target="_blank"><img alt="B2C Platform" src="https://img.shields.io/badge/B2C-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 </details>
@@ -175,36 +158,16 @@
 <summary><b>📍 Phonic Maps</b></summary>
 <br/>
 
-Phonic Maps is a centralized platform for managing business locations and data across multiple providers like Google, Facebook, Instagram, X (Twitter), and more.
-It serves as a single source of truth for all location-based information, enabling businesses to:
+A centralized platform that unifies business locations and data across <b>Google, Facebook, Instagram, X (Twitter)</b> and more — a single source of truth so businesses manage everything from one dashboard instead of juggling provider portals.
 
-<ul>
-   <li>📍 Sync, Import and manage location details across various platforms </li>
-   <li>💬 Collect and organize reviews from multiple sources </li>
-   <li>📈 Track engagement and interactions in one dashboard </li>
-   <li>🔗 Unify presence and simplify updates across all connected services </li>
-</ul>
-This tool empowers customers to control their brand visibility and data with ease, without switching between different provider dashboards.
+<b>🛠 Stack:</b> Laravel · MySQL · Queues/Jobs · Google / Meta / X APIs · REST API<br/>
+<b>👤 Role:</b> Full-Stack Developer<br/>
+<b>✨ Highlights:</b> Multi-provider location sync · review aggregation · engagement analytics · unified updates
 
 <p>
-  Admin Dashboard: </br>
-  <a href="http://alpha.phonicmaps.com/admin" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
-  </a>
-</p>
-
-<p>
-  App Platform: </br>
-  <a href="http://alpha.phonicmaps.com/app" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
-  </a>
-</p>
-
-<p>
-  B2C Platform: </br>
-  <a href="http://alpha.phonicmaps.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="vertical-align: middle;" />
-  </a>
+  <a href="http://alpha.phonicmaps.com/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="http://alpha.phonicmaps.com/app" target="_blank"><img alt="App Platform" src="https://img.shields.io/badge/App-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="http://alpha.phonicmaps.com" target="_blank"><img alt="B2C Platform" src="https://img.shields.io/badge/B2C-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 </details>
@@ -213,21 +176,13 @@ This tool empowers customers to control their brand visibility and data with eas
 <summary><b>⚖️ Recovery Advisers</b></summary>
 <br/>
 
-<b>Recovery Advisers</b> is a comprehensive management system built to streamline company operations, case handling, HR functions, and more. It integrates an admin dashboard, employee &amp; HR modules, and advanced tools to ensure smooth workflow and oversight.
+A comprehensive management system that streamlines company operations — case handling, HR, role-based access, notifications and reporting — through a single admin dashboard.
 
-<b>🛠️ Features</b>
+<b>🛠 Stack:</b> Laravel · MySQL · Role-Based Access Control · REST API<br/>
+<b>👤 Role:</b> Full-Stack Developer<br/>
+<b>✨ Highlights:</b> Admin panel · case / action management · HR &amp; employee module · RBAC · notifications &amp; alerts · reports &amp; analytics · audit logging
 
-| Module | Description |
-|---|---|
-| **Admin Panel** | Central control interface for managing companies, roles, permissions, settings, and system-wide configurations. |
-| **Case Management / Action Cases** | Track, assign, update, and monitor company action cases. Maintain case histories, status, deadlines, and associated data. |
-| **HR / Employee Module** | Employee profiles, attendance, leave management, recruitment workflows, performance reviews, payroll (if applicable) |
-| **Role-based Access Control (RBAC)** | Define user roles (Admin, Manager, HR, Staff, etc) and permissions per module. |
-| **Notifications / Alerts** | Email or in-app alerts for upcoming deadlines, new assignments, or status changes. |
-| **Reports & Analytics** | Generate reports and dashboards: overall activity, case progress, HR metrics, etc. |
-| **Audit / Logging** | Keep logs of actions (who did what when) for transparency and security. |
-
-<p><a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
+<p><a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
 
 </details>
 
@@ -235,22 +190,13 @@ This tool empowers customers to control their brand visibility and data with eas
 <summary><b>🦷 Compass Med</b></summary>
 <br/>
 
-Introducing the <b>Compass Med</b> website: Your gateway to quality dental equipment. With a decade of expertise in setting healthcare standards, particularly in dentistry, we offer an e-commerce platform tailored for dentists.<br/>
+A B2B e-commerce platform for dental equipment, tailored for dentists — with wallet, coupons, stock &amp; shipping management, product recommendations and secure payments, synced to Odoo.
 
-<h4>Key features include:</h4>
+<b>🛠 Stack:</b> Laravel · MySQL · Odoo API · Fawaterk payments · Tailwind CSS<br/>
+<b>👤 Role:</b> Full-Stack Developer<br/>
+<b>✨ Highlights:</b> Wallet &amp; coupons · stock &amp; shipping · product recommendations · Odoo integration · roles &amp; reports
 
-<ul>
-  <li>User-friendly dashboard for seamless management</li>
-  <li>Wallet and coupon system for added convenience</li>
-  <li>Shipping and stock management for efficient operations</li>
-  <li>Product recommendations for informed choices</li>
-  <li>Detailed reports, admin activity, and role management</li>
-  <li>Seamless integration with Odoo via external API</li>
-  <li>Fawaterk integration for secure payments</li>
-</ul>
-Experience the future of dental product procurement. Explore Compass Med today!
-
-<p><a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
+<p><a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
 
 </details>
 
@@ -258,11 +204,15 @@ Experience the future of dental product procurement. Explore Compass Med today!
 <summary><b>🔧 Fixawy</b></summary>
 <br/>
 
-<b>Fixawy</b> offers the top experts in maintenance, appliance repairs, utilities, repair and upkeep, and other professional local services in Egypt. We built our services and technology based on customer needs and requirements.
+A home-services marketplace connecting customers in Egypt with vetted professionals for maintenance, appliance repair and utilities — a customer app plus a dedicated <b>Fixer</b> app for service providers.
 
-<p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+<b>🛠 Stack:</b> Flutter · Laravel · MySQL · Firebase (push notifications) · REST API<br/>
+<b>👤 Role:</b> Full-Stack &amp; Mobile Developer<br/>
+<b>✨ Highlights:</b> Service booking · provider (Fixer) app · scheduling · in-app notifications
 
-<p><b>Fixawy Fixer: </b> </br>
+<p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+
+<p><b>Fixawy Fixer (provider app):</b><br/>
 <a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
 
 </details>
@@ -271,7 +221,11 @@ Experience the future of dental product procurement. Explore Compass Med today!
 <summary><b>💊 J&amp;D Pharmacy App</b></summary>
 <br/>
 
-Experience trusted healthcare services at your fingertips with the <b>J&amp;D Pharmacy</b> App. Manage prescriptions, access health news, explore medical equipment, and connect with pharmacy professionals—all in one place. Download now for personalized care and convenience!
+A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medical equipment, read health news and connect directly with pharmacists.
+
+<b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
+<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>✨ Highlights:</b> Prescription management · medical-equipment catalog · health news · pharmacist contact
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
@@ -281,7 +235,11 @@ Experience trusted healthcare services at your fingertips with the <b>J&amp;D Ph
 <summary><b>🧪 Medical Compounding Pharmacy App</b></summary>
 <br/>
 
-Transform your health journey with the <b>Medical Center Compounding Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.
+A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and transfer prescriptions, book appointments and follow health news in one place.
+
+<b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
+<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
@@ -291,7 +249,11 @@ Transform your health journey with the <b>Medical Center Compounding Pharmacy</b
 <summary><b>⚡ Quick RX App</b></summary>
 <br/>
 
-Ultimate digital solution with the <b>Quick Rx</b> App. User-friendly mobile application streamlining pharmacy services with features such as prescription refills, patient transfers, health news updates, appointment scheduling, and medication reminders to enhance health management.
+A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescription transfers, appointment scheduling and medication reminders.
+
+<b>🛠 Stack:</b> Flutter · Firebase · Local Notifications · REST API<br/>
+<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>✨ Highlights:</b> Refills &amp; transfers · appointment scheduling · medication reminders · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
@@ -301,7 +263,11 @@ Ultimate digital solution with the <b>Quick Rx</b> App. User-friendly mobile app
 <summary><b>🏥 Holland Pharmacy App</b></summary>
 <br/>
 
-Transform your health journey with the <b>Holland Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.
+A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescriptions, book appointments and stay up to date with health news.
+
+<b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
+<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
@@ -311,7 +277,11 @@ Transform your health journey with the <b>Holland Pharmacy</b> App. Refill, tran
 <summary><b>🦷 Xera Lab</b></summary>
 <br/>
 
-Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.
+A dental-outsourcing platform positioning itself as a global dental outsource partner — connecting labs, manufacturers and dentists so they can scale faster.
+
+<b>🛠 Stack:</b> Laravel · MySQL · REST API<br/>
+<b>👤 Role:</b> Full-Stack Developer<br/>
+<b>✨ Highlights:</b> Lab–dentist marketplace · order &amp; case management · multi-party workflow
 
 </details>
 
@@ -319,7 +289,11 @@ Xera Lab is the world’s dental outsource partner, empowering labs, manufacture
 <summary><b>🏠 Ofoq App</b></summary>
 <br/>
 
-Ofoq is a mobile application designed to connect households in Saudi Arabia with trusted service workers for home responsibilities such as cleaning, maintenance, and support tasks.
+A home-services app for the Saudi market connecting households with trusted workers for cleaning, maintenance and household tasks.
+
+<b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
+<b>👤 Role:</b> Mobile Developer (Flutter)<br/>
+<b>✨ Highlights:</b> Service booking · worker matching · scheduling
 
 </details>
 
