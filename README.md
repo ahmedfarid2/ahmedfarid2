@@ -83,11 +83,10 @@
 
 <hr>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+<h3 align="left">🔥 GitHub Streak:</h3>
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ahmedfarid2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfarid2&theme=onestar&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ###
