@@ -35,6 +35,7 @@
 <p align="left"><b>Databases</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="48" alt="MySQL, PostgreSQL, MongoDB, Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" height="48" alt="InfluxDB" />
 </p>
 
 <p align="left"><b>DevOps &amp; Cloud</b></p>
@@ -52,9 +53,13 @@
 
 <p align="left"><b>AI</b></p>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="44" alt="ChatGPT (OpenAI)" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="48" alt="ChatGPT (OpenAI)" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="44" alt="Claude" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="48" alt="Claude" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" height="48" alt="OpenAI Codex" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="48" alt="Cursor" />
 </p>
 
 <hr>
