@@ -34,17 +34,22 @@
 
 <p align="left"><b>Databases</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="48" alt="MySQL, PostgreSQL, MongoDB, Redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase" height="48" alt="MySQL, PostgreSQL, MongoDB, Redis, Supabase" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="48" alt="MariaDB" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" height="48" alt="InfluxDB" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white" height="30" alt="pgvector (PostgreSQL vector DB)" />
 </p>
 
 <p align="left"><b>DevOps &amp; Cloud</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,cloudflare,nginx,linux,ubuntu,githubactions" height="48" alt="Docker, AWS, GCP, Firebase, Cloudflare, Nginx, Linux, Ubuntu, GitHub Actions" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="Apache" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" height="44" alt="Auth0" />
 </p>
 
 <p align="left"><b>Tools</b></p>
@@ -74,6 +79,8 @@
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" height="56" alt="OpenAI Codex" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="56" alt="Cursor" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openrouter.svg" height="56" alt="OpenRouter" />
 </p>
 
 <hr>
