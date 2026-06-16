@@ -51,6 +51,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira" />
 </p>
 
+<p align="left"><b>Collaboration</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=discord" height="48" alt="Discord" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="48" alt="Slack" />
+  <img src="https://cdn.simpleicons.org/googlechat/00AC47" height="44" alt="Google Chat" />
+  <img src="https://cdn.simpleicons.org/clickup/7B68EE" height="44" alt="ClickUp" />
+</p>
+
 <p align="left"><b>AI</b></p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="48" alt="ChatGPT (OpenAI)" />
