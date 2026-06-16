@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Farid</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Farid&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn" alt="Ahmed Farid" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/">
@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedfarid2&label=Profile%20views&color=00FFAA&style=flat" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/ahmedfarid2?tab=followers"><img src="https://img.shields.io/github/followers/ahmedfarid2?label=Followers&style=flat&color=00FFAA" alt="Followers" /></a>
+  <a href="https://github.com/ahmedfarid2?tab=followers"><img src="https://img.shields.io/badge/Follow-%40ahmedfarid2-00FFAA?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="Follow @ahmedfarid2" /></a>
 </p>
 
 <p align="center">
@@ -91,10 +91,18 @@
 
 <hr>
 
+<h3 align="center">💭 Dev Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<hr>
+
 <h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedfarid2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmedfarid2&locale=en&mode=daily&hide_border=true&border_radius=8&background=0D1117&border=30363D&stroke=30363D&ring=00FFAA&fire=00FFAA&currStreakNum=C9D1D9&currStreakLabel=00FFAA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&excludeDaysLabel=8B949E" height="165" alt="GitHub streak" />
 </p>
 
 ###
@@ -103,13 +111,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahmedfarid2&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false"
-    height="150"
+    src="https://github-readme-stats.vercel.app/api?username=ahmedfarid2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=C9D1D9"
+    height="165"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfarid2&layout=compact&langs_count=6&hide=jupyter%20notebook&card_width=360&theme=dark&hide_border=false"
-    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfarid2&layout=compact&langs_count=6&hide=jupyter%20notebook&card_width=360&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9"
+    height="165"
     alt="Top languages"
   />
 </p>
@@ -120,24 +128,25 @@
   <img src="https://raw.githubusercontent.com/ahmedfarid2/ahmedfarid2/output/snake.svg" alt="Snake animation" />
 </p>
 
-###
-
 <hr>
 
 <h2 align="center">💼 Samples from My Projects</h2>
 
-### Yelo Sale
+<br/>
+
+<details open>
+<summary><b>🚗 Yelo Sale</b></summary>
+<br/>
 
 <b>Yelo Sale</b> Recognized as a leading car rental brand in the region, Yelo operates over 90 branches across 23 cities in Saudi Arabia, with locations at key airports in KSA, Dubai, and Cairo. Committed to exceptional customer service, Yelo offers a seamless booking experience through its website and app. Its loyalty program, Amyali, redefines customer rewards by enhancing rental experiences and providing exclusive privileges. Guided by its vision to exceed client expectations, Yelo ensures a stress-free and customer-centric car rental journey. <br/>
 
-<h3>Key features include:</h3> <br/>
+<h4>Key features include:</h4>
 
 <ul>
   <li>Admin Dashboard for seamless management</li>
   <li>B2B Module</li>
   <li>B2C Module</li>
 </ul>
-<br/>
 
 <p>
   Admin Dashboard: </br>
@@ -160,16 +169,18 @@
   </a>
 </p>
 
-<hr>
+</details>
 
-### Phonic Maps
+<details>
+<summary><b>📍 Phonic Maps</b></summary>
+<br/>
 
 Phonic Maps is a centralized platform for managing business locations and data across multiple providers like Google, Facebook, Instagram, X (Twitter), and more.
 It serves as a single source of truth for all location-based information, enabling businesses to:
 
 <ul>
    <li>📍 Sync, Import and manage location details across various platforms </li>
-   <li>💬 Collect and organize reviews from multiple sources </li>  
+   <li>💬 Collect and organize reviews from multiple sources </li>
    <li>📈 Track engagement and interactions in one dashboard </li>
    <li>🔗 Unify presence and simplify updates across all connected services </li>
 </ul>
@@ -196,15 +207,15 @@ This tool empowers customers to control their brand visibility and data with eas
   </a>
 </p>
 
-<hr>
+</details>
 
-### Recovery Advisers
+<details>
+<summary><b>⚖️ Recovery Advisers</b></summary>
+<br/>
 
-**Recovery Advisers** is a comprehensive management system built to streamline company operations, case handling, HR functions, and more. It integrates an admin dashboard, employee & HR modules, and advanced tools to ensure smooth workflow and oversight.
+<b>Recovery Advisers</b> is a comprehensive management system built to streamline company operations, case handling, HR functions, and more. It integrates an admin dashboard, employee &amp; HR modules, and advanced tools to ensure smooth workflow and oversight.
 
-## 🛠️ Features
-
-Here are the key modules and functionalities:
+<b>🛠️ Features</b>
 
 | Module | Description |
 |---|---|
@@ -216,15 +227,17 @@ Here are the key modules and functionalities:
 | **Reports & Analytics** | Generate reports and dashboards: overall activity, case progress, HR metrics, etc. |
 | **Audit / Logging** | Keep logs of actions (who did what when) for transparency and security. |
 
-<p><a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
+<p><a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
 
-<hr>
+</details>
 
-### Compass med
+<details>
+<summary><b>🦷 Compass Med</b></summary>
+<br/>
 
 Introducing the <b>Compass Med</b> website: Your gateway to quality dental equipment. With a decade of expertise in setting healthcare standards, particularly in dentistry, we offer an e-commerce platform tailored for dentists.<br/>
 
-<h3>Key features include:</h3> <br/>
+<h4>Key features include:</h4>
 
 <ul>
   <li>User-friendly dashboard for seamless management</li>
@@ -235,63 +248,79 @@ Introducing the <b>Compass Med</b> website: Your gateway to quality dental equip
   <li>Seamless integration with Odoo via external API</li>
   <li>Fawaterk integration for secure payments</li>
 </ul>
+Experience the future of dental product procurement. Explore Compass Med today!
+
+<p><a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
+
+</details>
+
+<details>
+<summary><b>🔧 Fixawy</b></summary>
 <br/>
-Experience the future of dental product procurement. Explore Compass Med today!<br/><br/>
-
-<p><a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a><p>
-
-<hr>
-
-### Fixawy
 
 <b>Fixawy</b> offers the top experts in maintenance, appliance repairs, utilities, repair and upkeep, and other professional local services in Egypt. We built our services and technology based on customer needs and requirements.
-<br/>
 
-<p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
 <p><b>Fixawy Fixer: </b> </br>
-<a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
 
-<hr>
+</details>
 
-### J&D Pharmacy App
+<details>
+<summary><b>💊 J&amp;D Pharmacy App</b></summary>
+<br/>
 
-Experience trusted healthcare services at your fingertips with the <b>J&D Pharmacy</b> App. Manage prescriptions, access health news, explore medical equipment, and connect with pharmacy professionals—all in one place. Download now for personalized care and convenience!<br/>
+Experience trusted healthcare services at your fingertips with the <b>J&amp;D Pharmacy</b> App. Manage prescriptions, access health news, explore medical equipment, and connect with pharmacy professionals—all in one place. Download now for personalized care and convenience!
 
-<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
-<hr>
+</details>
 
-### Medical Compounding Pharmacy App
+<details>
+<summary><b>🧪 Medical Compounding Pharmacy App</b></summary>
+<br/>
 
-Transform your health journey with the <b>Medical Center Compounding Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.<br/>
+Transform your health journey with the <b>Medical Center Compounding Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.
 
-<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
-<hr>
+</details>
 
-### Quick RX App
+<details>
+<summary><b>⚡ Quick RX App</b></summary>
+<br/>
 
-Ultimate digital solution with the <b>Quick Rx</b> App. User-friendly mobile application streamlining pharmacy services with features such as prescription refills, patient transfers, health news updates, appointment scheduling, and medication reminders to enhance health management..<br/>
+Ultimate digital solution with the <b>Quick Rx</b> App. User-friendly mobile application streamlining pharmacy services with features such as prescription refills, patient transfers, health news updates, appointment scheduling, and medication reminders to enhance health management.
 
-<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
-<hr>
+</details>
 
-### Holland Pharmacy App
+<details>
+<summary><b>🏥 Holland Pharmacy App</b></summary>
+<br/>
 
-Transform your health journey with the <b>Medical Center Compounding Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.<br/>
+Transform your health journey with the <b>Holland Pharmacy</b> App. Refill, transfer prescriptions, book appointments, and stay updated on health news — all in one convenient platform. Simplify your health management today! Download now.
 
-<p><a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
-<hr>
+</details>
 
-### Xera Lab
+<details>
+<summary><b>🦷 Xera Lab</b></summary>
+<br/>
 
-Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.<br/>
+Xera Lab is the world’s dental outsource partner, empowering labs, manufacturers, and dentists to scale their businesses rapidly.
 
-<hr>
+</details>
 
-### Ofoq App
+<details>
+<summary><b>🏠 Ofoq App</b></summary>
+<br/>
 
 Ofoq is a mobile application designed to connect households in Saudi Arabia with trusted service workers for home responsibilities such as cleaning, maintenance, and support tasks.
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" alt="" />
