@@ -252,7 +252,7 @@ A management platform for <b>Ezhal</b> (Qatar) — a Laravel admin panel with th
 
 <p>
   <a href="https://alpha.ezhal-qtr.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://alpha.ezhal-qtr.com/login" target="_blank"><img alt="Admin Portal" src="https://img.shields.io/badge/Admin%20Portal-1D4ED8?style=for-the-badge" /></a>
+  <a href="https://alpha.ezhal-qtr.com/login" target="_blank"><img alt="Admin Portal" src="https://img.shields.io/badge/Admin%20Portal-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 </details>
