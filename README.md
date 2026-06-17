@@ -185,9 +185,11 @@ A centralized platform that unifies business locations and data across <b>Google
 
 A comprehensive management system that streamlines company operations — case handling, HR, role-based access, notifications and reporting — through a single admin dashboard.
 
-<b>🛠 Stack:</b> Laravel · MySQL · Role-Based Access Control · REST API<br/>
-<b>👤 Role:</b> Software Engineer<br/>
-<b>✨ Highlights:</b> Admin panel · case / action management · HR &amp; employee module · RBAC · notifications &amp; alerts · reports &amp; analytics · audit logging
+<b>🛠 Stack:</b> Laravel · Next.js · MySQL · Role-Based Access Control · REST API<br/>
+<b>🔌 Integrations:</b> Microsoft 365 — Outlook Mail &amp; Calendar APIs · Microsoft Teams · SharePoint · Microsoft (Azure AD / Entra ID) SSO authentication<br/>
+<b>🚀 DevOps:</b> GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · branch-based alpha / beta / prod environments<br/>
+<b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
+<b>✨ Highlights:</b> Admin panel · case / action management · HR &amp; employee module · RBAC · deep Microsoft 365 integration · notifications &amp; alerts · reports &amp; analytics · audit logging
 
 <p>
   <a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
