@@ -256,7 +256,7 @@ The corporate website for <b>RevealSite</b> — the software house behind the ph
 </details>
 
 <details>
-<summary><b>💊 J&amp;D Pharmacy App</b></summary>
+<summary><b>💊 J&amp;D Pharmacy</b></summary>
 <br/>
 
 A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medical equipment, read health news and connect directly with pharmacists.
@@ -270,7 +270,7 @@ A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medi
 </details>
 
 <details>
-<summary><b>🧪 Medical Compounding Pharmacy App</b></summary>
+<summary><b>🧪 Medical Compounding Pharmacy</b></summary>
 <br/>
 
 A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and transfer prescriptions, book appointments and follow health news in one place.
@@ -284,7 +284,7 @@ A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and tra
 </details>
 
 <details>
-<summary><b>⚡ Quick RX App</b></summary>
+<summary><b>⚡ Quick RX</b></summary>
 <br/>
 
 A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescription transfers, appointment scheduling and medication reminders.
@@ -298,7 +298,7 @@ A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescript
 </details>
 
 <details>
-<summary><b>🏥 Holland Pharmacy App</b></summary>
+<summary><b>🏥 Holland Pharmacy</b></summary>
 <br/>
 
 A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescriptions, book appointments and stay up to date with health news.
@@ -422,7 +422,7 @@ A dental-outsourcing platform positioning itself as a global dental outsource pa
 </details>
 
 <details>
-<summary><b>🏠 Ofoq App</b></summary>
+<summary><b>🏠 Ofoq</b></summary>
 <br/>
 
 A home-services app for the Saudi market connecting households with trusted workers for cleaning, maintenance and household tasks.
