@@ -192,7 +192,7 @@ A centralized platform that unifies business locations and data across <b>Google
 A comprehensive management system that streamlines company operations — case handling, HR, role-based access, notifications and reporting — through a single admin dashboard.
 
 <b>🛠 Stack:</b> Laravel · Next.js · MySQL · Role-Based Access Control · REST API<br/>
-<b>🔌 Integrations:</b> Microsoft 365 — Outlook Mail &amp; Calendar APIs · Microsoft Teams · SharePoint · Microsoft (Azure AD / Entra ID) SSO authentication<br/>
+<b>🔌 Integrations:</b> Microsoft 365 — Outlook Mail &amp; Calendar APIs · Microsoft Teams · SharePoint · Microsoft (Azure AD / Entra ID) SSO authentication · AWS SES (transactional email)<br/>
 <b>🚀 DevOps:</b> GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · GCP — Compute Engine, Cloud Storage &amp; Cloud SQL (migrated from AWS EC2 / Lightsail / RDS / S3) · branch-based alpha / beta / prod environments<br/>
 <b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
 <b>✨ Highlights:</b> Admin panel · case / action management · HR &amp; employee module · RBAC · deep Microsoft 365 integration · notifications &amp; alerts · reports &amp; analytics · audit logging
