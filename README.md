@@ -149,13 +149,20 @@
 <summary><b>🎓 KhebraOS</b></summary>
 <br/>
 
-An Arabic-first, RTL <b>SaaS platform</b> that lets educators and entrepreneurs build and scale their own online academies — courses, digital products, coaching, marketing and AI tooling, all in one place. Minimalist black &amp; white UI with full Arabic RTL and bilingual (AR / EN) support.
+A <b>SaaS platform</b> that lets educators and entrepreneurs build and scale their own online academies — courses, digital products, coaching, marketing and AI tooling, all in one place. Minimalist black &amp; white UI with bilingual Arabic / English support.
 
 <b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · NestJS · Node.js · Drizzle ORM · PostgreSQL · Zod · Nx monorepo · OpenAPI / Orval<br/>
 <b>🤖 AI:</b> OpenAI (gpt-4o-mini) · ElevenLabs (TTS) · DALL·E 3 · ffmpeg · Sharp · Pexels<br/>
 <b>🔌 Integrations:</b> JWT + Google OAuth · Resend (email) · Google Cloud Storage · Zoom · Calendly · IMAP/SMTP inbox · SSE (PostgreSQL LISTEN/NOTIFY)<br/>
-<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)<br/>
+<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; NestJS / Node back-end)<br/>
 <b>✨ Highlights:</b> LMS (courses · quizzes · exams · certificates) · 6-step AI Course Wizard · 3-tier subscriptions with server-side limit enforcement · landing-page &amp; funnel builders · email marketing &amp; link-in-bio · live chat + AI email inbox · real-time notifications · multi-tenant academies on subdomains · 55+ DB tables
+
+<p>
+  <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://khebraos.com/login" target="_blank"><img alt="Login" src="https://img.shields.io/badge/Login-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Creator Dashboard" src="https://img.shields.io/badge/Creator%20Dashboard-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
 
 </details>
 
