@@ -394,10 +394,10 @@ A website for <b>Almani Institute</b> — presenting the institute's programs, s
 </details>
 
 <details>
-<summary><b>💊 Candlewood Health Mart</b></summary>
+<summary><b>💊 Candlewood Health Mart Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>Candlewood Health Mart</b> — order and manage prescriptions, browse products and stay on top of health.
+An online pharmacy storefront for <b>Candlewood Health Mart Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
 
 <b>🛠 Stack:</b> React · Django · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
