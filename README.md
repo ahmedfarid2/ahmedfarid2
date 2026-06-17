@@ -262,7 +262,7 @@ The corporate website for <b>RevealSite</b> — the software house behind the ph
 A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medical equipment, read health news and connect directly with pharmacists.
 
 <b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Prescription management · medical-equipment catalog · health news · pharmacist contact
 
 <p><a href="https://www.jdpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -276,7 +276,7 @@ A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medi
 A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and transfer prescriptions, book appointments and follow health news in one place.
 
 <b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -290,7 +290,7 @@ A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and tra
 A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescription transfers, appointment scheduling and medication reminders.
 
 <b>🛠 Stack:</b> Flutter · React · Django · Local Notifications · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Refills &amp; transfers · appointment scheduling · medication reminders · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -298,13 +298,13 @@ A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescript
 </details>
 
 <details>
-<summary><b>🏥 Holland Pharmacy</b></summary>
+<summary><b>🏥 Holland Discount Pharmacy</b></summary>
 <br/>
 
-A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescriptions, book appointments and stay up to date with health news.
+A pharmacy app for <b>Holland Discount Pharmacy</b> (US) — refill and transfer prescriptions, book appointments and stay up to date with health news.
 
 <b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
 <p><a href="https://hollanddiscountpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -318,7 +318,7 @@ A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescrip
 A pharmacy app &amp; storefront for <b>Belmont Pharmacy</b> (UK) — order and manage prescriptions, browse products and stay on top of health, built on the Healthera platform.
 
 <b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
 
 <p>
@@ -336,7 +336,7 @@ A pharmacy app &amp; storefront for <b>Belmont Pharmacy</b> (UK) — order and m
 An online pharmacy storefront for <b>City Drugs Pharmacy</b> (US) — order and manage prescriptions, browse products and stay on top of health.
 
 <b>🛠 Stack:</b> React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
 
 <p>
@@ -352,7 +352,7 @@ An online pharmacy storefront for <b>City Drugs Pharmacy</b> (US) — order and 
 An online pharmacy storefront for <b>Gulf Coast Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
 
 <b>🛠 Stack:</b> React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
 
 <p>
@@ -368,7 +368,7 @@ An online pharmacy storefront for <b>Gulf Coast Pharmacy</b> — order and manag
 An online pharmacy storefront for <b>Callaway Pharmacy</b> (Gulf Coast) — order and manage prescriptions, browse products and stay on top of health.
 
 <b>🛠 Stack:</b> React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
 
 <p>
@@ -384,7 +384,7 @@ An online pharmacy storefront for <b>Callaway Pharmacy</b> (Gulf Coast) — orde
 A website for <b>Almani Health Institute</b> — presenting the institute's programs, services and information.
 
 <b>🛠 Stack:</b> React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Informational site · responsive UI · content management
 
 <p>
@@ -400,7 +400,7 @@ A website for <b>Almani Health Institute</b> — presenting the institute's prog
 An online pharmacy storefront for <b>Candlewood Health Mart Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
 
 <b>🛠 Stack:</b> React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
+<b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
 <b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
 
 <p>
