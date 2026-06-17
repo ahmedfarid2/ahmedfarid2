@@ -245,11 +245,11 @@ A home-services marketplace connecting customers in Egypt with vetted profession
 
 A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medical equipment, read health news and connect directly with pharmacists.
 
-<b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
-<b>👤 Role:</b> Software Engineer<br/>
+<b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
 <b>✨ Highlights:</b> Prescription management · medical-equipment catalog · health news · pharmacist contact
 
-<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+<p><a href="https://www.jdpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
 </details>
 
@@ -259,8 +259,8 @@ A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medi
 
 A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and transfer prescriptions, book appointments and follow health news in one place.
 
-<b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
-<b>👤 Role:</b> Software Engineer<br/>
+<b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
 <b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -273,8 +273,8 @@ A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and tra
 
 A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescription transfers, appointment scheduling and medication reminders.
 
-<b>🛠 Stack:</b> Flutter · Firebase · Local Notifications · REST API<br/>
-<b>👤 Role:</b> Software Engineer<br/>
+<b>🛠 Stack:</b> Flutter · React · Django · Local Notifications · REST API<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
 <b>✨ Highlights:</b> Refills &amp; transfers · appointment scheduling · medication reminders · health news
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
@@ -287,11 +287,11 @@ A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescript
 
 A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescriptions, book appointments and stay up to date with health news.
 
-<b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
-<b>👤 Role:</b> Software Engineer<br/>
+<b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
 <b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
-<p><a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+<p><a href="https://hollanddiscountpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
 </details>
 
