@@ -141,6 +141,20 @@
 <br/>
 
 <details open>
+<summary><b>🎓 KhebraOS</b></summary>
+<br/>
+
+An Arabic-first, RTL <b>SaaS platform</b> that lets educators and entrepreneurs build and scale their own online academies — LMS, digital products, coaching, marketing and AI tooling in one place. Minimalist black &amp; white UI, full Arabic RTL with bilingual (AR / EN) support. Built as a <b>pnpm monorepo</b>, OpenAPI-first with generated type-safe API clients.
+
+<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · Express 5 · Node.js · Drizzle ORM · PostgreSQL · Zod · pnpm monorepo · OpenAPI / Orval<br/>
+<b>🤖 AI:</b> OpenAI (gpt-4o-mini) · ElevenLabs (TTS) · DALL·E 3 · ffmpeg · Sharp · Pexels<br/>
+<b>🔌 Integrations:</b> JWT + Google OAuth · Resend (email) · Google Cloud Storage · Zoom · Calendly · IMAP/SMTP inbox · SSE (PostgreSQL LISTEN/NOTIFY)<br/>
+<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)<br/>
+<b>✨ Highlights:</b> LMS (courses · quizzes · exams · certificates) · 6-step AI Course Wizard · 3-tier subscriptions with server-side limit enforcement · landing-page &amp; funnel builders · email marketing &amp; link-in-bio · live chat + AI email inbox · real-time notifications · multi-tenant academies on subdomains · 55+ DB tables
+
+</details>
+
+<details>
 <summary><b>🚗 Yelo Sale</b></summary>
 <br/>
 
