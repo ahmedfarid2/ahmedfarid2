@@ -158,22 +158,11 @@ A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale 
 <b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; NestJS / Node back-end)<br/>
 <b>✨ Highlights:</b> LMS (courses · quizzes · exams · certificates) · 6-step AI Course Wizard · 3-tier subscriptions with server-side limit enforcement · landing-page &amp; funnel builders · email marketing &amp; link-in-bio · live chat + AI email inbox · real-time notifications · 55+ DB tables
 
-<p align="center">
-  <a href="https://khebraos.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website">
-  </a>
-
-  <a href="https://khebraos.com/my-learning" target="_blank">
-    <img src="https://img.shields.io/badge/Student_Panel-0EA5E9?style=for-the-badge" alt="Student Panel">
-  </a>
-
-  <a href="https://khebraos.com/dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/Academy_Panel-16A34A?style=for-the-badge" alt="Academy Panel">
-  </a>
-
-  <a href="https://khebraos.com/admin" target="_blank">
-    <img src="https://img.shields.io/badge/Admin_Panel-7C3AED?style=for-the-badge" alt="Admin Panel">
-  </a>
+<p>
+  <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/my-learning" target="_blank"><img alt="Student Panel" src="https://img.shields.io/badge/Student%20Panel-0EA5E9?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Academy Panel" src="https://img.shields.io/badge/Academy%20Panel-16A34A?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge" /></a>
 </p>
 
 </details>
