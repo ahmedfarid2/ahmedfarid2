@@ -240,6 +240,24 @@ A home-services marketplace connecting customers in Egypt with vetted profession
 </details>
 
 <details>
+<summary><b>🧩 Ezhal (Qatar)</b></summary>
+<br/>
+
+A management platform for <b>Ezhal</b> (Qatar) — a Laravel admin panel with three companion mobile apps (<b>Manager</b>, <b>Customer</b> and <b>Employee</b>). 🚧 Currently in active development (mobile apps not yet released).
+
+<b>🛠 Stack:</b> Laravel · Blade · Flutter · MariaDB · REST API<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks) · Cloudflare (DNS &amp; SSL) · Hostinger VPS<br/>
+<b>👤 Role:</b> Software Engineer — Laravel + Blade admin panel &amp; Flutter mobile apps<br/>
+<b>✨ Highlights:</b> Admin portal · Manager / Customer / Employee apps · role-based workflows
+
+<p>
+  <a href="https://alpha.ezhal-qtr.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://alpha.ezhal-qtr.com/login" target="_blank"><img alt="Admin Portal" src="https://img.shields.io/badge/Admin%20Portal-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>🌐 RevealSite</b></summary>
 <br/>
 
