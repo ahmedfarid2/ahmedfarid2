@@ -146,24 +146,6 @@
 <br/>
 
 <details open>
-<summary><b>✨ Qoralia</b></summary>
-<br/>
-
-A web platform currently in <b>beta</b>, with public, admin and compact interfaces.
-
-<b>🛠 Stack:</b> FastAPI · React · PostgreSQL<br/>
-<b>🚀 DevOps:</b> Docker · GitHub Actions · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL)<br/>
-<b>👤 Role:</b> Software Engineer — FastAPI back-end &amp; React front-end
-
-<p>
-  <a href="https://beta.qoralia.io/en/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
-  <a href="https://beta.qoralia.io/en/admin" target="_blank"><img alt="Admin" src="https://img.shields.io/badge/Admin-1D4ED8?style=for-the-badge" /></a>
-  <a href="https://beta.qoralia.io/en/compact" target="_blank"><img alt="Compact" src="https://img.shields.io/badge/Compact-059669?style=for-the-badge" /></a>
-</p>
-
-</details>
-
-<details>
 <summary><b>🚗 Yelo Sale</b></summary>
 <br/>
 
@@ -226,6 +208,24 @@ A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale 
   <a href="https://khebraos.com/my-learning" target="_blank"><img alt="Student Panel" src="https://img.shields.io/badge/Student%20Panel-0EA5E9?style=for-the-badge" /></a>
   <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Academy Panel" src="https://img.shields.io/badge/Academy%20Panel-16A34A?style=for-the-badge" /></a>
   <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>✨ Qoralia</b></summary>
+<br/>
+
+A web platform currently in <b>beta</b>, with public, admin and compact interfaces.
+
+<b>🛠 Stack:</b> FastAPI · React · PostgreSQL<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL)<br/>
+<b>👤 Role:</b> Software Engineer — FastAPI back-end &amp; React front-end
+
+<p>
+  <a href="https://beta.qoralia.io/en/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
+  <a href="https://beta.qoralia.io/en/admin" target="_blank"><img alt="Admin" src="https://img.shields.io/badge/Admin-1D4ED8?style=for-the-badge" /></a>
+  <a href="https://beta.qoralia.io/en/compact" target="_blank"><img alt="Compact" src="https://img.shields.io/badge/Compact-059669?style=for-the-badge" /></a>
 </p>
 
 </details>
