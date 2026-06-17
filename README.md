@@ -216,9 +216,10 @@ A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale 
 <summary><b>✨ Qoralia</b></summary>
 <br/>
 
-A web platform currently in <b>beta</b>, with public, admin and compact interfaces.
+A web platform currently in <b>beta</b> that brings AI into a clean, multi-language experience. Powered by <b>OpenRouter</b>, it routes requests across many large-language-model providers through a single unified interface, so users get the right model for each task without being locked to one vendor. Ships a public app, an admin dashboard and a streamlined compact view.
 
 <b>🛠 Stack:</b> FastAPI · React · PostgreSQL<br/>
+<b>🤖 AI:</b> OpenRouter (multi-provider LLM gateway — OpenAI, Anthropic, Google, Meta &amp; more through one API)<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL)<br/>
 <b>👤 Role:</b> Software Engineer — FastAPI back-end &amp; React front-end
 
