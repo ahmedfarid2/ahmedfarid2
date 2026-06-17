@@ -159,7 +159,6 @@ A <b>SaaS platform</b> that lets educators and entrepreneurs build and scale the
 
 <p>
   <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://khebraos.com/login" target="_blank"><img alt="Login" src="https://img.shields.io/badge/Login-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Creator Dashboard" src="https://img.shields.io/badge/Creator%20Dashboard-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
