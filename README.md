@@ -37,7 +37,9 @@
 
 <p align="left"><b>Frameworks &amp; Libraries</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi,django,react,nextjs,flutter,bootstrap,tailwind,materialui,vite,sass" height="48" alt="Laravel, Node.js, Express, FastAPI, Django, React, Next.js, Flutter, Bootstrap, Tailwind, Material UI, Vite, Sass" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,fastapi,django,react,nextjs,flutter,bootstrap,tailwind,materialui,vite,sass" height="48" alt="Laravel, Node.js, Express, NestJS, FastAPI, Django, React, Next.js, Flutter, Bootstrap, Tailwind, Material UI, Vite, Sass" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="42" alt="shadcn/ui" />
 </p>
 
 <p align="left"><b>Databases</b></p>
@@ -71,6 +73,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,replit" height="48" alt="Git, GitHub, Postman, Figma, Notion, Replit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48" alt="Swagger" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nx/143055" height="44" alt="Nx" />
 </p>
 
 <p align="left"><b>Collaboration</b></p>
@@ -88,6 +92,7 @@
 
 <p align="left"><b>AI</b></p>
 <p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="36" alt="Claude" />
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI Codex" />
@@ -146,7 +151,7 @@
 
 An Arabic-first, RTL <b>SaaS platform</b> that lets educators and entrepreneurs build and scale their own online academies — LMS, digital products, coaching, marketing and AI tooling in one place. Minimalist black &amp; white UI, full Arabic RTL with bilingual (AR / EN) support. Built as a <b>pnpm monorepo</b>, OpenAPI-first with generated type-safe API clients.
 
-<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · Express 5 · Node.js · Drizzle ORM · PostgreSQL · Zod · pnpm monorepo · OpenAPI / Orval<br/>
+<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · NestJS · Node.js · Drizzle ORM · PostgreSQL · Zod · Nx monorepo · OpenAPI / Orval<br/>
 <b>🤖 AI:</b> OpenAI (gpt-4o-mini) · ElevenLabs (TTS) · DALL·E 3 · ffmpeg · Sharp · Pexels<br/>
 <b>🔌 Integrations:</b> JWT + Google OAuth · Resend (email) · Google Cloud Storage · Zoom · Calendly · IMAP/SMTP inbox · SSE (PostgreSQL LISTEN/NOTIFY)<br/>
 <b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)<br/>
