@@ -159,10 +159,10 @@ A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale 
 <b>✨ Highlights:</b> LMS (courses · quizzes · exams · certificates) · 6-step AI Course Wizard · 3-tier subscriptions with server-side limit enforcement · landing-page &amp; funnel builders · email marketing &amp; link-in-bio · live chat + AI email inbox · real-time notifications · 55+ DB tables
 
 <p>
-  <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://khebraos.com/my-learning" target="_blank"><img alt="Student Panel" src="https://img.shields.io/badge/Student%20Panel-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Academy Panel" src="https://img.shields.io/badge/Academy%20Panel-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  🔗 <a href="https://khebraos.com" target="_blank"><b>Website</b></a> &nbsp;·&nbsp;
+  🎓 <a href="https://khebraos.com/my-learning" target="_blank"><b>Student Panel</b></a> &nbsp;·&nbsp;
+  🏫 <a href="https://khebraos.com/dashboard" target="_blank"><b>Academy Panel</b></a> &nbsp;·&nbsp;
+  🛡️ <a href="https://khebraos.com/admin" target="_blank"><b>Admin Panel</b></a>
 </p>
 
 </details>
