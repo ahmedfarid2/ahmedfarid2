@@ -146,28 +146,6 @@
 <br/>
 
 <details open>
-<summary><b>🎓 KhebraOS</b></summary>
-<br/>
-
-A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale their own online academies — courses, digital products, coaching, marketing and AI tooling, all in one place. Minimalist black &amp; white UI with bilingual Arabic / English support.
-
-<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · Express · Node.js · Drizzle ORM · PostgreSQL · Zod · Nx monorepo · OpenAPI / Orval<br/>
-<b>🤖 AI:</b> OpenAI (gpt-4o-mini) · ElevenLabs (TTS) · DALL·E 3 · ffmpeg · Sharp · Pexels<br/>
-<b>🔌 Integrations:</b> JWT + Google OAuth · Resend (email) · Google Cloud Storage · Zoom · Calendly · IMAP/SMTP inbox · SSE (PostgreSQL LISTEN/NOTIFY)<br/>
-<b>🏗 Architecture:</b> B2B2C · role-based panels — public academy sites &amp; student area (B2C) · creator/academy dashboard with scoped team permissions (B2B tenants) · platform super-admin · multi-tenant on subdomains<br/>
-<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)<br/>
-<b>✨ Highlights:</b> LMS (courses · quizzes · exams · certificates) · 6-step AI Course Wizard · 3-tier subscriptions with server-side limit enforcement · landing-page &amp; funnel builders · email marketing &amp; link-in-bio · live chat + AI email inbox · real-time notifications · 55+ DB tables
-
-<p>
-  <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
-  <a href="https://khebraos.com/my-learning" target="_blank"><img alt="Student Panel" src="https://img.shields.io/badge/Student%20Panel-0EA5E9?style=for-the-badge" /></a>
-  <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Academy Panel" src="https://img.shields.io/badge/Academy%20Panel-16A34A?style=for-the-badge" /></a>
-  <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge" /></a>
-</p>
-
-</details>
-
-<details>
 <summary><b>🚗 Yelo Sale</b></summary>
 <br/>
 
@@ -208,6 +186,28 @@ A centralized platform that unifies business locations and data across <b>Google
   <a href="http://alpha.phonicmaps.com/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="http://alpha.phonicmaps.com/app" target="_blank"><img alt="App Platform" src="https://img.shields.io/badge/App-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="http://alpha.phonicmaps.com" target="_blank"><img alt="B2C Platform" src="https://img.shields.io/badge/B2C-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🎓 KhebraOS</b></summary>
+<br/>
+
+A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale their own online academies — courses, digital products, coaching, marketing and AI tooling, all in one place. Minimalist black &amp; white UI with bilingual Arabic / English support.
+
+<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · Express · Node.js · Drizzle ORM · PostgreSQL · Zod · Nx monorepo · OpenAPI / Orval<br/>
+<b>🤖 AI:</b> OpenAI (gpt-4o-mini) · ElevenLabs (TTS) · DALL·E 3 · ffmpeg · Sharp · Pexels<br/>
+<b>🔌 Integrations:</b> JWT + Google OAuth · Resend (email) · Google Cloud Storage · Zoom · Calendly · IMAP/SMTP inbox · SSE (PostgreSQL LISTEN/NOTIFY)<br/>
+<b>🏗 Architecture:</b> B2B2C · role-based panels — public academy sites &amp; student area (B2C) · creator/academy dashboard with scoped team permissions (B2B tenants) · platform super-admin · multi-tenant on subdomains<br/>
+<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)<br/>
+<b>✨ Highlights:</b> LMS (courses · quizzes · exams · certificates) · 6-step AI Course Wizard · 3-tier subscriptions with server-side limit enforcement · landing-page &amp; funnel builders · email marketing &amp; link-in-bio · live chat + AI email inbox · real-time notifications · 55+ DB tables
+
+<p>
+  <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/my-learning" target="_blank"><img alt="Student Panel" src="https://img.shields.io/badge/Student%20Panel-0EA5E9?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Academy Panel" src="https://img.shields.io/badge/Academy%20Panel-16A34A?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge" /></a>
 </p>
 
 </details>
