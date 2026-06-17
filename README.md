@@ -146,6 +146,24 @@
 <br/>
 
 <details open>
+<summary><b>✨ Qoralia</b></summary>
+<br/>
+
+A web platform currently in <b>beta</b>, with public, admin and compact interfaces.
+
+<b>🛠 Stack:</b> FastAPI · React · PostgreSQL<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL)<br/>
+<b>👤 Role:</b> Software Engineer — FastAPI back-end &amp; React front-end
+
+<p>
+  <a href="https://beta.qoralia.io/en/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
+  <a href="https://beta.qoralia.io/en/admin" target="_blank"><img alt="Admin" src="https://img.shields.io/badge/Admin-1D4ED8?style=for-the-badge" /></a>
+  <a href="https://beta.qoralia.io/en/compact" target="_blank"><img alt="Compact" src="https://img.shields.io/badge/Compact-059669?style=for-the-badge" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>🚗 Yelo Sale</b></summary>
 <br/>
 
