@@ -193,7 +193,7 @@ A comprehensive management system that streamlines company operations — case h
 
 <b>🛠 Stack:</b> Laravel · Next.js · MySQL · Role-Based Access Control · REST API<br/>
 <b>🔌 Integrations:</b> Microsoft 365 — Outlook Mail &amp; Calendar APIs · Microsoft Teams · SharePoint · Microsoft (Azure AD / Entra ID) SSO authentication · AWS SES (transactional email)<br/>
-<b>🚀 DevOps:</b> GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · GCP — Compute Engine, Cloud Storage &amp; Cloud SQL (migrated from AWS EC2 / Lightsail / RDS / S3) · branch-based alpha / beta / prod environments<br/>
+<b>🚀 DevOps:</b> Docker · Docker Compose · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · GCP — Compute Engine, Cloud Storage &amp; Cloud SQL (migrated from AWS EC2 / Lightsail / RDS / S3) · branch-based alpha / beta / prod environments<br/>
 <b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
 <b>✨ Highlights:</b> Admin panel · case / action management · HR &amp; employee module · RBAC · deep Microsoft 365 integration · notifications &amp; alerts · reports &amp; analytics · audit logging
 
@@ -209,13 +209,17 @@ A comprehensive management system that streamlines company operations — case h
 <summary><b>🦷 Compass Med</b></summary>
 <br/>
 
-A B2B e-commerce platform for dental equipment, tailored for dentists — with wallet, coupons, stock &amp; shipping management, product recommendations and secure payments, synced to Odoo.
+A B2B e-commerce platform for dental equipment, tailored for dentists — wallet, coupons, stock &amp; shipping management, product recommendations and secure online payments.
 
-<b>🛠 Stack:</b> Laravel · MySQL · Odoo API · Fawaterk payments · Tailwind CSS<br/>
+<b>🛠 Stack:</b> Laravel · Blade · MySQL · Docker · REST API<br/>
+<b>🔌 Integrations:</b> Fawaterk (payment gateway) · Odoo ERP (push orders &amp; users, full two-way sync)<br/>
 <b>👤 Role:</b> Software Engineer<br/>
-<b>✨ Highlights:</b> Wallet &amp; coupons · stock &amp; shipping · product recommendations · Odoo integration · roles &amp; reports
+<b>✨ Highlights:</b> Admin dashboard · wallet &amp; coupons · stock &amp; shipping · product recommendations · roles &amp; reports
 
-<p><a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
+<p>
+  <a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://compass-egy.com/admin/dashboard" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
 
 </details>
 
