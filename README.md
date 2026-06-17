@@ -214,7 +214,7 @@ A B2B e-commerce platform for dental equipment, tailored for dentists — wallet
 <b>🛠 Stack:</b> Laravel · Blade · MySQL · REST API<br/>
 <b>🔌 Integrations:</b> Fawaterk (payment gateway) · Odoo ERP (push orders &amp; users, full two-way sync)<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · Time4VPS (VPS hosting)<br/>
-<b>👤 Role:</b> Software Engineer<br/>
+<b>👤 Role:</b> Software Engineer — built end-to-end (Laravel back-end &amp; Blade front-end)<br/>
 <b>✨ Highlights:</b> Admin dashboard · wallet &amp; coupons · stock &amp; shipping · product recommendations · roles &amp; reports
 
 <p>
