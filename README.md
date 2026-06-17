@@ -160,8 +160,8 @@ A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale 
 
 <p>
   <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://khebraos.com/my-learning" target="_blank"><img alt="Student" src="https://img.shields.io/badge/Student-F59E0B?style=for-the-badge" /></a>
-  <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Creator Dashboard" src="https://img.shields.io/badge/Creator%20Dashboard-059669?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/my-learning" target="_blank"><img alt="Student Panel" src="https://img.shields.io/badge/Student%20Panel-F59E0B?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Academy Panel" src="https://img.shields.io/badge/Academy%20Panel-059669?style=for-the-badge" /></a>
   <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge" /></a>
 </p>
 
