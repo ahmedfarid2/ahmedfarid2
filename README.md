@@ -138,13 +138,13 @@
 <summary><b>🚗 Yelo Sale</b></summary>
 <br/>
 
-A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Saudi Arabia, with airport locations in KSA, Dubai &amp; Cairo). Ships admin, B2B and B2C portals plus the <b>Amyali</b> loyalty &amp; rewards program.
+A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Saudi Arabia, with airport locations in KSA, Dubai &amp; Cairo). Ships admin, B2B and B2C portals plus a mobile app.
 
 <b>🛠 Stack:</b> Laravel · Next.js · Flutter · MySQL · REST API<br/>
 <b>🔌 Integrations:</b> PayFort / Amazon Payment Services · Infinito SMS · Yelo ERP<br/>
 <b>🚀 DevOps:</b> Docker · Docker Compose · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL) · trunk-based development with alpha / beta / prod environments<br/>
 <b>👤 Role:</b> Software Engineer — Laravel back-end, Next.js front-end &amp; Flutter mobile app<br/>
-<b>✨ Highlights:</b> Admin dashboard · B2B &amp; B2C modules · mobile app · automated CI/CD to alpha, beta &amp; production · loyalty &amp; rewards
+<b>✨ Highlights:</b> Admin dashboard · B2B &amp; B2C modules · mobile app · payments &amp; SMS integrations · automated CI/CD to alpha, beta &amp; production
 
 <p>
   <a href="https://sales.iyelo.com/en/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
