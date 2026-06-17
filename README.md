@@ -330,10 +330,10 @@ A pharmacy app &amp; storefront for <b>Belmont Pharmacy</b> (UK) — order and m
 </details>
 
 <details>
-<summary><b>💊 US City Drugs</b></summary>
+<summary><b>💊 City Drugs Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>US City Drugs</b> (US) — order and manage prescriptions, browse products and stay on top of health.
+An online pharmacy storefront for <b>City Drugs Pharmacy</b> (US) — order and manage prescriptions, browse products and stay on top of health.
 
 <b>🛠 Stack:</b> React · Django · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
