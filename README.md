@@ -187,7 +187,7 @@ A comprehensive management system that streamlines company operations — case h
 
 <b>🛠 Stack:</b> Laravel · Next.js · MySQL · Role-Based Access Control · REST API<br/>
 <b>🔌 Integrations:</b> Microsoft 365 — Outlook Mail &amp; Calendar APIs · Microsoft Teams · SharePoint · Microsoft (Azure AD / Entra ID) SSO authentication<br/>
-<b>🚀 DevOps:</b> GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · branch-based alpha / beta / prod environments<br/>
+<b>🚀 DevOps:</b> GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · GCP — Compute Engine, Cloud Storage &amp; Cloud SQL (migrated from AWS EC2 / Lightsail / RDS / S3) · branch-based alpha / beta / prod environments<br/>
 <b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
 <b>✨ Highlights:</b> Admin panel · case / action management · HR &amp; employee module · RBAC · deep Microsoft 365 integration · notifications &amp; alerts · reports &amp; analytics · audit logging
 
