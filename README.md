@@ -151,11 +151,11 @@
 
 A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale their own online academies — courses, digital products, coaching, marketing and AI tooling, all in one place. Minimalist black &amp; white UI with bilingual Arabic / English support.
 
-<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · NestJS · Node.js · Drizzle ORM · PostgreSQL · Zod · Nx monorepo · OpenAPI / Orval<br/>
+<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · Express · Node.js · Drizzle ORM · PostgreSQL · Zod · Nx monorepo · OpenAPI / Orval<br/>
 <b>🤖 AI:</b> OpenAI (gpt-4o-mini) · ElevenLabs (TTS) · DALL·E 3 · ffmpeg · Sharp · Pexels<br/>
 <b>🔌 Integrations:</b> JWT + Google OAuth · Resend (email) · Google Cloud Storage · Zoom · Calendly · IMAP/SMTP inbox · SSE (PostgreSQL LISTEN/NOTIFY)<br/>
 <b>🏗 Architecture:</b> B2B2C · role-based panels — public academy sites &amp; student area (B2C) · creator/academy dashboard with scoped team permissions (B2B tenants) · platform super-admin · multi-tenant on subdomains<br/>
-<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; NestJS / Node back-end)<br/>
+<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)<br/>
 <b>✨ Highlights:</b> LMS (courses · quizzes · exams · certificates) · 6-step AI Course Wizard · 3-tier subscriptions with server-side limit enforcement · landing-page &amp; funnel builders · email marketing &amp; link-in-bio · live chat + AI email inbox · real-time notifications · 55+ DB tables
 
 <p>
