@@ -240,6 +240,22 @@ A home-services marketplace connecting customers in Egypt with vetted profession
 </details>
 
 <details>
+<summary><b>🌐 RevealSite</b></summary>
+<br/>
+
+The corporate website for <b>RevealSite</b> — the software house behind the pharmacy app suite (J&amp;D, Quick Rx, Holland and more) — showcasing their products and services.
+
+<b>🛠 Stack:</b> React · REST API<br/>
+<b>👤 Role:</b> Software Engineer — React front-end<br/>
+<b>✨ Highlights:</b> Product showcase · responsive single-page UI
+
+<p>
+  <a href="https://revealsite.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>💊 J&amp;D Pharmacy App</b></summary>
 <br/>
 
