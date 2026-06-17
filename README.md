@@ -58,6 +58,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="Apache" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/auth0/EB5424" height="44" alt="Auth0" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="44" alt="Hostinger" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/godaddy/1BDBDB" height="44" alt="GoDaddy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hetzner/D50C2D" height="44" alt="Hetzner" />
 </p>
 
 <p align="left"><b>Tools</b></p>
