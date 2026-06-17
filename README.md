@@ -378,10 +378,10 @@ An online pharmacy storefront for <b>Callaway Pharmacy</b> (Gulf Coast) — orde
 </details>
 
 <details>
-<summary><b>🏛️ Almani Institute</b></summary>
+<summary><b>🏛️ Almani Health Institute</b></summary>
 <br/>
 
-A website for <b>Almani Institute</b> — presenting the institute's programs, services and information.
+A website for <b>Almani Health Institute</b> — presenting the institute's programs, services and information.
 
 <b>🛠 Stack:</b> React · Django · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
