@@ -362,6 +362,54 @@ An online pharmacy storefront for <b>Gulf Coast Pharmacy</b> — order and manag
 </details>
 
 <details>
+<summary><b>💊 Callaway Gulf Coast Pharmacy</b></summary>
+<br/>
+
+An online pharmacy storefront for <b>Callaway Pharmacy</b> (Gulf Coast) — order and manage prescriptions, browse products and stay on top of health.
+
+<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
+<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+
+<p>
+  <a href="https://www.callawaypharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🏛️ Almani Institute</b></summary>
+<br/>
+
+A website for <b>Almani Institute</b> — presenting the institute's programs, services and information.
+
+<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
+<b>✨ Highlights:</b> Informational site · responsive UI · content management
+
+<p>
+  <a href="https://www.almaniinstitute.org/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>💊 Candlewood Pharmacy</b></summary>
+<br/>
+
+An online pharmacy storefront for <b>Candlewood Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
+
+<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>👤 Role:</b> Software Engineer — React web &amp; Django backend<br/>
+<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+
+<p>
+  <a href="https://www.candlewoodpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>🦷 Xera Lab</b></summary>
 <br/>
 
