@@ -142,7 +142,7 @@ A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Sa
 
 <b>🛠 Stack:</b> Laravel · Next.js · Flutter · MySQL · REST API<br/>
 <b>🔌 Integrations:</b> PayFort / Amazon Payment Services · Infinito SMS · Yelo ERP<br/>
-<b>🚀 DevOps:</b> Docker · Docker Compose · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL) · branch-based alpha / beta / prod deployments<br/>
+<b>🚀 DevOps:</b> Docker · Docker Compose · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL) · branch-based alpha / beta / prod deployments<br/>
 <b>👤 Role:</b> Software Engineer — Laravel back-end, Next.js front-end &amp; Flutter mobile app<br/>
 <b>✨ Highlights:</b> Admin dashboard · B2B &amp; B2C modules · mobile app · automated CI/CD to alpha, beta &amp; production · loyalty &amp; rewards
 
