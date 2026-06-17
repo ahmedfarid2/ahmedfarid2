@@ -346,10 +346,10 @@ A pharmacy app &amp; storefront for <b>US City Drugs</b> (US) — order and mana
 </details>
 
 <details>
-<summary><b>💊 Gulf RX</b></summary>
+<summary><b>💊 Gulf Coast Pharmacy</b></summary>
 <br/>
 
-A pharmacy app &amp; storefront for <b>Gulf RX</b> — order and manage prescriptions, browse products and stay on top of health.
+A pharmacy app &amp; storefront for <b>Gulf Coast Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
 
 <b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
 <b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
