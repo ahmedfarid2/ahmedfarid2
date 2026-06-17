@@ -165,7 +165,7 @@ A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Sa
 
 A centralized platform that unifies business locations and data across <b>Google, Facebook, Instagram, X (Twitter)</b> and more — a single source of truth so businesses manage everything from one dashboard instead of juggling provider portals.
 
-<b>🛠 Stack:</b> Laravel · Next.js · MySQL · MongoDB · Redis · Queue Workers · REST API<br/>
+<b>🛠 Stack:</b> Laravel · Next.js · MySQL · MongoDB · InfluxDB · Redis · Queue Workers · REST API<br/>
 <b>🔌 Integrations:</b> Google Business Profile API · Google APIs · Meta (Facebook / Instagram) · X (Twitter)<br/>
 <b>🚀 DevOps:</b> Docker · Docker Compose · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS Lightsail · AWS RDS · Cloudflare (DNS &amp; SSL) · trunk-based development with alpha / beta / prod environments<br/>
 <b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
@@ -189,7 +189,11 @@ A comprehensive management system that streamlines company operations — case h
 <b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Admin panel · case / action management · HR &amp; employee module · RBAC · notifications &amp; alerts · reports &amp; analytics · audit logging
 
-<p><a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a></p>
+<p>
+  <a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://app.recoveryadvisers.com/" target="_blank"><img alt="App Portal" src="https://img.shields.io/badge/App%20Portal-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://css.recoveryadvisers.com/" target="_blank"><img alt="Client Self-Service" src="https://img.shields.io/badge/Client%20Self--Service-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
 
 </details>
 
