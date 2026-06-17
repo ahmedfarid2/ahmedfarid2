@@ -240,7 +240,7 @@ A home-services marketplace connecting customers in Egypt with vetted profession
 </details>
 
 <details>
-<summary><b>🧩 Ezhal (Qatar)</b></summary>
+<summary><b>🧩 Ezhal</b></summary>
 <br/>
 
 A management platform for <b>Ezhal</b> (Qatar) — a Laravel admin panel with three companion mobile apps (<b>Manager</b>, <b>Customer</b> and <b>Employee</b>). 🚧 Currently in active development (mobile apps not yet released).
