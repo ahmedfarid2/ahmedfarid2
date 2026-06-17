@@ -149,7 +149,7 @@
 <summary><b>🎓 KhebraOS</b></summary>
 <br/>
 
-An Arabic-first, RTL <b>SaaS platform</b> that lets educators and entrepreneurs build and scale their own online academies — LMS, digital products, coaching, marketing and AI tooling in one place. Minimalist black &amp; white UI, full Arabic RTL with bilingual (AR / EN) support. Built as a <b>pnpm monorepo</b>, OpenAPI-first with generated type-safe API clients.
+An Arabic-first, RTL <b>SaaS platform</b> that lets educators and entrepreneurs build and scale their own online academies — courses, digital products, coaching, marketing and AI tooling, all in one place. Minimalist black &amp; white UI with full Arabic RTL and bilingual (AR / EN) support.
 
 <b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · NestJS · Node.js · Drizzle ORM · PostgreSQL · Zod · Nx monorepo · OpenAPI / Orval<br/>
 <b>🤖 AI:</b> OpenAI (gpt-4o-mini) · ElevenLabs (TTS) · DALL·E 3 · ffmpeg · Sharp · Pexels<br/>
