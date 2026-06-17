@@ -159,8 +159,8 @@ A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Sa
 </p>
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.yelo_sale.mobile" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-  <a href="https://apps.apple.com/us/app/%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D9%8A%D9%84%D9%88-yelo-sales/id6766059397" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.yelo_sale.mobile" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <a href="https://apps.apple.com/us/app/%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D9%8A%D9%84%D9%88-yelo-sales/id6766059397" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 </p>
 
 </details>
@@ -265,7 +265,7 @@ A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medi
 <b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
 <b>✨ Highlights:</b> Prescription management · medical-equipment catalog · health news · pharmacist contact
 
-<p><a href="https://www.jdpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+<p><a href="https://www.jdpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
 </details>
 
@@ -279,7 +279,7 @@ A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and tra
 <b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
 <b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
-<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
 </details>
 
@@ -293,7 +293,7 @@ A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescript
 <b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
 <b>✨ Highlights:</b> Refills &amp; transfers · appointment scheduling · medication reminders · health news
 
-<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
 </details>
 
@@ -307,7 +307,7 @@ A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescrip
 <b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
 <b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
 
-<p><a href="https://hollanddiscountpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+<p><a href="https://hollanddiscountpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
 </details>
 
