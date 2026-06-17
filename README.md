@@ -346,6 +346,22 @@ A pharmacy app &amp; storefront for <b>US City Drugs</b> (US) — order and mana
 </details>
 
 <details>
+<summary><b>💊 Gulf RX</b></summary>
+<br/>
+
+A pharmacy app &amp; storefront for <b>Gulf RX</b> — order and manage prescriptions, browse products and stay on top of health.
+
+<b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
+<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+
+<p>
+  <a href="https://www.gulfrx.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>🦷 Xera Lab</b></summary>
 <br/>
 
