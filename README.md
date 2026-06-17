@@ -146,7 +146,7 @@
 
 A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Saudi Arabia, with airport locations in KSA, Dubai &amp; Cairo). Ships admin, B2B and B2C portals plus a mobile app.
 
-<b>🛠 Stack:</b> Laravel · Next.js · Flutter · MySQL · REST API<br/>
+<b>🛠 Stack:</b> Laravel · Next.js · Flutter · MySQL · Redis · REST API<br/>
 <b>🔌 Integrations:</b> PayFort / Amazon Payment Services · Infinito SMS · Yelo ERP<br/>
 <b>🚀 DevOps:</b> Docker · Docker Compose · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL) · trunk-based development with alpha / beta / prod environments<br/>
 <b>👤 Role:</b> Software Engineer — Laravel back-end, Next.js front-end &amp; Flutter mobile app<br/>
@@ -191,7 +191,7 @@ A centralized platform that unifies business locations and data across <b>Google
 
 A comprehensive management system that streamlines company operations — case handling, HR, role-based access, notifications and reporting — through a single admin dashboard.
 
-<b>🛠 Stack:</b> Laravel · Next.js · MySQL · Role-Based Access Control · REST API<br/>
+<b>🛠 Stack:</b> Laravel · Next.js · MySQL · Redis · Role-Based Access Control · REST API<br/>
 <b>🔌 Integrations:</b> Microsoft 365 — Outlook Mail &amp; Calendar APIs · Microsoft Teams · SharePoint · Microsoft (Azure AD / Entra ID) SSO authentication · AWS SES (transactional email)<br/>
 <b>🚀 DevOps:</b> Docker · Docker Compose · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · GCP — Compute Engine, Cloud Storage &amp; Cloud SQL (migrated from AWS EC2 / Lightsail / RDS / S3) · branch-based alpha / beta / prod environments<br/>
 <b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
@@ -211,7 +211,7 @@ A comprehensive management system that streamlines company operations — case h
 
 A B2B e-commerce platform for dental equipment, tailored for dentists — wallet, coupons, stock &amp; shipping management, product recommendations and secure online payments.
 
-<b>🛠 Stack:</b> Laravel · Blade · MySQL · REST API<br/>
+<b>🛠 Stack:</b> Laravel · Blade · MySQL · Redis · REST API<br/>
 <b>🔌 Integrations:</b> Fawaterk (payment gateway) · Odoo ERP (push orders &amp; users, full two-way sync)<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · Time4VPS (VPS hosting)<br/>
 <b>👤 Role:</b> Software Engineer — built end-to-end (Laravel back-end &amp; Blade front-end)<br/>
@@ -230,8 +230,9 @@ A B2B e-commerce platform for dental equipment, tailored for dentists — wallet
 
 A home-services marketplace connecting customers in Egypt with vetted professionals for maintenance, appliance repair and utilities — a customer app plus a dedicated <b>Fixer</b> app for service providers.
 
-<b>🛠 Stack:</b> Laravel · Flutter · MySQL · Firebase (push notifications) · REST API<br/>
-<b>👤 Role:</b> Software Engineer<br/>
+<b>🛠 Stack:</b> Laravel · Blade · Flutter · MySQL · Redis · Firebase (push notifications) · REST API<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3<br/>
+<b>👤 Role:</b> Software Engineer — Laravel + Blade web &amp; Flutter mobile apps<br/>
 <b>✨ Highlights:</b> Service booking · provider (Fixer) app · scheduling · in-app notifications
 
 <p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
