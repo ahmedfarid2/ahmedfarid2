@@ -410,6 +410,22 @@ An online pharmacy storefront for <b>Candlewood Health Mart Pharmacy</b> — ord
 </details>
 
 <details>
+<summary><b>💊 Hayat Rx Pharmacy</b></summary>
+<br/>
+
+An online pharmacy storefront for <b>Hayat Rx Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
+
+<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
+<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+
+<p>
+  <a href="https://www.hayatrx.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>🦷 Xera Lab</b></summary>
 <br/>
 
