@@ -37,7 +37,7 @@
 
 <p align="left"><b>Frameworks &amp; Libraries</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,nextjs,flutter,fastapi,bootstrap,tailwind,materialui,vite,sass" height="48" alt="Laravel, Node.js, Express, React, Next.js, Flutter, FastAPI, Bootstrap, Tailwind, Material UI, Vite, Sass" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi,django,react,nextjs,flutter,bootstrap,tailwind,materialui,vite,sass" height="48" alt="Laravel, Node.js, Express, FastAPI, Django, React, Next.js, Flutter, Bootstrap, Tailwind, Material UI, Vite, Sass" />
 </p>
 
 <p align="left"><b>Databases</b></p>
