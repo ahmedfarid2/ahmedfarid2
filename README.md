@@ -165,9 +165,11 @@ A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Sa
 
 A centralized platform that unifies business locations and data across <b>Google, Facebook, Instagram, X (Twitter)</b> and more — a single source of truth so businesses manage everything from one dashboard instead of juggling provider portals.
 
-<b>🛠 Stack:</b> Laravel · MySQL · Queues/Jobs · Google / Meta / X APIs · REST API<br/>
-<b>👤 Role:</b> Software Engineer<br/>
-<b>✨ Highlights:</b> Multi-provider location sync · review aggregation · engagement analytics · unified updates
+<b>🛠 Stack:</b> Laravel · Next.js · MySQL · Redis · Queue Workers · REST API<br/>
+<b>🔌 Integrations:</b> Google Business Profile API · Google APIs · Meta (Facebook / Instagram) · X (Twitter)<br/>
+<b>🚀 DevOps:</b> Docker · Docker Compose · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS Lightsail · AWS RDS · Cloudflare (DNS &amp; SSL) · branch-based alpha / beta / prod deployments<br/>
+<b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
+<b>✨ Highlights:</b> Multi-provider location sync · review aggregation · engagement analytics · high-volume queue / job processing at scale · unified updates
 
 <p>
   <a href="http://alpha.phonicmaps.com/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
