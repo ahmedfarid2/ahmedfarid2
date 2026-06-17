@@ -312,6 +312,24 @@ A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescrip
 </details>
 
 <details>
+<summary><b>💊 Belmont Pharmacy</b></summary>
+<br/>
+
+A pharmacy app &amp; storefront for <b>Belmont Pharmacy</b> (UK) — order and manage prescriptions, browse products and stay on top of health, built on the Healthera platform.
+
+<b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile (primary), with React web &amp; Django backend<br/>
+<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+
+<p>
+  <a href="https://belmontpharmacy.online/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.healthera.healtheraapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <a href="https://apps.apple.com/gb/app/healthera-pharmacy-app/id1174383039" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>🦷 Xera Lab</b></summary>
 <br/>
 
