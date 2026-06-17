@@ -298,10 +298,10 @@ A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescript
 </details>
 
 <details>
-<summary><b>🏥 Holland Pharmacy</b></summary>
+<summary><b>🏥 Holland Discount Pharmacy</b></summary>
 <br/>
 
-A pharmacy app for <b>Holland Pharmacy</b> (US) — refill and transfer prescriptions, book appointments and stay up to date with health news.
+A pharmacy app for <b>Holland Discount Pharmacy</b> (US) — refill and transfer prescriptions, book appointments and stay up to date with health news.
 
 <b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
 <b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
