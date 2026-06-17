@@ -211,8 +211,9 @@ A comprehensive management system that streamlines company operations — case h
 
 A B2B e-commerce platform for dental equipment, tailored for dentists — wallet, coupons, stock &amp; shipping management, product recommendations and secure online payments.
 
-<b>🛠 Stack:</b> Laravel · Blade · MySQL · Docker · REST API<br/>
+<b>🛠 Stack:</b> Laravel · Blade · MySQL · REST API<br/>
 <b>🔌 Integrations:</b> Fawaterk (payment gateway) · Odoo ERP (push orders &amp; users, full two-way sync)<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · Time4VPS (VPS hosting)<br/>
 <b>👤 Role:</b> Software Engineer<br/>
 <b>✨ Highlights:</b> Admin dashboard · wallet &amp; coupons · stock &amp; shipping · product recommendations · roles &amp; reports
 
