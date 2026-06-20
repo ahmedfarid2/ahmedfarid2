@@ -451,11 +451,11 @@ A <b>storefront &amp; online-refill site for Gulf Coast Pharmacy, a patient-cent
 <summary><b>💊 Callaway Gulf Coast Pharmacy</b></summary>
 <br/>
 
-A <b>white-label online pharmacy storefront for Callaway Pharmacy (Gulf Coast)</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
+A <b>storefront &amp; online-refill site for Callaway Gulf Coast Pharmacy, the Gulf Coast Pharmacy group's second location on N. Tyndall Pkwy in Callaway, FL</b>, serving the Callaway and Tyndall AFB community. It carries the same patient-centered, independent-pharmacy services to the east-side neighborhood — complimentary doorstep delivery, Med Sync monthly fills, pharmacist consultations and medication counseling — and lets local patients submit refill and transfer requests online that reach the pharmacy as background fax &amp; email tasks.
 
-<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
+<b>🛠 Stack:</b> React · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
+<b>✨ Highlights:</b> Online refill &amp; transfer requests · serves the Callaway / Tyndall AFB area · free doorstep delivery &amp; Med Sync · pharmacist consultations &amp; counseling · async fax/email routing to the pharmacy
 
 <p>
   <a href="https://www.callawaypharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
