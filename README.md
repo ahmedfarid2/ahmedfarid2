@@ -563,11 +563,12 @@ A <b>storefront &amp; online repeat-prescription site for Village Pharmacy, an N
 <summary><b>🦷 Xera Lab</b></summary>
 <br/>
 
-A dental-outsourcing platform positioning itself as a global dental outsource partner — connecting labs, manufacturers and dentists so they can scale faster.
+A <b>B2B dental-outsourcing marketplace built to act as a global dental outsource partner</b> — connecting dental practices with labs and manufacturers so clinics can outsource crowns, aligners and prosthetics and scale without growing in-house lab capacity. The platform centralises case submission and the multi-party order &amp; case-management workflow that runs between dentist, lab and manufacturer.
 
 <b>🛠 Stack:</b> Laravel · MySQL · REST API<br/>
-<b>👤 Role:</b> Software Engineer<br/>
-<b>✨ Highlights:</b> Lab–dentist marketplace · order &amp; case management · multi-party workflow
+<b>👤 Role:</b> Software Engineer — Laravel back-end<br/>
+<b>✨ Highlights:</b> Lab–dentist–manufacturer marketplace · case submission &amp; tracking · multi-party order &amp; case-management workflow · role-based accounts<br/>
+<b>🚧 Status:</b> Built but not publicly launched — development stopped.
 
 </details>
 
@@ -575,11 +576,12 @@ A dental-outsourcing platform positioning itself as a global dental outsource pa
 <summary><b>🏠 Ofoq</b></summary>
 <br/>
 
-A home-services app for the Saudi market connecting households with trusted workers for cleaning, maintenance and household tasks.
+An <b>on-demand home-services app for the Saudi market</b>, connecting households with vetted workers for cleaning, maintenance and everyday household tasks — browse services, book a worker for a chosen time slot, and manage requests end to end from the app.
 
 <b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
-<b>👤 Role:</b> Software Engineer<br/>
-<b>✨ Highlights:</b> Service booking · worker matching · scheduling
+<b>👤 Role:</b> Software Engineer — Flutter mobile<br/>
+<b>✨ Highlights:</b> Service booking &amp; scheduling · worker matching · request management · Firebase real-time backend<br/>
+<b>🚧 Status:</b> Built but not publicly launched — development stopped.
 
 </details>
 
