@@ -256,10 +256,10 @@ A comprehensive management system that streamlines company operations — case h
 <summary><b>🦷 Compass Med</b></summary>
 <br/>
 
-A <b>full-stack medical e-commerce &amp; healthcare platform for the Egyptian market</b>. Customers browse a categorized catalog of medical products, download product documents, manage a cart, wishlist and store-credit wallet, then check out via online payment or cash-on-delivery with city-based shipping rules. Beyond the storefront it runs a content-rich knowledge hub, event registration with live raffle draws, partner/clinic showcase pages, and a permission-driven admin dashboard with sales analytics, Excel reporting, returns and order tracking.
+A <b>full-stack dental e-commerce &amp; healthcare platform for the Egyptian market</b>. Dentists and dental clinics browse a categorized catalog of dental products and equipment, download product documents, manage a cart, wishlist and store-credit wallet, then check out via online payment or cash-on-delivery with city-based shipping rules. Beyond the storefront it runs a content-rich knowledge hub, event registration with live raffle draws, partner/clinic showcase pages, and a permission-driven admin dashboard with sales analytics, Excel reporting, returns and order tracking.
 
 <b>🛠 Stack:</b> Laravel 12 · PHP 8.4 · MySQL · Blade · Alpine.js · Tailwind CSS 3 · Vite · Redis · Laravel Sanctum<br/>
-<b>🔌 Integrations:</b> Fawaterak &amp; Fawry payment gateways · SMTP email · AWS S3 storage · Pusher broadcasting · DomPDF invoice generation · Laravel Excel exports · Laratrust RBAC · Bavix Wallet · Telescope<br/>
+<b>🔌 Integrations:</b> Fawaterak &amp; Fawry payment gateways · Odoo ERP (two-way sync of orders &amp; users) · SMTP email · AWS S3 storage · Pusher broadcasting · DomPDF invoice generation · Laravel Excel exports · Laratrust RBAC · Bavix Wallet · Telescope<br/>
 <b>✨ Highlights:</b> Cart, wishlist &amp; multi-tier checkout (online + COD) · Coupons, sales-rep codes &amp; wallet credit · City-based free/standard shipping engine · Order tracking, returns &amp; cancellations with PDF invoices · Knowledge hub &amp; event registration with raffle draws · Role/permission admin dashboard with charts, reports &amp; activity logging<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · Time4VPS (VPS hosting)<br/>
 <b>👤 Role:</b> Software Engineer — built end-to-end (Laravel back-end &amp; Blade front-end)
