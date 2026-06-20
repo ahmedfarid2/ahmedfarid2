@@ -290,12 +290,13 @@ A home-services marketplace connecting customers in Egypt with vetted profession
 <summary><b>🧩 Ezhal</b></summary>
 <br/>
 
-A management platform for <b>Ezhal</b> (Qatar) — a Laravel admin panel with three companion mobile apps (<b>Manager</b>, <b>Customer</b> and <b>Employee</b>). 🚧 Currently in active development (mobile apps not yet released).
+A <b>multi-tenant car-service booking platform (CarQ) with a Laravel backend powering three role-specific Flutter apps for customers, on-the-road employees, and shop managers</b>. Customers book mobile car wash/detailing slots, pay through a wallet, points, stamps or card, and follow their technician live as they go on-the-way → arrived → started → completed; managers run schedules, time-off approvals, services, and customer wallets from a dedicated app. Standout features include passwordless email login codes, Apple Wallet loyalty passes with the full PassKit web service for device-side updates, and concurrency-safe slot reservations that lock the chosen employee before re-checking conflicts.
 
-<b>🛠 Stack:</b> Laravel · Blade · Flutter · MariaDB · REST API<br/>
+<b>🛠 Stack:</b> Laravel 12 · PHP 8.4 · MariaDB 11 · Laravel Passport (multi-guard OAuth2) · Scramble OpenAPI · Flutter 3 · Riverpod · flutter_modular · Dio/Retrofit · Hive · slang (EN/AR)<br/>
+<b>🔌 Integrations:</b> MyFatoorah · Stripe · PayPal · Firebase (Messaging, Auth, Firestore, Functions) · Apple PassKit &amp; APNs · Google Sign-In · Sign in with Apple · Twilio SMS · Geolocator<br/>
+<b>✨ Highlights:</b> Three role-scoped APIs (customer/employee/manager) behind separate auth guards · Reserve → confirm booking flow with <code>lockForUpdate</code> slot conflict re-check · Apple Wallet pass web service (device registration, update polling, push) · Live employee location updates with on-the-way/arrived/started/completed state machine · Wallet, points, stamps and subscription-plan billing · Manager dashboard for employees, weekly schedules, time-off approvals, holidays and customer wallet adjustments<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks) · Cloudflare (DNS &amp; SSL) · Hostinger VPS<br/>
-<b>👤 Role:</b> Software Engineer — Laravel + Blade admin panel &amp; Flutter mobile apps<br/>
-<b>✨ Highlights:</b> Admin portal · Manager / Customer / Employee apps · role-based workflows
+<b>👤 Role:</b> Software Engineer — Laravel + Blade admin panel &amp; Flutter mobile apps
 
 <p>
   <a href="https://alpha.ezhal-qtr.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
