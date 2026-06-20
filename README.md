@@ -419,11 +419,11 @@ A pharmacy app &amp; storefront for <b>Belmont Pharmacy</b> (UK) — order and m
 <summary><b>💊 City Drugs Pharmacy</b></summary>
 <br/>
 
-A <b>white-label online pharmacy storefront for City Drugs Pharmacy (US)</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
+A <b>storefront &amp; online-refill site for City Drugs, an independent Gulf Coast pharmacy in Panama City, FL</b> (<i>"Your Health, Our Priority"</i>). Built around the pharmacy's signature offering — <b>free monthly delivery within a 15-mile radius</b> with refills coordinated so a patient's medications arrive together each month — the site lets patients request refills and prescription transfers online and reach the pharmacist for consultations, leaning on the personal-service, short-wait, lowest-price experience that sets an independent apart from the chains. Requests are dispatched to the pharmacy as background fax &amp; email tasks.
 
-<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
+<b>🛠 Stack:</b> React · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
+<b>✨ Highlights:</b> Online refill &amp; transfer requests · free 15-mile-radius delivery with monthly refill sync · pharmacist consultation contact · responsive storefront · async fax/email routing to the pharmacy
 
 <p>
   <a href="https://www.uscitydrugs.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
