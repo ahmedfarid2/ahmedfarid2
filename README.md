@@ -174,13 +174,13 @@ A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Sa
 <summary><b>📍 Phonic Maps</b></summary>
 <br/>
 
-A centralized platform that unifies business locations and data across <b>Google, Facebook, Instagram, X (Twitter)</b> and more — a single source of truth so businesses manage everything from one dashboard instead of juggling provider portals.
+A <b>multi-tenant location &amp; review management platform for multi-location businesses</b>. Resellers onboard their business clients as tenants, who then sync storefronts to Google My Business via OAuth, reply to customer reviews with AI-suggested responses, publish promotional posts across many locations at once, and track per-location performance metrics from a single dashboard. The reseller→business hierarchy, scoped role-based permissions, and CSV bulk-import scale it from a single SMB up to franchise operators with hundreds of storefronts.
 
-<b>🛠 Stack:</b> Laravel · Next.js · MySQL · MongoDB · InfluxDB · Redis · Queue Workers · REST API<br/>
-<b>🔌 Integrations:</b> Google Business Profile API · Google APIs · Meta (Facebook / Instagram) · X (Twitter)<br/>
+<b>🛠 Stack:</b> Laravel 12 · PHP 8.4 · Next.js 16 · React 19 · TypeScript · MySQL · Redis · MongoDB · Laravel Horizon · JWT (tymon/jwt-auth) · Sanctum · Tailwind CSS v4 · Radix UI · TanStack Query · Zustand · React Hook Form · Zod · Recharts · @vis.gl/react-google-maps · Nx monorepo · Docker Compose<br/>
+<b>🔌 Integrations:</b> Google My Business API · Google OAuth via Laravel Socialite · Google Pub/Sub review webhooks · OpenAI · AWS SES · Postmark · Resend · Slack · OpenTelemetry<br/>
+<b>✨ Highlights:</b> Google My Business OAuth sync of locations, reviews &amp; performance metrics · AI-generated review reply suggestions with reusable templates and per-location auto-reply rules · Multi-location promotional posts (offers, events, alerts) with batched publishing · Bulk location management with CSV import/export and photo/media lifecycle · Multi-tenant reseller→business hierarchy with invitations, suspension and password override · Performance analytics (ratings, review volume, search keywords) backed by Horizon-queued background jobs and Spatie activity-log audit trail<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS Lightsail · AWS RDS · Cloudflare (DNS &amp; SSL) · trunk-based development with alpha / beta / prod environments<br/>
-<b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
-<b>✨ Highlights:</b> Multi-provider location sync · review aggregation · engagement analytics · high-volume queue / job processing at scale · unified updates
+<b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end
 
 <p>
   <a href="http://alpha.phonicmaps.com/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
