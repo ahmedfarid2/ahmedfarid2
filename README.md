@@ -547,11 +547,11 @@ A <b>storefront &amp; online-refill site for Northside Pharmacy, a community pha
 <summary><b>💊 Village Pharmacy</b></summary>
 <br/>
 
-A <b>white-label online pharmacy storefront for Village Pharmacy (UK)</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
+A <b>storefront &amp; online repeat-prescription site for Village Pharmacy, an NHS community pharmacy in the UK</b> (<i>"your local healthcare hub"</i>). Tailored to the NHS model, it lets patients register and order their <b>repeat medication</b> online — the pharmacy then forwards the request to the patient's GP surgery and notifies them to collect or have it delivered. The site also presents the pharmacy's NHS and private services: seasonal flu vaccinations, the New Medicine Service for chronic conditions, blood-pressure checks and a Monitored Dosage Service to help organise medicines.
 
-<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
+<b>🛠 Stack:</b> React · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
+<b>✨ Highlights:</b> Online repeat-prescription ordering with GP-surgery forwarding · collect or home delivery · NHS New Medicine Service · flu vaccinations &amp; blood-pressure checks · Monitored Dosage Service · async request routing to the pharmacy
 
 <p>
   <a href="https://village-pharmacy.uk/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
