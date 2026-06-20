@@ -467,11 +467,11 @@ A <b>storefront &amp; online-refill site for Callaway Gulf Coast Pharmacy, the G
 <summary><b>🏛️ Almani Health Institute</b></summary>
 <br/>
 
-A website for <b>Almani Health Institute</b> — presenting the institute's programs, services and information.
+A <b>marketing &amp; services website for Al-Mani Health Institute, an orthopedic and injury-recovery practice in Tamarac, FL</b>. The institute specializes in treating patients injured in road accidents and at work — orthopedic surgery across hip &amp; knee, spinal, foot &amp; ankle and hand &amp; upper-extremity, plus kyphoplasty, Enhanced Recovery After Surgery (ERAS), durable medical equipment and independent medical evaluations. A distinctive angle is its legal/insurance support: the site speaks to attorneys and claims adjusters handling road-accident and workers'-comp cases as much as to patients, organising the practice's many service lines into clear, searchable pages and routing enquiries to the right team.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>🛠 Stack:</b> React · Django · Django REST Framework · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Informational site · responsive UI · content management
+<b>✨ Highlights:</b> Orthopedic specialist service pages (hip &amp; knee · spinal · foot &amp; ankle · hand &amp; upper-extremity) · ERAS &amp; kyphoplasty programs · durable medical equipment with Medicare/insurance billing · independent medical evaluation (IME) · legal &amp; workers'-comp / adjuster support flows · enquiry routing for patients, attorneys &amp; payers
 
 <p>
   <a href="https://www.almaniinstitute.org/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
