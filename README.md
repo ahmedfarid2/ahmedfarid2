@@ -37,7 +37,7 @@
 
 <p align="left"><b>Frameworks &amp; Libraries</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,fastapi,django,react,nextjs,flutter,bootstrap,tailwind,materialui,vite,sass" height="48" alt="Laravel, Node.js, Express, NestJS, FastAPI, Django, React, Next.js, Flutter, Bootstrap, Tailwind, Material UI, Vite, Sass" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,fastapi,django,react,nextjs,vue,flutter,bootstrap,tailwind,materialui,vite,sass" height="48" alt="Laravel, Node.js, Express, NestJS, FastAPI, Django, React, Next.js, Vue, Flutter, Bootstrap, Tailwind, Material UI, Vite, Sass" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/shadcnui/000000" height="42" alt="shadcn/ui" />
 </p>
