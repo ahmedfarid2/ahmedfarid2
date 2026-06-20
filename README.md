@@ -483,11 +483,11 @@ A website for <b>Almani Health Institute</b> — presenting the institute's prog
 <summary><b>💊 Candlewood Health Mart Pharmacy</b></summary>
 <br/>
 
-A <b>white-label online pharmacy storefront for Candlewood Health Mart Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
+A <b>storefront &amp; online-refill site for Candlewood Health Mart Pharmacy, an independent pharmacy and home-medical-equipment supplier in Manhattan, KS (locally owned for ~28 years)</b>. This pharmacy does far more than fill scripts — CPAP &amp; durable medical equipment, compounding, immunizations, multi-dose adherence packaging and medication therapy management — and the site puts those services front and center while letting patients request refills and transfers online, with each request dispatched to the pharmacy as background fax &amp; email tasks.
 
-<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
+<b>🛠 Stack:</b> React · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
+<b>✨ Highlights:</b> Online refill &amp; transfer requests · CPAP &amp; home medical equipment showcase · compounding &amp; immunizations · multi-dose adherence packaging &amp; med sync · async fax/email routing to the pharmacy
 
 <p>
   <a href="https://www.candlewoodpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
