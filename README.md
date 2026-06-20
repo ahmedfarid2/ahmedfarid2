@@ -325,11 +325,11 @@ A <b>multi-tenant car-service booking platform (CarQ) with a Laravel backend pow
 <summary><b>🌐 RevealSite</b></summary>
 <br/>
 
-The corporate website for <b>RevealSite</b> — the software house behind the pharmacy app suite (J&amp;D, Quick Rx, Holland and more) — showcasing their products and services.
+The <b>company &amp; platform behind every pharmacy product in this portfolio</b>. RevealSite is a software and digital-marketing company that works exclusively with independent and community pharmacies — effectively their outsourced digital department. It builds custom patient apps and websites and runs a multi-tenant, white-label engagement platform: a new pharmacy spins up by <code>client_id</code> with its own branding, hours and storefront, and patients get prescription refills, transfers, appointment booking, medication reminders and two-way messaging — with each request auto-routed to the pharmacy by fax &amp; email. <b>This is where I worked as a software engineer</b>, building and shipping the apps and sites you see above (J&amp;D, Quick Rx, Holland, Medical Compounding, Belmont and the City Drugs / Gulf Coast / Candlewood / Hayat / Long Life / Northside / Village storefronts) on top of this one shared platform.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — React front-end (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Product showcase · responsive single-page UI
+<b>🛠 Stack:</b> Flutter (patient apps) · React (pharmacy sites &amp; corporate web) · Django · Django REST Framework · Celery · PostgreSQL · multi-tenant white-label architecture · REST API<br/>
+<b>👤 Role:</b> Software Engineer — delivered patient apps (Flutter) &amp; pharmacy websites (React) and built backend features (Django) across the client portfolio<br/>
+<b>✨ Highlights:</b> Multi-tenant white-label platform — one codebase, many branded pharmacies provisioned by client ID · custom iOS/Android patient apps &amp; React storefronts · refills, transfers, appointment booking, reminders &amp; two-way patient messaging · automated fax/email request routing via Celery · patient-engagement &amp; medication-adherence tooling · 12+ live pharmacy products delivered on one platform
 
 <p>
   <a href="https://revealsite.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
