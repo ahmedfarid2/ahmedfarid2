@@ -435,11 +435,11 @@ A <b>storefront &amp; online-refill site for City Drugs, an independent Gulf Coa
 <summary><b>💊 Gulf Coast Pharmacy</b></summary>
 <br/>
 
-A <b>white-label online pharmacy storefront for Gulf Coast Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
+A <b>storefront &amp; online-refill site for Gulf Coast Pharmacy, a patient-centered independent pharmacy on W. 23rd St. in Panama City, FL (est. 2009)</b>. The site surfaces what makes this pharmacy different — complimentary doorstep delivery, <b>Med Sync</b> (every prescription filled on one convenient day each month), one-on-one health consultations and medication counseling, and even <b>pet medications &amp; health products</b> — while letting patients submit refill and transfer requests online that flow to the pharmacy as background fax &amp; email tasks.
 
-<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
+<b>🛠 Stack:</b> React · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
+<b>✨ Highlights:</b> Online refill &amp; transfer requests · free doorstep delivery · Med Sync monthly fill-day · health consultations &amp; medication counseling · pet medication &amp; health products · async fax/email routing to the pharmacy
 
 <p>
   <a href="https://www.gulfrx.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
