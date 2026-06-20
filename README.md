@@ -228,7 +228,7 @@ A <b>decarbonization planning platform for municipalities</b>. City officials di
 <p>
   <a href="https://beta.qoralia.io/en/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
   <a href="https://beta.qoralia.io/en/admin" target="_blank"><img alt="Admin" src="https://img.shields.io/badge/Admin-1D4ED8?style=for-the-badge" /></a>
-  <a href="https://beta.qoralia.io/en/compact" target="_blank"><img alt="Compact" src="https://img.shields.io/badge/Compact-059669?style=for-the-badge" /></a>
+  <a href="https://beta.qoralia.io/en/company/login" target="_blank"><img alt="Company" src="https://img.shields.io/badge/Company-059669?style=for-the-badge" /></a>
 </p>
 
 </details>
