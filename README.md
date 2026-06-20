@@ -371,11 +371,12 @@ A <b>white-label patient companion app for a community &amp; compounding pharmac
 <summary><b>⚡ Quick RX</b></summary>
 <br/>
 
-A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescription transfers, appointment scheduling and medication reminders.
+A <b>white-label patient companion app for Quick Rx</b>, with its Django REST backend and React web frontend. Patients request prescription refills for pickup or delivery, transfer prescriptions in from another pharmacy, schedule multi-dose medication reminders, and book appointments — every request is automatically faxed and emailed to the pharmacy and tracked to completion in the background. Built multi-tenant from one codebase, branded per pharmacy at runtime.
 
-<b>🛠 Stack:</b> Flutter · React · Django · Local Notifications · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Refills &amp; transfers · appointment scheduling · medication reminders · health news
+<b>🛠 Stack:</b> Flutter · Dart · Clean Architecture · BLoC/Cubit (flutter_bloc) · flutter_modular · Dio · Hive · flutter_secure_storage (mobile) · Django · Django REST Framework · Celery · React · PostgreSQL (backend &amp; web)<br/>
+<b>🔌 Integrations:</b> Django REST API (RevealSite backend) · JWT auth with refresh tokens · OTP/SMS verification · automated fax &amp; email request routing via Celery with async task-status polling · local push notifications (flutter_local_notifications + timezone) · Google Maps deep links<br/>
+<b>✨ Highlights:</b> Refill requests with pickup/delivery &amp; multi-prescription support · pharmacy-to-pharmacy prescription transfers · scheduled multi-dose medication reminders &amp; medication history · appointment booking &amp; health news · HIPAA consent with secure JWT/OTP auth · offline-first Hive caching with runtime branding<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.quickrxapp&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/ke/app/quick-rx/id6517353130" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
@@ -385,11 +386,12 @@ A pharmacy app for <b>Quick Rx</b> focused on convenience — refills, prescript
 <summary><b>🏥 Holland Discount Pharmacy</b></summary>
 <br/>
 
-A pharmacy app for <b>Holland Discount Pharmacy</b> (US) — refill and transfer prescriptions, book appointments and stay up to date with health news.
+A <b>white-label patient companion app for Holland Discount Pharmacy (US)</b>, with its Django REST backend and React web frontend. Patients request prescription refills for pickup or delivery, transfer prescriptions in from another pharmacy, schedule multi-dose medication reminders, and book appointments — every request is automatically faxed and emailed to the pharmacy and tracked to completion in the background. Built multi-tenant from one codebase, branded per pharmacy at runtime.
 
-<b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
+<b>🛠 Stack:</b> Flutter · Dart · Clean Architecture · BLoC/Cubit (flutter_bloc) · flutter_modular · Dio · Hive · flutter_secure_storage (mobile) · Django · Django REST Framework · Celery · React · PostgreSQL (backend &amp; web)<br/>
+<b>🔌 Integrations:</b> Django REST API (RevealSite backend) · JWT auth with refresh tokens · OTP/SMS verification · automated fax &amp; email request routing via Celery with async task-status polling · local push notifications (flutter_local_notifications + timezone) · Google Maps deep links<br/>
+<b>✨ Highlights:</b> Refill requests with pickup/delivery &amp; multi-prescription support · pharmacy-to-pharmacy prescription transfers · scheduled multi-dose medication reminders &amp; medication history · appointment booking &amp; health news · HIPAA consent with secure JWT/OTP auth · offline-first Hive caching with runtime branding<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support
 
 <p><a href="https://hollanddiscountpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.reveal.holland" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/holland-pharmacy/id6739270980" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
@@ -417,11 +419,11 @@ A pharmacy app &amp; storefront for <b>Belmont Pharmacy</b> (UK) — order and m
 <summary><b>💊 City Drugs Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>City Drugs Pharmacy</b> (US) — order and manage prescriptions, browse products and stay on top of health.
+A <b>white-label online pharmacy storefront for City Drugs Pharmacy (US)</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
 
 <p>
   <a href="https://www.uscitydrugs.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -433,11 +435,11 @@ An online pharmacy storefront for <b>City Drugs Pharmacy</b> (US) — order and 
 <summary><b>💊 Gulf Coast Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>Gulf Coast Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
+A <b>white-label online pharmacy storefront for Gulf Coast Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
 
 <p>
   <a href="https://www.gulfrx.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -449,11 +451,11 @@ An online pharmacy storefront for <b>Gulf Coast Pharmacy</b> — order and manag
 <summary><b>💊 Callaway Gulf Coast Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>Callaway Pharmacy</b> (Gulf Coast) — order and manage prescriptions, browse products and stay on top of health.
+A <b>white-label online pharmacy storefront for Callaway Pharmacy (Gulf Coast)</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
 
 <p>
   <a href="https://www.callawaypharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -481,11 +483,11 @@ A website for <b>Almani Health Institute</b> — presenting the institute's prog
 <summary><b>💊 Candlewood Health Mart Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>Candlewood Health Mart Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
+A <b>white-label online pharmacy storefront for Candlewood Health Mart Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
 
 <p>
   <a href="https://www.candlewoodpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -497,11 +499,11 @@ An online pharmacy storefront for <b>Candlewood Health Mart Pharmacy</b> — ord
 <summary><b>💊 Hayat Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>Hayat Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
+A <b>white-label online pharmacy storefront for Hayat Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
 
 <p>
   <a href="https://www.hayatrx.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -513,11 +515,11 @@ An online pharmacy storefront for <b>Hayat Pharmacy</b> — order and manage pre
 <summary><b>💊 Long Life Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>Long Life Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
+A <b>white-label online pharmacy storefront for Long Life Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
 
 <p>
   <a href="https://llpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -529,11 +531,11 @@ An online pharmacy storefront for <b>Long Life Pharmacy</b> — order and manage
 <summary><b>💊 Northside Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>Northside Pharmacy</b> — order and manage prescriptions, browse products and stay on top of health.
+A <b>white-label online pharmacy storefront for Northside Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
 
 <p>
   <a href="https://northsideph.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -545,11 +547,11 @@ An online pharmacy storefront for <b>Northside Pharmacy</b> — order and manage
 <summary><b>💊 Village Pharmacy</b></summary>
 <br/>
 
-An online pharmacy storefront for <b>Village Pharmacy</b> (UK) — order and manage prescriptions, browse products and stay on top of health.
+A <b>white-label online pharmacy storefront for Village Pharmacy (UK)</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
 
-<b>🛠 Stack:</b> React · Django · REST API<br/>
+<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
 
 <p>
   <a href="https://village-pharmacy.uk/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
