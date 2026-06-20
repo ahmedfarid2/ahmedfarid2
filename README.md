@@ -194,14 +194,13 @@ A <b>multi-tenant location &amp; review management platform for multi-location b
 <summary><b>🎓 KhebraOS</b></summary>
 <br/>
 
-A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale their own online academies — courses, digital products, coaching, marketing and AI tooling, all in one place. Minimalist black &amp; white UI with bilingual Arabic / English support.
+An <b>Arabic-first all-in-one academy platform</b> that lets creators launch a branded online school at <code>username.khebraos.com</code>. Trainers, coaches, and entrepreneurs build courses, sell digital products, run 1:1 coaching, and market via funnels and landing pages — all RTL, bilingual, and powered by a 6-step AI Course Wizard that generates scripts, narration, covers, and promo videos in minutes.
 
-<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · Express · Node.js · Drizzle ORM · PostgreSQL · Zod · Nx monorepo · OpenAPI / Orval<br/>
-<b>🤖 AI:</b> OpenAI (gpt-4o-mini) · ElevenLabs (TTS) · DALL·E 3 · ffmpeg · Sharp · Pexels<br/>
-<b>🔌 Integrations:</b> JWT + Google OAuth · Resend (email) · Google Cloud Storage · Zoom · Calendly · IMAP/SMTP inbox · SSE (PostgreSQL LISTEN/NOTIFY)<br/>
-<b>🏗 Architecture:</b> B2B2C · role-based panels — public academy sites &amp; student area (B2C) · creator/academy dashboard with scoped team permissions (B2B tenants) · platform super-admin · multi-tenant on subdomains<br/>
-<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)<br/>
-<b>✨ Highlights:</b> LMS (courses · quizzes · exams · certificates) · 6-step AI Course Wizard · 3-tier subscriptions with server-side limit enforcement · landing-page &amp; funnel builders · email marketing &amp; link-in-bio · live chat + AI email inbox · real-time notifications · 55+ DB tables
+<b>🛠 Stack:</b> React 19 · Vite 7 · Tailwind CSS 4 · TypeScript · TanStack Query · TipTap · Radix UI (shadcn/ui) · wouter · Framer Motion · dnd-kit · Express 5 · Node 24 · Drizzle ORM · PostgreSQL · Zod · OpenAPI + Orval codegen · Helmet · Pino · Sharp · ffmpeg · Vitest · Playwright · pnpm + Nx monorepo<br/>
+<b>🤖 AI:</b> OpenAI GPT-4o-mini (course content, AI page/funnel builder, creator business coach, email reply suggestions) · ElevenLabs <code>eleven_multilingual_v2</code> (10 Arabic TTS voices &amp; voice cloning) · DALL·E 3 (course cover art) · cost-guard quotas for per-user &amp; global API spend<br/>
+<b>🔌 Integrations:</b> Resend (transactional &amp; marketing email) · IMAP/SMTP inbox with AI-suggested replies · Google Cloud Storage (Replit Object Storage) · Cloudinary (legacy assets) · Pexels (stock video/photo) · Zoom Server-to-Server OAuth (coaching meeting links) · Calendly OAuth · Google OAuth · GTM / GA4 / Meta / Snapchat / TikTok pixel injection · PostgreSQL LISTEN/NOTIFY for SSE notifications<br/>
+<b>✨ Highlights:</b> 6-step AI Course Wizard (script → narration → music → cover → promo video via ffmpeg Ken Burns + xfade) · Multi-tier subscriptions (Silver/Gold/Strategic) with server-enforced limits, 5-day trial &amp; grace-period emails · Coaching slots with Zoom auto-meetings and one-time reschedule-token email links · Drag-and-drop landing page &amp; funnel builder with AI content generation · Floating "كوتشك الخاص" creator business-coach chat widget · Per-academy theming (6 palettes, custom fonts, logo sizing) on custom subdomains/CNAMEs · Real-time admin Action Center and SSE notifications via Postgres LISTEN/NOTIFY · OpenAPI-first contract with shared Zod schemas, changelog-gated deploys, and cost-protection quotas across all paid APIs<br/>
+<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)
 
 <p>
   <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
