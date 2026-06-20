@@ -499,11 +499,11 @@ A <b>storefront &amp; online-refill site for Candlewood Health Mart Pharmacy, an
 <summary><b>💊 Hayat Pharmacy</b></summary>
 <br/>
 
-A <b>white-label online pharmacy storefront for Hayat Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
+A <b>storefront, store-locator &amp; online-refill site for Hayat Pharmacy, a chain of 18 community pharmacies across Southeast Wisconsin (Milwaukee)</b>. Hayat's mission is culturally-competent care for the area's diverse immigrant and refugee communities — services are delivered in <b>20+ languages</b>, in-store, at community sites and in patients' homes. The site presents its full service range — free delivery, specialized adherence packaging, monthly Rx sync, a walk-in vaccine clinic (routine &amp; travel), in-home consultations and medical-equipment fittings — and lets patients find their nearest of 18 locations and submit refill/transfer requests online, routed to the pharmacy as background fax &amp; email tasks.
 
-<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
+<b>🛠 Stack:</b> React · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
+<b>✨ Highlights:</b> Multi-location store locator (18 sites) · online refill &amp; transfer requests · care in 20+ languages · walk-in routine &amp; travel vaccine clinic · adherence packaging, Rx sync &amp; in-home services · async fax/email routing to the pharmacy
 
 <p>
   <a href="https://www.hayatrx.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
