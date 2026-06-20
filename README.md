@@ -149,13 +149,13 @@
 <summary><b>🚗 Yelo Sale</b></summary>
 <br/>
 
-A car-rental sales platform for <b>Yelo</b> (90+ branches across 23 cities in Saudi Arabia, with airport locations in KSA, Dubai &amp; Cairo). Ships admin, B2B and B2C portals plus a mobile app.
+A <b>B2B2C vehicle auction &amp; sales platform for the Gulf market (SAR, Arabic/English)</b>. Fleet owners and dealerships list cars and lots, customers browse and compete in real-time live auctions — placing bids or setting automatic proxy bids — then reserve and pay online, while admins govern companies, catalogs and bidder verification. It replaces opaque offline vehicle remarketing with a transparent, real-time digital auction house spanning web and mobile, backed by ERP-synced invoicing and a full inventory state machine from listing to delivery.
 
-<b>🛠 Stack:</b> Laravel · Next.js · Flutter · MySQL · Redis · REST API<br/>
-<b>🔌 Integrations:</b> PayFort / Amazon Payment Services · Infinito SMS · Yelo ERP<br/>
+<b>🛠 Stack:</b> Laravel 11 · Next.js 14 · React · TypeScript · Flutter (BLoC) · MySQL · Redis · Socket.IO · Node.js · Tailwind CSS · TanStack React Query · Nx monorepo · JWT (multi-guard)<br/>
+<b>🔌 Integrations:</b> Amazon Payfort (payments) · GoInfinito SMS (OTP) · Microsoft Dynamics 365 ERP · Firebase Cloud Messaging (push) · AWS S3 · SMTP email<br/>
+<b>✨ Highlights:</b> Real-time WebSocket live bidding · automatic proxy auto-bidding with max-bid ceilings · vehicle &amp; lot inventory with full sales-pipeline state machine · three-tier RBAC (Admin / Company / Customer) with separate JWT guards · Dynamics 365 ERP sync for customers, vehicles &amp; invoices · sales-summary reports, invoicing &amp; PDF/QR generation · OTP-gated onboarding with KYC bidder authorization · Arabic/English i18n with RTL<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL) · trunk-based development with alpha / beta / prod environments<br/>
-<b>👤 Role:</b> Software Engineer — Laravel back-end, Next.js front-end &amp; Flutter mobile app<br/>
-<b>✨ Highlights:</b> Admin dashboard · B2B &amp; B2C modules · mobile app · payments &amp; SMS integrations · automated CI/CD to alpha, beta &amp; production
+<b>👤 Role:</b> Software Engineer — Laravel back-end, Next.js front-end &amp; Flutter mobile app
 
 <p>
   <a href="https://sales.iyelo.com/en/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
