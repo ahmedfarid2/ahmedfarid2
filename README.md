@@ -515,11 +515,11 @@ A <b>storefront, store-locator &amp; online-refill site for Hayat Pharmacy, a ch
 <summary><b>💊 Long Life Pharmacy</b></summary>
 <br/>
 
-A <b>white-label online pharmacy storefront for Long Life Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
+A <b>storefront &amp; online-refill site for Long Life Pharmacy, a community pharmacy with several locations on Milwaukee's South Side</b>. What sets it apart is care under one roof — an on-site <b>walk-in clinic</b> alongside the pharmacy — backed by specialized compounding, immunizations, free delivery, a medication-adherence program with multi-dose packaging and Rx sync, and even pet-care products. The site showcases those services and lets patients submit refill and transfer requests online, dispatched to the pharmacy as background fax &amp; email tasks.
 
-<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
+<b>🛠 Stack:</b> React · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
+<b>✨ Highlights:</b> Online refill &amp; transfer requests · on-site walk-in clinic · specialized compounding &amp; immunizations · medication-adherence multi-dose packaging &amp; Rx sync · free delivery &amp; pet care · async fax/email routing to the pharmacy
 
 <p>
   <a href="https://llpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
