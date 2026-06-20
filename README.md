@@ -341,11 +341,12 @@ The corporate website for <b>RevealSite</b> — the software house behind the ph
 <summary><b>💊 J&amp;D Pharmacy</b></summary>
 <br/>
 
-A pharmacy app for <b>J&amp;D Pharmacy</b> — manage prescriptions, browse medical equipment, read health news and connect directly with pharmacists.
+A <b>patient-facing mobile app for an independent retail pharmacy</b>. Patients register and sign in via OTP, then request prescription refills (no account required for guest refills), transfer prescriptions in from another pharmacy, book consultation appointments, and track each request's status in real time. Standout features include timezone-aware medication reminders delivered as scheduled local notifications, a full medication history, and a HIPAA-compliance &amp; pharmacy-info hub — all built on a clean, modular architecture.
 
-<b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription management · medical-equipment catalog · health news · pharmacist contact
+<b>🛠 Stack:</b> Flutter · Dart · BLoC/Cubit (flutter_bloc) · flutter_modular (DI &amp; routing) · Dio · Hive · flutter_secure_storage · flutter_screenutil · Clean Architecture (data/domain/presentation)<br/>
+<b>🔌 Integrations:</b> REST backend (RevealSite async API) · JWT auth with token refresh · Celery task-status polling for async refill processing · flutter_local_notifications + flutter_timezone · url_launcher (maps/call/email) · cached_network_image · in_app_review · upgrader (force-update) · HTML content rendering (flutter_widget_from_html_core)<br/>
+<b>✨ Highlights:</b> OTP-based registration &amp; password reset with JWT refresh · Prescription refill requests with guest checkout &amp; async status tracking · Prescription transfer between pharmacies · Appointment booking &amp; medication history · Scheduled, timezone-aware medication reminders · Health-news feed with paginated HTML articles · Pharmacy location, contact &amp; HIPAA-compliance screens<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support
 
 <p><a href="https://www.jdpharmacy.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.revealsite.pharmacyjd" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg/app/j-d-pharmacy/id6476877757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
