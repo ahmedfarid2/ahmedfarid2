@@ -565,8 +565,8 @@ A <b>storefront &amp; online repeat-prescription site for Village Pharmacy, an N
 
 A <b>B2B dental-outsourcing marketplace built to act as a global dental outsource partner</b> — connecting dental practices with labs and manufacturers so clinics can outsource crowns, aligners and prosthetics and scale without growing in-house lab capacity. The platform centralises case submission and the multi-party order &amp; case-management workflow that runs between dentist, lab and manufacturer.
 
-<b>🛠 Stack:</b> Laravel · MySQL · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Laravel back-end<br/>
+<b>🛠 Stack:</b> Next.js · React · Laravel · MySQL · REST API<br/>
+<b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
 <b>✨ Highlights:</b> Lab–dentist–manufacturer marketplace · case submission &amp; tracking · multi-party order &amp; case-management workflow · role-based accounts<br/>
 <b>🚧 Status:</b> Built but not publicly launched — development stopped.
 
@@ -578,8 +578,8 @@ A <b>B2B dental-outsourcing marketplace built to act as a global dental outsourc
 
 An <b>on-demand home-services app for the Saudi market</b>, connecting households with vetted workers for cleaning, maintenance and everyday household tasks — browse services, book a worker for a chosen time slot, and manage requests end to end from the app.
 
-<b>🛠 Stack:</b> Flutter · Firebase · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile<br/>
+<b>🛠 Stack:</b> Flutter · Laravel · MySQL · Firebase · REST API<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; Laravel back-end<br/>
 <b>✨ Highlights:</b> Service booking &amp; scheduling · worker matching · request management · Firebase real-time backend<br/>
 <b>🚧 Status:</b> Built but not publicly launched — development stopped.
 
