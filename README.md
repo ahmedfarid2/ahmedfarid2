@@ -401,11 +401,11 @@ A <b>patient platform for Holland Discount Pharmacy, an independent pharmacy on 
 <summary><b>💊 Belmont Pharmacy</b></summary>
 <br/>
 
-A pharmacy app &amp; storefront for <b>Belmont Pharmacy</b> (UK) — order and manage prescriptions, browse products and stay on top of health, built on the Healthera platform.
+A <b>patient platform for Belmont Pharmacy, an NHS community pharmacy at Belmont Circle in Harrow, London</b> — a mobile app on iOS &amp; Android plus a web app with an online marketplace. Tailored to the NHS model, it lets patients order and manage their repeat prescriptions, communicate directly with their GP surgery and the pharmacy, shop a health &amp; wellbeing marketplace, and book the NHS services Belmont provides — flu &amp; travel vaccinations, stop-smoking support and emergency contraception.
 
-<b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
+<b>🛠 Stack:</b> Flutter · Dart · React · TypeScript · Django · Django REST Framework · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription ordering &amp; management · online storefront · health updates
+<b>✨ Highlights:</b> NHS repeat-prescription ordering &amp; management · direct GP-surgery &amp; pharmacy messaging · health &amp; wellbeing marketplace · book NHS services (flu &amp; travel vaccines, stop-smoking, emergency contraception) · one platform across iOS, Android &amp; web
 
 <p>
   <a href="https://belmontpharmacy.online/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
