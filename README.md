@@ -356,11 +356,12 @@ A <b>retail-pharmacy product spanning a patient-facing Flutter mobile app and it
 <summary><b>🧪 Medical Compounding Pharmacy</b></summary>
 <br/>
 
-A compounding-pharmacy app for <b>Medical Center Pharmacy</b> — refill and transfer prescriptions, book appointments and follow health news in one place.
+A <b>white-label patient companion app for a community &amp; compounding pharmacy</b>, with its Django REST backend and React web frontend. Patients request prescription refills for pickup or delivery, transfer prescriptions in from another pharmacy, schedule multi-dose medication reminders, and book appointments — and every request is automatically faxed and emailed to the pharmacy and tracked to completion in the background. Built multi-tenant from one codebase: each pharmacy loads by client ID with its own branding, hours, and drive-thru details at runtime.
 
-<b>🛠 Stack:</b> Flutter · React · Django · REST API<br/>
-<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Prescription refills &amp; transfers · appointment booking · health news
+<b>🛠 Stack:</b> Flutter · Dart · Clean Architecture (data/domain/presentation) · BLoC/Cubit (flutter_bloc) · flutter_modular (DI &amp; routing) · Dio · Hive · flutter_secure_storage · flutter_screenutil (mobile) · Django · Django REST Framework · Celery · React · PostgreSQL (backend &amp; web)<br/>
+<b>🔌 Integrations:</b> Django REST API (RevealSite backend) · JWT auth with refresh tokens · OTP/SMS verification · automated fax &amp; email request routing via Celery with async task-status polling · local push notifications (flutter_local_notifications + timezone) · Google Maps deep links<br/>
+<b>✨ Highlights:</b> Refill requests with pickup/delivery &amp; multi-prescription support · pharmacy-to-pharmacy prescription transfers (allergies, drug-insurance, full-profile) · scheduled multi-dose medication reminders &amp; medication history · health news feed &amp; appointment booking · HIPAA consent flow with secure JWT/OTP auth · offline-first Hive caching with runtime pharmacy branding<br/>
+<b>👤 Role:</b> Software Engineer — Flutter mobile &amp; React web (primary); hands-on Django backend support
 
 <p><a href="https://play.google.com/store/apps/details?id=com.revealsite.medicalcenter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
 
