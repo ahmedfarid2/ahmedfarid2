@@ -303,6 +303,21 @@ A <b>multi-tenant car-service booking platform (CarQ) with a Laravel backend pow
   <a href="https://alpha.ezhal-qtr.com/login" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
+<b>📱 Mobile apps — coming soon</b>
+<p>
+  <b>Manager</b>&nbsp;
+  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <br/>
+  <b>Customer</b>&nbsp;
+  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <br/>
+  <b>Employee</b>&nbsp;
+  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+</p>
+
 </details>
 
 <details>
