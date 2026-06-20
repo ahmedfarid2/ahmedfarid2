@@ -275,12 +275,13 @@ A <b>full-stack dental e-commerce &amp; healthcare platform for the Egyptian mar
 <summary><b>🔧 Fixawy</b></summary>
 <br/>
 
-A home-services marketplace connecting customers in Egypt with vetted professionals for maintenance, appliance repair and utilities — a customer app plus a dedicated <b>Fixer</b> app for service providers.
+A <b>two-sided home-services marketplace with a web dashboard and two Flutter mobile apps (customer + provider)</b>. Customers browse and book vetted technicians — or post a custom job and collect provider bids — then track the assigned technician live on a map, chat in real time, pay by cash, card or in-app wallet, and rate the work; providers manage incoming jobs, availability slots, earnings and subscription plans from their own app, while admins oversee bookings, payouts and the service catalog from the web panel. The platform handles the full booking lifecycle and multi-party settlement (customer → platform → provider → technician) across web and mobile.
 
-<b>🛠 Stack:</b> Laravel · Blade · Flutter · MySQL · Redis · Firebase (push notifications) · REST API<br/>
+<b>🛠 Stack:</b> Laravel 8 (PHP) · Vue 2 &amp; Bootstrap · MySQL · Laravel Sanctum · Spatie Permission · DomPDF invoices · Flutter (Dart) with MobX for the customer &amp; provider mobile apps<br/>
+<b>🔌 Integrations:</b> PayTabs &amp; Stripe payments · Firebase (FCM push, Firestore real-time chat, Crashlytics, Remote Config, Storage) · OneSignal push · Google Maps &amp; geolocation/geocoding · Google, Apple &amp; Facebook sign-in<br/>
+<b>✨ Highlights:</b> end-to-end booking flow — book → assign technician → live-track → pay → rate · post-a-job with provider bidding · real-time in-app chat over Firestore · live provider location tracking on Google Maps · in-app wallet with cash/card/wallet payments, coupons &amp; advance payments · provider earnings dashboard with revenue charts, payouts &amp; subscription plans · bilingual Arabic/English with RTL support<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3<br/>
-<b>👤 Role:</b> Software Engineer — Laravel + Blade web &amp; Flutter mobile apps<br/>
-<b>✨ Highlights:</b> Service booking · provider (Fixer) app · scheduling · in-app notifications
+<b>👤 Role:</b> Software Engineer — Laravel + Vue web &amp; Flutter mobile apps
 
 <p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://fixawy.com/dashboard/home" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Customer App on Google Play" src="https://img.shields.io/badge/Customer%20App-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="Customer App on App Store" src="https://img.shields.io/badge/Customer%20App-App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Fixer App on Google Play" src="https://img.shields.io/badge/Fixer%20App-Google%20Play-1D4ED8?style=for-the-badge&logo=google-play&logoColor=white" /></a></p>
 
