@@ -216,11 +216,12 @@ A <b>B2B2C SaaS platform</b> where educators and entrepreneurs launch and scale 
 <summary><b>✨ Qoralia</b></summary>
 <br/>
 
-A web platform currently in <b>beta</b> that brings AI into a clean, multi-language experience. Powered by <b>OpenRouter</b>, it routes requests across many large-language-model providers through a single unified interface, so users always get the right model for each task without being locked to one vendor. Secure sign-in with Auth0 and hCaptcha protection, a polished shadcn/ui interface, and a public app, admin dashboard and streamlined compact view.
+A <b>decarbonization planning platform for municipalities</b>. City officials discover and prioritize climate interventions, match them to eligible funding programs, and model the cost, CO₂ impact, and feasibility of full emission-reduction pathways — replacing scattered spreadsheets and consultant reports with an AI-assisted workspace that searches regulations (e.g. PNIEC), grants, and intervention catalogs in seconds and stages bulk emissions data with validation before it hits the books.
 
-<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · Framer Motion · FastAPI · PostgreSQL · Supabase<br/>
-<b>🤖 AI:</b> OpenRouter (multi-provider LLM gateway — OpenAI, Anthropic, Google, Meta &amp; more through one API)<br/>
-<b>🔐 Auth &amp; Security:</b> Auth0 · hCaptcha<br/>
+<b>🛠 Stack:</b> React · Vite · TypeScript · Tailwind · shadcn/ui · TanStack Query · Framer Motion · React Hook Form · Zod · Recharts · i18next · FastAPI · SQLAlchemy · Alembic · PostgreSQL + pgvector · Redis · ARQ<br/>
+<b>🤖 AI:</b> OpenRouter (multi-provider LLM gateway) · RAG over a versioned climate knowledge graph (interventions · grants · regulations · sectors) · semantic retrieval with precision@5 / recall@10 eval gates<br/>
+<b>🔐 Auth &amp; Security:</b> Auth0 · Supabase · hCaptcha · multi-tenant workspace RBAC (super admin · workspace owner · member · B2C customer)<br/>
+<b>✨ Highlights:</b> emissions dashboard with staged bulk-import QC · intervention discovery filtered by sector / cost / CO₂ impact · grant eligibility &amp; alignment scoring · portfolio pathway planner with feasibility scoring · AI assistant for compliance and intervention recommendations · multi-env deploy (alpha for engineers, beta for pilot municipalities) behind a shared host-routing nginx proxy<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3 · Cloudflare (DNS &amp; SSL)<br/>
 <b>👤 Role:</b> Software Engineer — FastAPI back-end &amp; React front-end
 
