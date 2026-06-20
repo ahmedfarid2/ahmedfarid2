@@ -236,13 +236,13 @@ A <b>decarbonization planning platform for municipalities</b>. City officials di
 <summary><b>⚖️ Recovery Advisers</b></summary>
 <br/>
 
-A comprehensive management system that streamlines company operations — case handling, HR, role-based access, notifications and reporting — through a single admin dashboard.
+A <b>debt recovery &amp; case management platform spanning an internal main app (case managers, finance, HR) and a multi-tenant client portal (creditors &amp; law firms)</b>. The main app orchestrates the full recovery lifecycle — leads convert into cases tied to mandates, obligors, formal litigation actions, recoveries, and fee invoices — while the client portal gives each tenant secure, read-only visibility into their own cases, recoveries, and status changes. The two apps stay in sync through a stateless webhook push architecture rather than polling, so clients see status updates, new recoveries, and case events in near real-time. Standout pieces include an affiliate commission engine with per-agreement schedules, a mandate-first engagement model where one engagement governs many cases, and a built-in HR layer for contracts, leave, OKRs, and monthly performance ratings.
 
-<b>🛠 Stack:</b> Laravel · Next.js · MySQL · Redis · Role-Based Access Control · REST API<br/>
-<b>🔌 Integrations:</b> Microsoft 365 — Outlook Mail &amp; Calendar APIs · Microsoft Teams · SharePoint · Microsoft (Azure AD / Entra ID) SSO authentication · AWS SES (transactional email)<br/>
+<b>🛠 Stack:</b> Laravel 13 + Doctrine 3 + PHP 8.5 (main backend) · Next.js 15 + React 18 + MUI v7 + Redux + TanStack Query + Highcharts + FullCalendar (main frontend) · Laravel 12 + Doctrine 3 + Sanctum (client backend) · Next.js 14 + TypeScript + App Router + Prisma 5 + Next-Auth 5 + MUI v5 + Tailwind + Valibot (client frontend) · PostgreSQL · Laravel Horizon · Laravel Octane · Laravel Reverb<br/>
+<b>🔌 Integrations:</b> Microsoft Graph (Outlook calendar &amp; email sync) · Zoho Books (invoice export &amp; currency sync) · Pusher / Laravel Echo (real-time notifications) · AWS S3 (document storage) · SharePoint (document visibility rules) · Google2FA (client-portal 2FA) · OAuth/OIDC via Next-Auth<br/>
+<b>✨ Highlights:</b> Lead-to-case conversion with obligor &amp; related-company profiles (main) · Formal action &amp; litigation decision tracking (main) · Affiliate commission engine with per-agreement schedules &amp; fixed-fee pricing (main) · Mandate-driven engagement model linking one agreement to many cases (main) · Zoho Books invoice generation, imbursements &amp; recovery confirmations (main) · Employee layer: contracts, leave, OKRs, monthly ratings (main) · Real-time webhook push keeping the portal in sync for recoveries, case &amp; sub-status updates (client) · Multi-tenant isolation with tenant-resolve middleware, RBAC &amp; workspace onboarding requests (client)<br/>
 <b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · GCP — Compute Engine, Cloud Storage &amp; Cloud SQL (migrated from AWS EC2 / Lightsail / RDS / S3) · branch-based alpha / beta / prod environments<br/>
-<b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end<br/>
-<b>✨ Highlights:</b> Admin panel · case / action management · HR &amp; employee module · RBAC · deep Microsoft 365 integration · notifications &amp; alerts · reports &amp; analytics · audit logging
+<b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end
 
 <p>
   <a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
