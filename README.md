@@ -531,11 +531,11 @@ A <b>storefront &amp; online-refill site for Long Life Pharmacy, a community pha
 <summary><b>💊 Northside Pharmacy</b></summary>
 <br/>
 
-A <b>white-label online pharmacy storefront for Northside Pharmacy</b>, built on the shared RevealSite platform. Patients refill and transfer prescriptions, browse the product range, and access health content online — each refill or transfer request is routed to the pharmacy by automated fax &amp; email (dispatched as Celery background tasks). Spun up multi-tenant from one React + Django codebase, branded per pharmacy.
+A <b>storefront &amp; online-refill site for Northside Pharmacy, a community pharmacy that doubles as a neighborhood convenience hub</b>. Beyond core prescription care it offers long-term-care facility services, home medical equipment and one-on-one patient counseling — and even acts as a local Amazon Package Pickup point — positioning the corner pharmacy as a one-stop spot for the neighborhood. The site presents those services and lets patients submit refill and transfer requests online, routed to the pharmacy as background fax &amp; email tasks.
 
-<b>🛠 Stack:</b> React · TypeScript · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
+<b>🛠 Stack:</b> React · Django · Django REST Framework · Celery · PostgreSQL · REST API<br/>
 <b>👤 Role:</b> Software Engineer — React web (primary); hands-on Django backend support<br/>
-<b>✨ Highlights:</b> Online prescription refills &amp; transfers · product catalog &amp; storefront · automated fax/email request routing via Celery · health content · multi-tenant white-label branding
+<b>✨ Highlights:</b> Online refill &amp; transfer requests · long-term-care facility services · home medical equipment · patient counseling · Amazon Package Pickup hub · async fax/email routing to the pharmacy
 
 <p>
   <a href="https://northsideph.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
