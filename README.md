@@ -184,9 +184,9 @@ A <b>multi-tenant location &amp; review management platform for multi-location b
 <b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end
 
 <p>
-  <a href="http://alpha.phonicmaps.com/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="http://alpha.phonicmaps.com/app" target="_blank"><img alt="App Platform" src="https://img.shields.io/badge/App-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="http://alpha.phonicmaps.com" target="_blank"><img alt="B2C Platform" src="https://img.shields.io/badge/B2C-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://phonicmaps.com/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://phonicmaps.com/app" target="_blank"><img alt="App Platform" src="https://img.shields.io/badge/App-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://phonicmaps.com" target="_blank"><img alt="B2C Platform" src="https://img.shields.io/badge/B2C-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 </details>
