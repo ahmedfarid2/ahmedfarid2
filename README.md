@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Farid&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Software%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" alt="Ahmed Farid" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/">
+  <a href="https://www.linkedin.com/in/ahmed-farid-b46a5221b/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi!+I'm+Ahmed+Farid;Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
   </a>
 </p>
@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedfarid2&label=Profile%20views&color=00FFAA&style=flat" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/ahmedfarid2?tab=followers"><img src="https://img.shields.io/badge/Follow-%40ahmedfarid2-00FFAA?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="Follow @ahmedfarid2" /></a>
+  <a href="https://github.com/ahmedfarid2?tab=followers" target="_blank"><img src="https://img.shields.io/badge/Follow-%40ahmedfarid2-00FFAA?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="Follow @ahmedfarid2" /></a>
 </p>
 
 <p align="center">
