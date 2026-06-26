@@ -71,7 +71,7 @@
 
 <p align="left"><b>Tools</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,replit" height="48" alt="Git, GitHub, Postman, Figma, Notion, Replit" />
+  <img src="https://skillicons.dev/icons?i=git,github,pnpm,postman,figma,notion,replit" height="48" alt="Git, GitHub, pnpm, Postman, Figma, Notion, Replit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48" alt="Swagger" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira" />
   &nbsp;&nbsp;
