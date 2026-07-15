@@ -18,6 +18,10 @@
   based in Cairo, Egypt 🇪🇬 &nbsp;·&nbsp; <b>open to relocation</b> 🌍
 </p>
 
+<p align="center">
+  🌐 <b><a href="https://ahmedfarid2.github.io/">Ahmed Farid — full portfolio, case studies &amp; ways to work together →</a></b>
+</p>
+
 <hr>
 
 <h3 align="center">📫 Keep in Touch</h3>
