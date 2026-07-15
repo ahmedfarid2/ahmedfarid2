@@ -148,6 +148,23 @@
   <img src="https://raw.githubusercontent.com/ahmedfarid2/ahmedfarid2/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
 
+<!--
+  Top languages card. The committed metrics SVG above can't show languages
+  because the Action's built-in GITHUB_TOKEN only sees this one repo. This card
+  uses the public github-readme-stats server (which has broad access) so it can
+  read languages across all repos, with cache_seconds=86400 to reduce the
+  occasional broken-image failures. For a bulletproof version, add a read-only
+  GitHub PAT as the METRICS_TOKEN repo secret and the SVG above will include it.
+-->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfarid2&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&cache_seconds=86400"
+    height="165"
+    alt="Top languages"
+  />
+</p>
+
 ###
 
 <p align="center">
