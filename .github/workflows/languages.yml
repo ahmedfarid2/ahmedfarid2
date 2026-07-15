@@ -1,0 +1,51 @@
+name: Top Languages
+
+# Computes the most-used languages across all public repos and commits the
+# result as a static languages.svg. Uses only the built-in GITHUB_TOKEN (public
+# read works across repos), so no personal access token is required. Because
+# GitHub serves the committed file directly, it can't show the broken
+# "image not exist" icon the way the live third-party card did.
+
+on:
+  # Keep the committed SVG fresh (offset from the metrics workflow)
+  schedule:
+    - cron: "30 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/languages.yml
+      - .github/scripts/gen_languages.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-svg-commit
+  cancel-in-progress: false
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Generate languages.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ahmedfarid2
+        run: python .github/scripts/gen_languages.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add languages.svg
+          if git diff --quiet --cached; then
+            echo "languages.svg unchanged; nothing to commit."
+          else
+            git commit -m "chore(languages): refresh languages.svg"
+            git pull --rebase origin main
+            git push
+          fi

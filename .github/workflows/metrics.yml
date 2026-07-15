@@ -38,9 +38,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Cairo
           committer_message: "chore(metrics): refresh github-metrics.svg"
-
-          # Top languages — replaces the old "Top languages" card
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_colors: github
+          # Note: languages are rendered separately by the "Top Languages"
+          # workflow (languages.svg), because the built-in GITHUB_TOKEN metrics
+          # runs with can only see this repo — not enough to compute languages.
