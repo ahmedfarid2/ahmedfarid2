@@ -1,0 +1,46 @@
+name: GitHub Metrics
+
+# Renders profile stats into a static SVG (github-metrics.svg) that is committed
+# back into this repo, so the README shows a file GitHub hosts itself instead of
+# loading a live image from an overloaded shared server. That is why it can never
+# render as a broken "image not exist" icon.
+
+on:
+  # Keep the committed SVG fresh
+  schedule:
+    - cron: "0 */12 * * *"
+  # Allow manual runs from the Actions tab (or the API)
+  workflow_dispatch:
+  # Regenerate whenever this workflow itself changes
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/metrics.yml
+
+# Required so the action can commit the generated SVG back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate profile metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Prefers a repo secret named METRICS_TOKEN (a read-only GitHub PAT)
+          # for complete data, but falls back to the built-in GITHUB_TOKEN so the
+          # workflow works with zero extra setup for public stats.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: ahmedfarid2
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Cairo
+          committer_message: "chore(metrics): refresh github-metrics.svg"
+
+          # Top languages — replaces the old "Top languages" card
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
