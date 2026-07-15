@@ -113,8 +113,26 @@
 
 <h3 align="center">🔥 GitHub Streak</h3>
 
+<!--
+  ⚙️ SELF-HOSTED STATS INSTANCES
+  The public demo servers (streak-stats.demolab.com / github-readme-stats.vercel.app)
+  are shared by millions of users and share one GitHub API rate limit, so they
+  frequently return the "image not exist" broken icon. To fix this permanently,
+  deploy your own instances (free, ~5 min each) and replace the placeholder
+  domains below:
+
+    STREAK card  -> deploy https://github.com/DenverCoder1/github-readme-streak-stats
+                    then replace  YOUR_STREAK_INSTANCE.vercel.app
+    STATS cards  -> deploy https://github.com/anuraghazra/github-readme-stats
+                    then replace  YOUR_STATS_INSTANCE.vercel.app
+
+  Each Vercel project needs a read-only GitHub token in its env vars
+  (PAT for streak, PAT_1 for stats). cache_seconds is set to 1 day to
+  minimise API calls and further reduce failures.
+-->
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedfarid2&locale=en&mode=daily&hide_border=true&border_radius=8&background=0D1117&border=30363D&stroke=30363D&ring=00FFAA&fire=00FFAA&currStreakNum=C9D1D9&currStreakLabel=00FFAA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&excludeDaysLabel=8B949E" height="165" alt="GitHub streak" />
+  <img src="https://YOUR_STREAK_INSTANCE.vercel.app?user=ahmedfarid2&locale=en&mode=daily&hide_border=true&border_radius=8&background=0D1117&border=30363D&stroke=30363D&ring=00FFAA&fire=00FFAA&currStreakNum=C9D1D9&currStreakLabel=00FFAA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&excludeDaysLabel=8B949E&cache_seconds=86400" height="165" alt="GitHub streak" />
 </p>
 
 ###
@@ -123,12 +141,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahmedfarid2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=C9D1D9"
+    src="https://YOUR_STATS_INSTANCE.vercel.app/api?username=ahmedfarid2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=C9D1D9&cache_seconds=86400"
     height="165"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfarid2&layout=compact&langs_count=6&hide=jupyter%20notebook&card_width=360&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9"
+    src="https://YOUR_STATS_INSTANCE.vercel.app/api/top-langs?username=ahmedfarid2&layout=compact&langs_count=6&hide=jupyter%20notebook&card_width=360&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&cache_seconds=86400"
     height="165"
     alt="Top languages"
   />
