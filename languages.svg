@@ -5,17 +5,17 @@
 <rect x="25" y="44" rx="4" width="310" height="8" fill="#21262d"/>
 <mask id="m"><rect x="25" y="44" rx="4" width="310" height="8" fill="#fff"/></mask>
 <g mask="url(#m)">
-<rect x="25.00" y="44" width="278.43" height="8" fill="#e34c26"/>
-<rect x="303.43" y="44" width="10.63" height="8" fill="#00B4AB"/>
-<rect x="314.06" y="44" width="10.50" height="8" fill="#3572A5"/>
-<rect x="324.56" y="44" width="5.26" height="8" fill="#3178c6"/>
-<rect x="329.82" y="44" width="1.81" height="8" fill="#4F5D95"/>
-<rect x="331.63" y="44" width="1.62" height="8" fill="#f1e05a"/>
-<rect x="333.25" y="44" width="0.95" height="8" fill="#f34b7d"/>
-<rect x="334.20" y="44" width="0.80" height="8" fill="#858585"/>
+<rect x="25.00" y="44" width="278.55" height="8" fill="#e34c26"/>
+<rect x="303.55" y="44" width="10.59" height="8" fill="#00B4AB"/>
+<rect x="314.14" y="44" width="10.46" height="8" fill="#3572A5"/>
+<rect x="324.60" y="44" width="5.24" height="8" fill="#3178c6"/>
+<rect x="329.84" y="44" width="1.80" height="8" fill="#4F5D95"/>
+<rect x="331.64" y="44" width="1.61" height="8" fill="#f1e05a"/>
+<rect x="333.26" y="44" width="0.95" height="8" fill="#f34b7d"/>
+<rect x="334.21" y="44" width="0.79" height="8" fill="#858585"/>
 </g>
 <circle cx="30" cy="74" r="5" fill="#e34c26"/>
-<text x="43" y="78" fill="#C9D1D9" font-size="12">HTML <tspan fill="#8b949e">89.8%</tspan></text>
+<text x="43" y="78" fill="#C9D1D9" font-size="12">HTML <tspan fill="#8b949e">89.9%</tspan></text>
 <circle cx="190" cy="74" r="5" fill="#00B4AB"/>
 <text x="203" y="78" fill="#C9D1D9" font-size="12">Dart <tspan fill="#8b949e">3.4%</tspan></text>
 <circle cx="30" cy="100" r="5" fill="#3572A5"/>
