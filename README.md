@@ -168,6 +168,62 @@
 
 <hr>
 
+<h2 align="center">🚀 Products I Build &amp; Run Myself</h2>
+
+<p align="center"><sub>Client work shows what I deliver against someone else's brief. These are the ones where I picked the problem, shipped the product, and host it on my own domain.</sub></p>
+
+<br/>
+
+<details>
+<summary><b>🧾 ReconcilePilot</b> — <i>finance ops</i></summary>
+<br/>
+
+<b>Invoice ↔ bank-statement reconciliation for accountants.</b> Upload both sheets and see what is paid, unpaid, double-paid or suspicious — every row scored for confidence with a plain-English reason for the match, so a human can audit the machine's decision instead of trusting it. Handles CSV and Excel, and exports the reconciled result as a PDF report.
+
+<b>🛠 Stack:</b> Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Radix UI · Recharts · PapaParse · SheetJS · Zod · Supabase · @react-pdf/renderer · Resend<br/>
+<b>✨ Highlights:</b> confidence-scored matching with a human-readable reason per row · paid / unpaid / double-paid / suspicious classification · CSV + Excel ingest · PDF export<br/>
+<b>👤 Role:</b> Solo — product, engineering, hosting
+
+<p>
+  <a href="https://reconcilepilot.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-reconcilepilot.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 SheetPilot AI</b> — <i>AI reporting</i></summary>
+<br/>
+
+<b>Turns a raw CSV into a business report.</b> Drop in a spreadsheet and get an interactive dashboard, an AI-written executive summary, and the findings, risks and recommendations behind it — exportable as a PDF. Parsing runs in the browser, so the data never leaves it: the point is that you can hand it a real business file without an upload you'd have to justify to a client.
+
+<b>🛠 Stack:</b> Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui (Radix) · Recharts · PapaParse · read-excel-file · Zod · Supabase · Vercel Analytics<br/>
+<b>✨ Highlights:</b> browser-side parsing — data never leaves the client · AI executive summary with findings, risks &amp; recommendations · interactive charts · PDF export<br/>
+<b>👤 Role:</b> Solo — product, engineering, hosting
+
+<p>
+  <a href="https://sheetpilot.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-sheetpilot.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🦷 Reform Dental</b> — <i>concept</i></summary>
+<br/>
+
+<b>A homepage concept for a dental clinic, in English and Arabic.</b> The Arabic version isn't a mirrored layout — it carries its own type system and composition, because RTL done properly is a design decision rather than a CSS flip. No framework and no build step: three files and a photo.
+
+<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step · Vercel<br/>
+<b>✨ Highlights:</b> bilingual EN/AR with a purpose-built RTL composition, not a mirror · zero dependencies, zero build · deploys as static files<br/>
+<b>🚧 Status:</b> Design concept — an unapproved study, not commissioned client work.
+
+<p>
+  <a href="https://reform.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-reform.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<hr>
+
 <h2 align="center">💼 Samples from My Projects</h2>
 
 <br/>
@@ -280,6 +336,25 @@ A <b>debt recovery &amp; case management platform spanning an internal main app 
 </details>
 
 <details>
+<summary><b>🎓 Ibdaa Course</b></summary>
+<br/>
+
+An <b>Arabic-first e-learning platform, delivered end to end as an owned product rather than a codebase drop</b>. Arabic training providers usually run on platforms designed English-first with RTL bolted on afterwards, so the student experience, the certificate and the admin panel all read like a translation of something else. This was built the other way round: locale-prefixed <code>/ar</code> and <code>/en</code> routes over a single Next.js 16 App Router app with RTL as the default direction, backed by a Laravel 13 API split into thirteen feature modules — Auth, Users, Courses, Categories, Lectures, Enrollments, Payments, Exams, Certificates, Reviews, Discussions, Favorites and Reports — across 74 API routes. Handed over with deployment, UAT and ownership-transfer documentation so the client can run and extend it without me.
+
+<b>🛠 Stack:</b> Nx + pnpm monorepo · Laravel 13 · PHP 8.5 · PostgreSQL 17 · Redis · Laravel Sanctum · spatie/laravel-permission · Pest · Scribe (OpenAPI) · Next.js 16 (App Router) · React · TypeScript · Tailwind CSS v4 · shadcn/ui with RTL · Vitest<br/>
+<b>✨ Highlights:</b> Arabic-first by design — locale-prefixed routing with RTL as the default direction · 13 feature modules behind 74 API routes · certificates with public verification by code · role-based access (admin / instructor / student) on a single users table · API 174 tests / 616 assertions and 64 web tests, CI green · delivered with DEPLOYMENT, UAT and HANDOVER docs plus an ownership-transfer checklist<br/>
+<b>🚀 DevOps:</b> Two production Docker images (FrankenPHP PHP 8.5 API · Node 24 standalone web) · GitHub Actions CI (Pint + Postgres migrate + Pest; ESLint + Vitest + build) · local Postgres/Redis/Mailpit infra via Compose<br/>
+<b>👤 Role:</b> Senior Software Engineer — full delivery: Laravel API, Next.js web app, infrastructure and handover<br/>
+<b>🚧 Status:</b> Alpha — "Ibdaa Course" is a working title, pending the client's launch brand.
+
+<p>
+  <a href="https://alpha.ibdaacourse.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Arabic-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://alpha.ibdaacourse.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>🦷 Compass Med</b></summary>
 <br/>
 
@@ -344,6 +419,25 @@ A <b>multi-tenant car-service booking platform (CarQ) with a Laravel backend pow
   <b>Employee</b>&nbsp;
   <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🏛️ Proven Results Group</b></summary>
+<br/>
+
+A <b>corporate site for a diversified investment and operating group</b> combining capital, execution and operational leadership across hospitality, real estate, healthcare, agriculture and strategic ventures in Europe and international markets. The brief was a presence credible to a Spanish-speaking board and to English-speaking international investors at the same time — without a CMS to maintain or a build pipeline to keep alive. Seven hand-built pages (home, about, vision &amp; goals, portfolio, external investments, team, contact) where <b>every line of copy exists twice in the markup</b>, once in Spanish and once in English; one toggle in the header swaps the entire site instantly, with no reload, no route change and no translation service. Both languages ship inside the HTML, so search engines index both.
+
+<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step<br/>
+<b>✨ Highlights:</b> fully bilingual ES/EN via paired nodes — both indexable, unlike a JS translation layer · instant language swap with the choice persisted across pages and visits · seven static pages, no CMS to maintain · custom domain on GitHub Pages with near-zero running cost<br/>
+<b>🚀 DevOps:</b> GitHub Pages · custom domain via CNAME<br/>
+<b>👤 Role:</b> Independent Consultant — build and deploy
+
+<p>
+  <a href="https://provengroup.es/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://provengroup.es/portfolio.html" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://provengroup.es/equipo.html" target="_blank"><img alt="Team" src="https://img.shields.io/badge/Team-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 </details>
