@@ -5,11 +5,11 @@
 <rect x="25" y="44" rx="4" width="310" height="8" fill="#21262d"/>
 <mask id="m"><rect x="25" y="44" rx="4" width="310" height="8" fill="#fff"/></mask>
 <g mask="url(#m)">
-<rect x="25.00" y="44" width="277.91" height="8" fill="#e34c26"/>
-<rect x="302.91" y="44" width="10.33" height="8" fill="#00B4AB"/>
-<rect x="313.24" y="44" width="10.21" height="8" fill="#3572A5"/>
-<rect x="323.45" y="44" width="5.11" height="8" fill="#3178c6"/>
-<rect x="328.56" y="44" width="2.98" height="8" fill="#f1e05a"/>
+<rect x="25.00" y="44" width="277.82" height="8" fill="#e34c26"/>
+<rect x="302.82" y="44" width="10.32" height="8" fill="#00B4AB"/>
+<rect x="313.14" y="44" width="10.20" height="8" fill="#3572A5"/>
+<rect x="323.35" y="44" width="5.11" height="8" fill="#3178c6"/>
+<rect x="328.46" y="44" width="3.09" height="8" fill="#f1e05a"/>
 <rect x="331.54" y="44" width="1.76" height="8" fill="#4F5D95"/>
 <rect x="333.30" y="44" width="0.93" height="8" fill="#f34b7d"/>
 <rect x="334.23" y="44" width="0.77" height="8" fill="#858585"/>
