@@ -229,6 +229,14 @@ The product spec carries hard prohibitions, not just features: never fabricate c
 
 </details>
 
+<hr>
+
+<h2 align="center">🎨 Concepts &amp; Design Studies</h2>
+
+<p align="center"><sub>Unsolicited concepts — nobody commissioned these and no client has approved them. They're here as design and engineering work, not as client engagements. Each is live so you can click through it.</sub></p>
+
+<br/>
+
 <details>
 <summary><b>🦷 Reform Dental</b> — <i>concept</i></summary>
 <br/>
