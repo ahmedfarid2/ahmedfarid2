@@ -222,6 +222,38 @@
 
 </details>
 
+<details>
+<summary><b>🦷 DIGIT Dental</b> — <i>concept</i></summary>
+<br/>
+
+<b>An unsolicited Arabic-first concept for a dental clinic in Mohandessin, Giza</b>, built from two design artboards as the only visual source of truth. The interesting part isn't the design — it's the data layer. Every claim the clinic hasn't verified is <b>structured but deliberately empty</b>: doctor credentials, professional roles, case archives and patient counts all have typed shapes and render nothing until real approved data is supplied. No title, degree, membership, award or number is invented anywhere in the codebase, and the WhatsApp affordance is gated on a verified URL so there's no dead button.
+
+<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Vercel<br/>
+<b>✨ Highlights:</b> Arabic-first RTL composition, not a mirrored layout · centralised config layer (site, navigation, media, SEO) with every media slot `null` until real assets exist · empty-by-default credential and case-archive models so nothing can be accidentally fabricated · address-based Maps link rather than invented coordinates · `noindex, nofollow` enforced twice, in metadata and as an `X-Robots-Tag` header<br/>
+<b>🚧 Status:</b> Unsolicited concept — the clinic did not commission it and has not approved it.
+
+<p>
+  <a href="https://digitdental.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-digitdental.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🦷 ITQAN Dental</b> — <i>concept</i></summary>
+<br/>
+
+<b>A complete Arabic clinic website, built as a concept</b> — 22 live routes covering a services index, ten treatment detail pages, a digital-dentistry page, a doctor profile, a team page, an articles index with five articles, contact, and a branded Arabic 404. The treatment pages are generated from a single typed service model rather than hand-written, so adding a treatment is a data change. Same discipline as DIGIT in the data layer: only verified information is allowed in — no patient counts, success rates, reviews, credentials, awards, years of experience or prices are invented.
+
+<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Vercel<br/>
+<b>✨ Highlights:</b> 22 routes generated from typed content models · Arabic-first RTL throughout, including the 404 · per-route canonical URLs and structured data · medical-content safety review across every treatment page · shared site chrome (header, menu, conversion rail, footer) lifted into the root layout<br/>
+<b>🚧 Status:</b> Concept — `noindex/nofollow` inherited from the root layout while it stays one.
+
+<p>
+  <a href="https://itqan.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-itqan.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
 <hr>
 
 <h2 align="center">💼 Samples from My Projects</h2>
@@ -438,6 +470,39 @@ A <b>corporate site for a diversified investment and operating group</b> combini
   <a href="https://provengroup.es/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://provengroup.es/portfolio.html" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://provengroup.es/equipo.html" target="_blank"><img alt="Team" src="https://img.shields.io/badge/Team-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🏢 Cairo Plaza</b></summary>
+<br/>
+
+A <b>payment-plan calculator and project pages for a New Cairo real-estate developer</b>. Buying off-plan property in Egypt means comparing down payments, instalment lengths and delivery dates across plans that are usually explained verbally or in a PDF. This turns that conversation into a tool the sales team can open on a phone in front of a buyer: pick a plan, see the numbers move. Bilingual English and Arabic, fully static, no backend and no build step — which is why it loads instantly on a phone in a showroom with poor signal.
+
+<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step · Vercel<br/>
+<b>✨ Highlights:</b> interactive payment-plan calculator · per-project pages (Hyde Park, New Cairo) · bilingual EN/AR with English as default · deploy root scoped to `site/` so internal sales material physically cannot be served, with `.vercelignore` as a second line of defence<br/>
+<b>👤 Role:</b> Independent Consultant — build and deploy
+
+<p>
+  <a href="https://cairoplaza.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-cairoplaza.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🏢 Ofoq — Smart Building</b></summary>
+<br/>
+
+A <b>smart-building app proposal turned into something the owner can actually use</b>, rather than another document to read. Built from the Ofoq Smart Building App Proposal as Demo Milestone 1: one polished journey, end to end, with the member and management sides genuinely connected rather than mocked. A booking made in the member app appears on the management calendar. A café order placed in the member app lands on the kitchen board. Mark that order <b>Ready</b> in the kitchen and the member is notified — live, including in another browser tab.
+
+<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · QR code generation · Vercel<br/>
+<b>✨ Highlights:</b> member app — spaces, booking flow, review and confirmation, digital pass with a QR that resolves to a check-in route, café ordering and order tracking · management side — dashboard, master calendar, kitchen order board · cross-surface live updates between member and management · every piece of invented placeholder content documented in `PLACEHOLDERS.md` so nothing fabricated can be mistaken for the client's real data<br/>
+<b>👤 Role:</b> Independent Consultant — full demo build<br/>
+<b>🚧 Status:</b> Demo Milestone 1. Milestone 2 screens (rewards, notification centre, admin users/pricing/menu/reports, booking overrides) are deliberately not built.
+
+<p>
+  <a href="https://ofoq.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-ofoq.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 </details>
@@ -696,10 +761,12 @@ A <b>B2B dental-outsourcing marketplace built to act as a global dental outsourc
 </details>
 
 <details>
-<summary><b>🏠 Ofoq</b></summary>
+<summary><b>🏠 Ofoq — Home Services</b></summary>
 <br/>
 
 An <b>on-demand home-services app for the Saudi market</b>, connecting households with vetted workers for cleaning, maintenance and everyday household tasks — browse services, book a worker for a chosen time slot, and manage requests end to end from the app.
+
+<sub><i>Unrelated to <b>Ofoq — Smart Building</b> above; the two share a name only.</i></sub>
 
 <b>🛠 Stack:</b> Flutter · Laravel · MySQL · Firebase · REST API<br/>
 <b>👤 Role:</b> Software Engineer — Flutter mobile &amp; Laravel back-end<br/>
