@@ -174,6 +174,29 @@
 
 <br/>
 
+<details open>
+<summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
+<br/>
+
+A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/ar">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
+
+Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
+
+The product spec carries hard prohibitions, not just features: never fabricate candidate information, never promise employment or interviews, no fake ATS scores, no secret keys client-side.
+
+<b>🛠 Stack:</b> Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui (Radix, RTL) · next-intl (`/ar` default, `/en`) · Supabase (PostgreSQL, Auth, Storage) · Vitest · pnpm<br/>
+<b>🔌 Integrations:</b> Gmail OAuth (send-only) · Telegram bot with webhook + commands · pluggable AI providers behind a mock-able interface<br/>
+<b>✨ Highlights:</b> 21 feature modules (auth, resumes, matching, campaigns, credits, billing, notifications, admin…) · 54 database migrations · 96 test files · explainable company matching with unverified factors surfaced · queued application sending with skip rules · append-only credit ledger · Arabic RTL-first design system with per-language typography and LTR-locked mixed content<br/>
+<b>🏗 Architecture:</b> repositories are the only layer touching the database; Supabase clients isolated behind `src/lib/supabase`; env validated at boot; mock AI and email providers so local development never needs production services<br/>
+<b>👤 Role:</b> Solo — product, engineering and operations
+
+<p>
+  <a href="https://applyni.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://applyni.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-applyni.com%2Fen-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
 <details>
 <summary><b>🧾 ReconcilePilot</b> — <i>finance ops</i></summary>
 <br/>
