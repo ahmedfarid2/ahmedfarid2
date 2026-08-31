@@ -168,125 +168,6 @@
 
 <hr>
 
-<h2 align="center">🚀 Products I Build &amp; Run Myself</h2>
-
-<p align="center"><sub>Client work shows what I deliver against someone else's brief. These are the ones where I picked the problem, shipped the product, and host it on my own domain.</sub></p>
-
-<br/>
-
-<details open>
-<summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
-<br/>
-
-A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/ar">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
-
-Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
-
-The product spec carries hard prohibitions, not just features: never fabricate candidate information, never promise employment or interviews, no fake ATS scores, no secret keys client-side.
-
-<b>🛠 Stack:</b> Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui (Radix, RTL) · next-intl (`/ar` default, `/en`) · Supabase (PostgreSQL, Auth, Storage) · Vitest · pnpm<br/>
-<b>🔌 Integrations:</b> Gmail OAuth (send-only) · Telegram bot with webhook + commands · pluggable AI providers behind a mock-able interface<br/>
-<b>✨ Highlights:</b> 21 feature modules (auth, resumes, matching, campaigns, credits, billing, notifications, admin…) · 54 database migrations · 96 test files · explainable company matching with unverified factors surfaced · queued application sending with skip rules · append-only credit ledger · Arabic RTL-first design system with per-language typography and LTR-locked mixed content<br/>
-<b>🏗 Architecture:</b> repositories are the only layer touching the database; Supabase clients isolated behind `src/lib/supabase`; env validated at boot; mock AI and email providers so local development never needs production services<br/>
-<b>👤 Role:</b> Solo — product, engineering and operations
-
-<p>
-  <a href="https://applyni.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://applyni.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-applyni.com%2Fen-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🧾 ReconcilePilot</b> — <i>finance ops</i></summary>
-<br/>
-
-<b>Invoice ↔ bank-statement reconciliation for accountants.</b> Upload both sheets and see what is paid, unpaid, double-paid or suspicious — every row scored for confidence with a plain-English reason for the match, so a human can audit the machine's decision instead of trusting it. Handles CSV and Excel, and exports the reconciled result as a PDF report.
-
-<b>🛠 Stack:</b> Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Radix UI · Recharts · PapaParse · SheetJS · Zod · Supabase · @react-pdf/renderer · Resend<br/>
-<b>✨ Highlights:</b> confidence-scored matching with a human-readable reason per row · paid / unpaid / double-paid / suspicious classification · CSV + Excel ingest · PDF export<br/>
-<b>👤 Role:</b> Solo — product, engineering, hosting
-
-<p>
-  <a href="https://reconcilepilot.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-reconcilepilot.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>📊 SheetPilot AI</b> — <i>AI reporting</i></summary>
-<br/>
-
-<b>Turns a raw CSV into a business report.</b> Drop in a spreadsheet and get an interactive dashboard, an AI-written executive summary, and the findings, risks and recommendations behind it — exportable as a PDF. Parsing runs in the browser, so the data never leaves it: the point is that you can hand it a real business file without an upload you'd have to justify to a client.
-
-<b>🛠 Stack:</b> Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui (Radix) · Recharts · PapaParse · read-excel-file · Zod · Supabase · Vercel Analytics<br/>
-<b>✨ Highlights:</b> browser-side parsing — data never leaves the client · AI executive summary with findings, risks &amp; recommendations · interactive charts · PDF export<br/>
-<b>👤 Role:</b> Solo — product, engineering, hosting
-
-<p>
-  <a href="https://sheetpilot.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-sheetpilot.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-</details>
-
-<hr>
-
-<h2 align="center">🎨 Concepts &amp; Design Studies</h2>
-
-<p align="center"><sub>Unsolicited concepts — nobody commissioned these and no client has approved them. They're here as design and engineering work, not as client engagements. Each is live so you can click through it.</sub></p>
-
-<br/>
-
-<details>
-<summary><b>🦷 Reform Dental</b> — <i>concept</i></summary>
-<br/>
-
-<b>A homepage concept for a dental clinic, in English and Arabic.</b> The Arabic version isn't a mirrored layout — it carries its own type system and composition, because RTL done properly is a design decision rather than a CSS flip. No framework and no build step: three files and a photo.
-
-<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step · Vercel<br/>
-<b>✨ Highlights:</b> bilingual EN/AR with a purpose-built RTL composition, not a mirror · zero dependencies, zero build · deploys as static files<br/>
-<b>🚧 Status:</b> Design concept — an unapproved study, not commissioned client work.
-
-<p>
-  <a href="https://reform.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-reform.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🦷 DIGIT Dental</b> — <i>concept</i></summary>
-<br/>
-
-<b>An unsolicited Arabic-first concept for a dental clinic in Mohandessin, Giza</b>, built from two design artboards as the only visual source of truth. The interesting part isn't the design — it's the data layer. Every claim the clinic hasn't verified is <b>structured but deliberately empty</b>: doctor credentials, professional roles, case archives and patient counts all have typed shapes and render nothing until real approved data is supplied. No title, degree, membership, award or number is invented anywhere in the codebase, and the WhatsApp affordance is gated on a verified URL so there's no dead button.
-
-<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Vercel<br/>
-<b>✨ Highlights:</b> Arabic-first RTL composition, not a mirrored layout · centralised config layer (site, navigation, media, SEO) with every media slot `null` until real assets exist · empty-by-default credential and case-archive models so nothing can be accidentally fabricated · address-based Maps link rather than invented coordinates · `noindex, nofollow` enforced twice, in metadata and as an `X-Robots-Tag` header<br/>
-<b>🚧 Status:</b> Unsolicited concept — the clinic did not commission it and has not approved it.
-
-<p>
-  <a href="https://digitdental.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-digitdental.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🦷 ITQAN Dental</b> — <i>concept</i></summary>
-<br/>
-
-<b>A complete Arabic clinic website, built as a concept</b> — 22 live routes covering a services index, ten treatment detail pages, a digital-dentistry page, a doctor profile, a team page, an articles index with five articles, contact, and a branded Arabic 404. The treatment pages are generated from a single typed service model rather than hand-written, so adding a treatment is a data change. Same discipline as DIGIT in the data layer: only verified information is allowed in — no patient counts, success rates, reviews, credentials, awards, years of experience or prices are invented.
-
-<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Vercel<br/>
-<b>✨ Highlights:</b> 22 routes generated from typed content models · Arabic-first RTL throughout, including the 404 · per-route canonical URLs and structured data · medical-content safety review across every treatment page · shared site chrome (header, menu, conversion rail, footer) lifted into the root layout<br/>
-<b>🚧 Status:</b> Concept — `noindex/nofollow` inherited from the root layout while it stays one.
-
-<p>
-  <a href="https://itqan.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-itqan.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-</details>
-
-<hr>
-
 <h2 align="center">💼 Samples from My Projects</h2>
 
 <br/>
@@ -805,5 +686,125 @@ An <b>on-demand home-services app for the Saudi market</b>, connecting household
 <b>🚧 Status:</b> Built but not publicly launched — development stopped.
 
 </details>
+
+<hr>
+
+<h2 align="center">🚀 Products I Build &amp; Run Myself</h2>
+
+<p align="center"><sub>Client work shows what I deliver against someone else's brief. These are the ones where I picked the problem, shipped the product, and host it on my own domain.</sub></p>
+
+<br/>
+
+<details open>
+<summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
+<br/>
+
+A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/ar">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
+
+Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
+
+The product spec carries hard prohibitions, not just features: never fabricate candidate information, never promise employment or interviews, no fake ATS scores, no secret keys client-side.
+
+<b>🛠 Stack:</b> Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui (Radix, RTL) · next-intl (`/ar` default, `/en`) · Supabase (PostgreSQL, Auth, Storage) · Vitest · pnpm<br/>
+<b>🔌 Integrations:</b> Gmail OAuth (send-only) · Telegram bot with webhook + commands · pluggable AI providers behind a mock-able interface<br/>
+<b>✨ Highlights:</b> 21 feature modules (auth, resumes, matching, campaigns, credits, billing, notifications, admin…) · 54 database migrations · 96 test files · explainable company matching with unverified factors surfaced · queued application sending with skip rules · append-only credit ledger · Arabic RTL-first design system with per-language typography and LTR-locked mixed content<br/>
+<b>🏗 Architecture:</b> repositories are the only layer touching the database; Supabase clients isolated behind `src/lib/supabase`; env validated at boot; mock AI and email providers so local development never needs production services<br/>
+<b>👤 Role:</b> Solo — product, engineering and operations
+
+<p>
+  <a href="https://applyni.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://applyni.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-applyni.com%2Fen-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🧾 ReconcilePilot</b> — <i>finance ops</i></summary>
+<br/>
+
+<b>Invoice ↔ bank-statement reconciliation for accountants.</b> Upload both sheets and see what is paid, unpaid, double-paid or suspicious — every row scored for confidence with a plain-English reason for the match, so a human can audit the machine's decision instead of trusting it. Handles CSV and Excel, and exports the reconciled result as a PDF report.
+
+<b>🛠 Stack:</b> Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Radix UI · Recharts · PapaParse · SheetJS · Zod · Supabase · @react-pdf/renderer · Resend<br/>
+<b>✨ Highlights:</b> confidence-scored matching with a human-readable reason per row · paid / unpaid / double-paid / suspicious classification · CSV + Excel ingest · PDF export<br/>
+<b>👤 Role:</b> Solo — product, engineering, hosting
+
+<p>
+  <a href="https://reconcilepilot.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-reconcilepilot.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 SheetPilot AI</b> — <i>AI reporting</i></summary>
+<br/>
+
+<b>Turns a raw CSV into a business report.</b> Drop in a spreadsheet and get an interactive dashboard, an AI-written executive summary, and the findings, risks and recommendations behind it — exportable as a PDF. Parsing runs in the browser, so the data never leaves it: the point is that you can hand it a real business file without an upload you'd have to justify to a client.
+
+<b>🛠 Stack:</b> Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui (Radix) · Recharts · PapaParse · read-excel-file · Zod · Supabase · Vercel Analytics<br/>
+<b>✨ Highlights:</b> browser-side parsing — data never leaves the client · AI executive summary with findings, risks &amp; recommendations · interactive charts · PDF export<br/>
+<b>👤 Role:</b> Solo — product, engineering, hosting
+
+<p>
+  <a href="https://sheetpilot.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-sheetpilot.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<hr>
+
+<h2 align="center">🎨 Concepts &amp; Design Studies</h2>
+
+<p align="center"><sub>Unsolicited concepts — nobody commissioned these and no client has approved them. They're here as design and engineering work, not as client engagements. Each is live so you can click through it.</sub></p>
+
+<br/>
+
+<details>
+<summary><b>🦷 Reform Dental</b> — <i>concept</i></summary>
+<br/>
+
+<b>A homepage concept for a dental clinic, in English and Arabic.</b> The Arabic version isn't a mirrored layout — it carries its own type system and composition, because RTL done properly is a design decision rather than a CSS flip. No framework and no build step: three files and a photo.
+
+<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step · Vercel<br/>
+<b>✨ Highlights:</b> bilingual EN/AR with a purpose-built RTL composition, not a mirror · zero dependencies, zero build · deploys as static files<br/>
+<b>🚧 Status:</b> Design concept — an unapproved study, not commissioned client work.
+
+<p>
+  <a href="https://reform.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-reform.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🦷 DIGIT Dental</b> — <i>concept</i></summary>
+<br/>
+
+<b>An unsolicited Arabic-first concept for a dental clinic in Mohandessin, Giza</b>, built from two design artboards as the only visual source of truth. The interesting part isn't the design — it's the data layer. Every claim the clinic hasn't verified is <b>structured but deliberately empty</b>: doctor credentials, professional roles, case archives and patient counts all have typed shapes and render nothing until real approved data is supplied. No title, degree, membership, award or number is invented anywhere in the codebase, and the WhatsApp affordance is gated on a verified URL so there's no dead button.
+
+<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Vercel<br/>
+<b>✨ Highlights:</b> Arabic-first RTL composition, not a mirrored layout · centralised config layer (site, navigation, media, SEO) with every media slot `null` until real assets exist · empty-by-default credential and case-archive models so nothing can be accidentally fabricated · address-based Maps link rather than invented coordinates · `noindex, nofollow` enforced twice, in metadata and as an `X-Robots-Tag` header<br/>
+<b>🚧 Status:</b> Unsolicited concept — the clinic did not commission it and has not approved it.
+
+<p>
+  <a href="https://digitdental.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-digitdental.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🦷 ITQAN Dental</b> — <i>concept</i></summary>
+<br/>
+
+<b>A complete Arabic clinic website, built as a concept</b> — 22 live routes covering a services index, ten treatment detail pages, a digital-dentistry page, a doctor profile, a team page, an articles index with five articles, contact, and a branded Arabic 404. The treatment pages are generated from a single typed service model rather than hand-written, so adding a treatment is a data change. Same discipline as DIGIT in the data layer: only verified information is allowed in — no patient counts, success rates, reviews, credentials, awards, years of experience or prices are invented.
+
+<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Vercel<br/>
+<b>✨ Highlights:</b> 22 routes generated from typed content models · Arabic-first RTL throughout, including the 404 · per-route canonical URLs and structured data · medical-content safety review across every treatment page · shared site chrome (header, menu, conversion rail, footer) lifted into the root layout<br/>
+<b>🚧 Status:</b> Concept — `noindex/nofollow` inherited from the root layout while it stays one.
+
+<p>
+  <a href="https://itqan.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-itqan.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" />
