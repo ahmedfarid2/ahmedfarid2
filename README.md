@@ -45,6 +45,10 @@
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,fastapi,django,react,nextjs,vue,flutter,bootstrap,tailwind,materialui,vite,sass" height="48" alt="Laravel, Node.js, Express, NestJS, FastAPI, Django, React, Next.js, Vue, Flutter, Bootstrap, Tailwind, Material UI, Vite, Sass" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/shadcnui/000000" height="42" alt="shadcn/ui" />
+  &nbsp;&nbsp;
+  <!-- skillicons has no React Native icon, so this is a badge rather than a
+       glyph — same approach the AI row already uses. -->
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="36" alt="React Native" />
 </p>
 
 <p align="left"><b>Databases</b></p>
