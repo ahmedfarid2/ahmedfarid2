@@ -15,7 +15,7 @@
 <p align="center">
   🚀 Results-driven <b>Software Engineer</b> building scalable web &amp; mobile apps<br/>
   with <b>Laravel</b>, <b>Flutter</b>, and modern JavaScript frameworks — and a fast learner <b>comfortable adapting to any stack or framework</b><br/>
-  based in Cairo, Egypt 🇪🇬 &nbsp;·&nbsp; <b>open to relocation</b> 🌍
+  based in Dubai, United Arab Emirates 🇦🇪 &nbsp;·&nbsp; <b>open to relocation</b> 🌍
 </p>
 
 <p align="center">
