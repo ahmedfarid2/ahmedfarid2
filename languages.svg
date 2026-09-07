@@ -5,11 +5,11 @@
 <rect x="25" y="44" rx="4" width="310" height="8" fill="#21262d"/>
 <mask id="m"><rect x="25" y="44" rx="4" width="310" height="8" fill="#fff"/></mask>
 <g mask="url(#m)">
-<rect x="25.00" y="44" width="277.25" height="8" fill="#e34c26"/>
-<rect x="302.25" y="44" width="10.28" height="8" fill="#00B4AB"/>
-<rect x="312.53" y="44" width="10.16" height="8" fill="#3572A5"/>
-<rect x="322.69" y="44" width="5.09" height="8" fill="#3178c6"/>
-<rect x="327.77" y="44" width="3.79" height="8" fill="#f1e05a"/>
+<rect x="25.00" y="44" width="276.99" height="8" fill="#e34c26"/>
+<rect x="301.99" y="44" width="10.27" height="8" fill="#00B4AB"/>
+<rect x="312.26" y="44" width="10.15" height="8" fill="#3572A5"/>
+<rect x="322.40" y="44" width="5.08" height="8" fill="#3178c6"/>
+<rect x="327.48" y="44" width="4.08" height="8" fill="#f1e05a"/>
 <rect x="331.56" y="44" width="1.75" height="8" fill="#4F5D95"/>
 <rect x="333.31" y="44" width="0.92" height="8" fill="#f34b7d"/>
 <rect x="334.23" y="44" width="0.77" height="8" fill="#858585"/>
@@ -23,7 +23,7 @@
 <circle cx="190" cy="100" r="5" fill="#3178c6"/>
 <text x="203" y="104" fill="#C9D1D9" font-size="12">TypeScript <tspan fill="#8b949e">1.6%</tspan></text>
 <circle cx="30" cy="126" r="5" fill="#f1e05a"/>
-<text x="43" y="130" fill="#C9D1D9" font-size="12">JavaScript <tspan fill="#8b949e">1.2%</tspan></text>
+<text x="43" y="130" fill="#C9D1D9" font-size="12">JavaScript <tspan fill="#8b949e">1.3%</tspan></text>
 <circle cx="190" cy="126" r="5" fill="#4F5D95"/>
 <text x="203" y="130" fill="#C9D1D9" font-size="12">PHP <tspan fill="#8b949e">0.6%</tspan></text>
 <circle cx="30" cy="152" r="5" fill="#f34b7d"/>
