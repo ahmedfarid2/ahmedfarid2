@@ -10,6 +10,14 @@
       "Bash(git check-ignore*)",
       "Bash(python3 -m py_compile*)"
     ],
+    "ask": [
+      "Agent(system-architect)",
+      "Agent(critical-architect)",
+      "Agent(fable-strategist)",
+      "Agent(fable-rescue)",
+      "Agent(standard-reviewer)",
+      "Agent(critical-reviewer)"
+    ],
     "deny": [
       "Read(./.env*)",
       "Bash(git push --force*)",
