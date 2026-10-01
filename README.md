@@ -287,8 +287,7 @@ An <b>Arabic-first e-learning platform, delivered end to end as an owned product
 <b>🚧 Status:</b> Alpha — "Ibdaa Course" is a working title, pending the client's launch brand.
 
 <p>
-  <a href="https://alpha.ibdaacourse.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Arabic-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://alpha.ibdaacourse.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://alpha.ibdaacourse.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 </details>
