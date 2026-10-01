@@ -44,6 +44,21 @@
 
 <hr>
 
+<h3 align="center">🏆 Flagship Systems</h3>
+
+| System | What it is | Proof | Stack |
+|---|---|---|---|
+| 🚗 **[Yelo Sale](https://iamahmedfarid.com/#work)** | Real-time B2B2C vehicle auction for the Gulf | Server-ordered live bidding with proxy auto-bids; web + iOS/Android apps live on both stores | Laravel · Next.js · Flutter · Redis · Socket.IO |
+| ⚖️ **[Recovery Advisers](https://iamahmedfarid.com/#work)** | Debt-recovery platform + multi-tenant client portal, Dubai | Webhook sync with ordering guarantees; Entra ID SSO; Microsoft 365 &amp; Zoho integrations | Laravel 13 · Next.js 15 · Octane · Reverb |
+| ✨ **[Qoralia](https://iamahmedfarid.com/#work)** | AI-assisted decarbonization planning for municipalities | RAG over a climate knowledge graph with retrieval eval gates; deterministic grant scoring | FastAPI · React · PostgreSQL + pgvector |
+| 🎓 **[KhebraOS](https://iamahmedfarid.com/#work)** | Arabic-first academy builder, a branded school per tenant | 6-step AI course wizard (script, Arabic TTS narration, cover, promo video) | React 19 · Express 5 · PostgreSQL |
+| 📍 **[Phonic Maps](https://iamahmedfarid.com/#work)** | Multi-tenant location &amp; review management | Google Business Profile sync, AI review replies, bulk multi-location publishing | Laravel 12 · Next.js 16 · PostgreSQL · Redis |
+| 🌐 **[RevealSite](https://iamahmedfarid.com/#work)** | White-label pharmacy platform, US &amp; UK | 13+ pharmacy brands from one multi-tenant codebase — patient apps &amp; storefronts | Flutter · React · Django · Celery |
+
+<p align="center"><sub><b>27+</b> products · <b>17+</b> countries · <b>12+</b> apps on App Store / Google Play · <b>13+</b> white-label pharmacy brands — details below, full case studies at <a href="https://iamahmedfarid.com/#work">iamahmedfarid.com</a></sub></p>
+
+<hr>
+
 <h3 align="center">🛠 Languages &amp; Tools</h3>
 
 ###
@@ -145,14 +160,6 @@
 
 <hr>
 
-<h3 align="center">💭 Dev Quote</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<hr>
-
 <h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
@@ -179,6 +186,8 @@
 <hr>
 
 <h2 align="center">💼 Samples from My Projects</h2>
+
+<p align="center"><sub>The six flagship systems first, then the RevealSite pharmacy fleet and more client work. Full case studies — problem, approach, architecture, outcome — live at <a href="https://iamahmedfarid.com/#work"><b>iamahmedfarid.com</b></a>.</sub></p>
 
 <br/>
 
@@ -208,42 +217,21 @@ A <b>B2B2C vehicle auction &amp; sales platform for the Gulf market (SAR, Arabic
 </details>
 
 <details>
-<summary><b>📍 Phonic Maps</b></summary>
+<summary><b>⚖️ Recovery Advisers</b></summary>
 <br/>
 
-A <b>multi-tenant location &amp; review management platform for multi-location businesses</b>. Resellers onboard their business clients as tenants, who then sync storefronts to Google My Business via OAuth, reply to customer reviews with AI-suggested responses, publish promotional posts across many locations at once, and track per-location performance metrics from a single dashboard. The reseller→business hierarchy, scoped role-based permissions, and CSV bulk-import scale it from a single SMB up to franchise operators with hundreds of storefronts.
+A <b>debt recovery &amp; case management platform spanning an internal main app (case managers, finance, HR) and a multi-tenant client portal (creditors &amp; law firms)</b>. The main app orchestrates the full recovery lifecycle — leads convert into cases tied to mandates, obligors, formal litigation actions, recoveries, and fee invoices — while the client portal gives each tenant secure, read-only visibility into their own cases, recoveries, and status changes. The two apps stay in sync through a stateless webhook push architecture rather than polling, so clients see status updates, new recoveries, and case events in near real-time. Standout pieces include an affiliate commission engine with per-agreement schedules, a mandate-first engagement model where one engagement governs many cases, and a built-in HR layer for contracts, leave, OKRs, and monthly performance ratings.
 
-<b>🛠 Stack:</b> Laravel 12 · PHP 8.4 · Next.js 16 · React 19 · TypeScript · PostgreSQL (production) / MySQL (local) · Redis · MongoDB · Laravel Horizon · JWT (tymon/jwt-auth) · Sanctum · Tailwind CSS v4 · Radix UI · TanStack Query · Zustand · React Hook Form · Zod · Recharts · @vis.gl/react-google-maps · Nx monorepo · Docker Compose<br/>
-<b>🔌 Integrations:</b> Google My Business API · Google OAuth via Laravel Socialite · Google Pub/Sub review webhooks · OpenAI · AWS SES · Postmark · Resend · Slack · OpenTelemetry<br/>
-<b>✨ Highlights:</b> Google My Business OAuth sync of locations, reviews &amp; performance metrics · AI-generated review reply suggestions with reusable templates and per-location auto-reply rules · Multi-location promotional posts (offers, events, alerts) with batched publishing · Bulk location management with CSV import/export and photo/media lifecycle · Multi-tenant reseller→business hierarchy with invitations, suspension and password override · Performance analytics (ratings, review volume, search keywords) backed by Horizon-queued background jobs and Spatie activity-log audit trail<br/>
-<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS Lightsail · AWS RDS · Cloudflare (DNS &amp; SSL) · trunk-based development with alpha / beta / prod environments<br/>
-<b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end
-
-<p>
-  <a href="https://phonicmaps.com/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://phonicmaps.com/app" target="_blank"><img alt="App Platform" src="https://img.shields.io/badge/App-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://phonicmaps.com" target="_blank"><img alt="B2C Platform" src="https://img.shields.io/badge/B2C-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🎓 KhebraOS</b></summary>
-<br/>
-
-An <b>Arabic-first all-in-one academy platform</b> that lets creators launch a branded online school at <code>username.khebraos.com</code>. Trainers, coaches, and entrepreneurs build courses, sell digital products, run 1:1 coaching, and market via funnels and landing pages — all RTL, bilingual, and powered by a 6-step AI Course Wizard that generates scripts, narration, covers, and promo videos in minutes.
-
-<b>🛠 Stack:</b> React 19 · Vite 7 · Tailwind CSS 4 · TypeScript · TanStack Query · TipTap · Radix UI (shadcn/ui) · wouter · Framer Motion · dnd-kit · Express 5 · Node 24 · Drizzle ORM · PostgreSQL · Zod · OpenAPI + Orval codegen · Helmet · Pino · Sharp · ffmpeg · Vitest · Playwright · pnpm + Nx monorepo<br/>
-<b>🤖 AI:</b> OpenAI GPT-4o-mini (course content, AI page/funnel builder, creator business coach, email reply suggestions) · ElevenLabs <code>eleven_multilingual_v2</code> (10 Arabic TTS voices &amp; voice cloning) · DALL·E 3 (course cover art) · cost-guard quotas for per-user &amp; global API spend<br/>
-<b>🔌 Integrations:</b> Resend (transactional &amp; marketing email) · IMAP/SMTP inbox with AI-suggested replies · Google Cloud Storage (Replit Object Storage) · Cloudinary (legacy assets) · Pexels (stock video/photo) · Zoom Server-to-Server OAuth (coaching meeting links) · Calendly OAuth · Google OAuth · GTM / GA4 / Meta / Snapchat / TikTok pixel injection · PostgreSQL LISTEN/NOTIFY for SSE notifications<br/>
-<b>✨ Highlights:</b> 6-step AI Course Wizard (script → narration → music → cover → promo video via ffmpeg Ken Burns + xfade) · Multi-tier subscriptions (Silver/Gold/Strategic) with server-enforced limits, 5-day trial &amp; grace-period emails · Coaching slots with Zoom auto-meetings and one-time reschedule-token email links · Drag-and-drop landing page &amp; funnel builder with AI content generation · Floating "كوتشك الخاص" creator business-coach chat widget · Per-academy theming (6 palettes, custom fonts, logo sizing) on custom subdomains/CNAMEs · Real-time admin Action Center and SSE notifications via Postgres LISTEN/NOTIFY · OpenAPI-first contract with shared Zod schemas, changelog-gated deploys, and cost-protection quotas across all paid APIs<br/>
-<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)
+<b>🛠 Stack:</b> Laravel 13 + Doctrine 3 + PHP 8.5 (main backend) · Next.js 15 + React 18 + MUI v7 + Redux + TanStack Query + Highcharts + FullCalendar (main frontend) · Laravel 12 + Doctrine 3 + Sanctum (client backend) · Next.js 14 + TypeScript + App Router + Prisma 5 + Next-Auth 5 + MUI v5 + Tailwind + Valibot (client frontend) · MySQL · Laravel Horizon · Laravel Octane · Laravel Reverb<br/>
+<b>🔌 Integrations:</b> Microsoft 365 / Entra ID — Graph (Outlook calendar &amp; email sync) · Azure AD / Entra ID SSO (OAuth/OIDC via Next-Auth) · Microsoft Teams · SharePoint (document visibility rules) · Zoho Books (invoice export &amp; currency sync) · Pusher / Laravel Echo (real-time notifications) · AWS S3 (document storage) · AWS SES (transactional email) · Google2FA (client-portal 2FA)<br/>
+<b>✨ Highlights:</b> Lead-to-case conversion with obligor &amp; related-company profiles (main) · Formal action &amp; litigation decision tracking (main) · Affiliate commission engine with per-agreement schedules &amp; fixed-fee pricing (main) · Mandate-driven engagement model linking one agreement to many cases (main) · Zoho Books invoice generation, imbursements &amp; recovery confirmations (main) · Employee layer: contracts, leave, OKRs, monthly ratings (main) · Real-time webhook push keeping the portal in sync for recoveries, case &amp; sub-status updates (client) · Multi-tenant isolation with tenant-resolve middleware, RBAC &amp; workspace onboarding requests (client)<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · GCP — Compute Engine, Cloud Storage &amp; Cloud SQL (migrated from AWS EC2 / Lightsail / RDS / S3) · branch-based alpha / beta / prod environments<br/>
+<b>👤 Role:</b> Senior Software Engineer — Laravel back-end &amp; Next.js front-end
 
 <p>
-  <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
-  <a href="https://khebraos.com/my-learning" target="_blank"><img alt="Student Panel" src="https://img.shields.io/badge/Student%20Panel-0EA5E9?style=for-the-badge" /></a>
-  <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Academy Panel" src="https://img.shields.io/badge/Academy%20Panel-16A34A?style=for-the-badge" /></a>
-  <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge" /></a>
+  <a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://app.recoveryadvisers.com/" target="_blank"><img alt="App Portal" src="https://img.shields.io/badge/App%20Portal-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://css.recoveryadvisers.com/" target="_blank"><img alt="Client Self-Service" src="https://img.shields.io/badge/Client%20Self--Service-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 </details>
@@ -270,149 +258,42 @@ A <b>decarbonization planning platform for municipalities</b>. City officials di
 </details>
 
 <details>
-<summary><b>⚖️ Recovery Advisers</b></summary>
+<summary><b>🎓 KhebraOS</b></summary>
 <br/>
 
-A <b>debt recovery &amp; case management platform spanning an internal main app (case managers, finance, HR) and a multi-tenant client portal (creditors &amp; law firms)</b>. The main app orchestrates the full recovery lifecycle — leads convert into cases tied to mandates, obligors, formal litigation actions, recoveries, and fee invoices — while the client portal gives each tenant secure, read-only visibility into their own cases, recoveries, and status changes. The two apps stay in sync through a stateless webhook push architecture rather than polling, so clients see status updates, new recoveries, and case events in near real-time. Standout pieces include an affiliate commission engine with per-agreement schedules, a mandate-first engagement model where one engagement governs many cases, and a built-in HR layer for contracts, leave, OKRs, and monthly performance ratings.
+An <b>Arabic-first all-in-one academy platform</b> that lets creators launch a branded online school at <code>username.khebraos.com</code>. Trainers, coaches, and entrepreneurs build courses, sell digital products, run 1:1 coaching, and market via funnels and landing pages — all RTL, bilingual, and powered by a 6-step AI Course Wizard that generates scripts, narration, covers, and promo videos in minutes.
 
-<b>🛠 Stack:</b> Laravel 13 + Doctrine 3 + PHP 8.5 (main backend) · Next.js 15 + React 18 + MUI v7 + Redux + TanStack Query + Highcharts + FullCalendar (main frontend) · Laravel 12 + Doctrine 3 + Sanctum (client backend) · Next.js 14 + TypeScript + App Router + Prisma 5 + Next-Auth 5 + MUI v5 + Tailwind + Valibot (client frontend) · MySQL · Laravel Horizon · Laravel Octane · Laravel Reverb<br/>
-<b>🔌 Integrations:</b> Microsoft 365 / Entra ID — Graph (Outlook calendar &amp; email sync) · Azure AD / Entra ID SSO (OAuth/OIDC via Next-Auth) · Microsoft Teams · SharePoint (document visibility rules) · Zoho Books (invoice export &amp; currency sync) · Pusher / Laravel Echo (real-time notifications) · AWS S3 (document storage) · AWS SES (transactional email) · Google2FA (client-portal 2FA)<br/>
-<b>✨ Highlights:</b> Lead-to-case conversion with obligor &amp; related-company profiles (main) · Formal action &amp; litigation decision tracking (main) · Affiliate commission engine with per-agreement schedules &amp; fixed-fee pricing (main) · Mandate-driven engagement model linking one agreement to many cases (main) · Zoho Books invoice generation, imbursements &amp; recovery confirmations (main) · Employee layer: contracts, leave, OKRs, monthly ratings (main) · Real-time webhook push keeping the portal in sync for recoveries, case &amp; sub-status updates (client) · Multi-tenant isolation with tenant-resolve middleware, RBAC &amp; workspace onboarding requests (client)<br/>
-<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · GCP — Compute Engine, Cloud Storage &amp; Cloud SQL (migrated from AWS EC2 / Lightsail / RDS / S3) · branch-based alpha / beta / prod environments<br/>
+<b>🛠 Stack:</b> React 19 · Vite 7 · Tailwind CSS 4 · TypeScript · TanStack Query · TipTap · Radix UI (shadcn/ui) · wouter · Framer Motion · dnd-kit · Express 5 · Node 24 · Drizzle ORM · PostgreSQL · Zod · OpenAPI + Orval codegen · Helmet · Pino · Sharp · ffmpeg · Vitest · Playwright · pnpm + Nx monorepo<br/>
+<b>🤖 AI:</b> OpenAI GPT-4o-mini (course content, AI page/funnel builder, creator business coach, email reply suggestions) · ElevenLabs <code>eleven_multilingual_v2</code> (10 Arabic TTS voices &amp; voice cloning) · DALL·E 3 (course cover art) · cost-guard quotas for per-user &amp; global API spend<br/>
+<b>🔌 Integrations:</b> Resend (transactional &amp; marketing email) · IMAP/SMTP inbox with AI-suggested replies · Google Cloud Storage (Replit Object Storage) · Cloudinary (legacy assets) · Pexels (stock video/photo) · Zoom Server-to-Server OAuth (coaching meeting links) · Calendly OAuth · Google OAuth · GTM / GA4 / Meta / Snapchat / TikTok pixel injection · PostgreSQL LISTEN/NOTIFY for SSE notifications<br/>
+<b>✨ Highlights:</b> 6-step AI Course Wizard (script → narration → music → cover → promo video via ffmpeg Ken Burns + xfade) · Multi-tier subscriptions (Silver/Gold/Strategic) with server-enforced limits, 5-day trial &amp; grace-period emails · Coaching slots with Zoom auto-meetings and one-time reschedule-token email links · Drag-and-drop landing page &amp; funnel builder with AI content generation · Floating "كوتشك الخاص" creator business-coach chat widget · Per-academy theming (6 palettes, custom fonts, logo sizing) on custom subdomains/CNAMEs · Real-time admin Action Center and SSE notifications via Postgres LISTEN/NOTIFY · OpenAPI-first contract with shared Zod schemas, changelog-gated deploys, and cost-protection quotas across all paid APIs<br/>
+<b>👤 Role:</b> Software Engineer — full-stack (React front-end &amp; Express / Node back-end)
+
+<p>
+  <a href="https://khebraos.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/my-learning" target="_blank"><img alt="Student Panel" src="https://img.shields.io/badge/Student%20Panel-0EA5E9?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/dashboard" target="_blank"><img alt="Academy Panel" src="https://img.shields.io/badge/Academy%20Panel-16A34A?style=for-the-badge" /></a>
+  <a href="https://khebraos.com/admin" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>📍 Phonic Maps</b></summary>
+<br/>
+
+A <b>multi-tenant location &amp; review management platform for multi-location businesses</b>. Resellers onboard their business clients as tenants, who then sync storefronts to Google My Business via OAuth, reply to customer reviews with AI-suggested responses, publish promotional posts across many locations at once, and track per-location performance metrics from a single dashboard. The reseller→business hierarchy, scoped role-based permissions, and CSV bulk-import scale it from a single SMB up to franchise operators with hundreds of storefronts.
+
+<b>🛠 Stack:</b> Laravel 12 · PHP 8.4 · Next.js 16 · React 19 · TypeScript · PostgreSQL (production) / MySQL (local) · Redis · MongoDB · Laravel Horizon · JWT (tymon/jwt-auth) · Sanctum · Tailwind CSS v4 · Radix UI · TanStack Query · Zustand · React Hook Form · Zod · Recharts · @vis.gl/react-google-maps · Nx monorepo · Docker Compose<br/>
+<b>🔌 Integrations:</b> Google My Business API · Google OAuth via Laravel Socialite · Google Pub/Sub review webhooks · OpenAI · AWS SES · Postmark · Resend · Slack · OpenTelemetry<br/>
+<b>✨ Highlights:</b> Google My Business OAuth sync of locations, reviews &amp; performance metrics · AI-generated review reply suggestions with reusable templates and per-location auto-reply rules · Multi-location promotional posts (offers, events, alerts) with batched publishing · Bulk location management with CSV import/export and photo/media lifecycle · Multi-tenant reseller→business hierarchy with invitations, suspension and password override · Performance analytics (ratings, review volume, search keywords) backed by Horizon-queued background jobs and Spatie activity-log audit trail<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · AWS EC2 · AWS Lightsail · AWS RDS · Cloudflare (DNS &amp; SSL) · trunk-based development with alpha / beta / prod environments<br/>
 <b>👤 Role:</b> Software Engineer — Laravel back-end &amp; Next.js front-end
 
 <p>
-  <a href="https://www.recoveryadvisers.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://app.recoveryadvisers.com/" target="_blank"><img alt="App Portal" src="https://img.shields.io/badge/App%20Portal-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://css.recoveryadvisers.com/" target="_blank"><img alt="Client Self-Service" src="https://img.shields.io/badge/Client%20Self--Service-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🎓 Ibdaa Course</b></summary>
-<br/>
-
-An <b>Arabic-first e-learning platform, delivered end to end as an owned product rather than a codebase drop</b>. Arabic training providers usually run on platforms designed English-first with RTL bolted on afterwards, so the student experience, the certificate and the admin panel all read like a translation of something else. This was built the other way round: locale-prefixed <code>/ar</code> and <code>/en</code> routes over a single Next.js 16 App Router app with RTL as the default direction, backed by a Laravel 13 API split into thirteen feature modules — Auth, Users, Courses, Categories, Lectures, Enrollments, Payments, Exams, Certificates, Reviews, Discussions, Favorites and Reports — across 74 API routes. Handed over with deployment, UAT and ownership-transfer documentation so the client can run and extend it without me.
-
-<b>🛠 Stack:</b> Nx + pnpm monorepo · Laravel 13 · PHP 8.5 · PostgreSQL 17 · Redis · Laravel Sanctum · spatie/laravel-permission · Pest · Scribe (OpenAPI) · Next.js 16 (App Router) · React · TypeScript · Tailwind CSS v4 · shadcn/ui with RTL · Vitest<br/>
-<b>✨ Highlights:</b> Arabic-first by design — locale-prefixed routing with RTL as the default direction · 13 feature modules behind 74 API routes · certificates with public verification by code · role-based access (admin / instructor / student) on a single users table · API 174 tests / 616 assertions and 64 web tests, CI green · delivered with DEPLOYMENT, UAT and HANDOVER docs plus an ownership-transfer checklist<br/>
-<b>🚀 DevOps:</b> Two production Docker images (FrankenPHP PHP 8.5 API · Node 24 standalone web) · GitHub Actions CI (Pint + Postgres migrate + Pest; ESLint + Vitest + build) · local Postgres/Redis/Mailpit infra via Compose<br/>
-<b>👤 Role:</b> Senior Software Engineer — full delivery: Laravel API, Next.js web app, infrastructure and handover<br/>
-<b>🚧 Status:</b> Alpha — "Ibdaa Course" is a working title, pending the client's launch brand.
-
-<p>
-  <a href="https://alpha.ibdaacourse.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
-<br/>
-
-A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/en">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
-
-Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
-
-The product spec carries hard prohibitions, not just features: never fabricate candidate information, never promise employment or interviews, no fake ATS scores, no secret keys client-side.
-
-<b>🛠 Stack:</b> Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui (Radix, RTL) · next-intl (`/ar` default, `/en`) · Supabase (PostgreSQL, Auth, Storage) · Vitest · pnpm<br/>
-<b>🔌 Integrations:</b> Gmail OAuth (send-only) · Telegram bot with webhook + commands · pluggable AI providers behind a mock-able interface<br/>
-<b>✨ Highlights:</b> 21 feature modules (auth, resumes, matching, campaigns, credits, billing, notifications, admin…) · 54 database migrations · 96 test files · explainable company matching with unverified factors surfaced · queued application sending with skip rules · append-only credit ledger · Arabic RTL-first design system with per-language typography and LTR-locked mixed content<br/>
-<b>🏗 Architecture:</b> repositories are the only layer touching the database; Supabase clients isolated behind `src/lib/supabase`; env validated at boot; mock AI and email providers so local development never needs production services<br/>
-<b>👤 Role:</b> Solo — product, engineering and operations
-
-<p>
-  <a href="https://applyni.com/en" target="_blank"><img alt="Live — applyni.com" src="https://img.shields.io/badge/Live-applyni.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🦷 Compass Med</b></summary>
-<br/>
-
-A <b>full-stack dental e-commerce &amp; healthcare platform for the Egyptian market</b>. Dentists and dental clinics browse a categorized catalog of dental products and equipment, download product documents, manage a cart, wishlist and store-credit wallet, then check out via online payment or cash-on-delivery with city-based shipping rules. Beyond the storefront it runs a content-rich knowledge hub, event registration with live raffle draws, partner/clinic showcase pages, and a permission-driven admin dashboard with sales analytics, Excel reporting, returns and order tracking.
-
-<b>🛠 Stack:</b> Laravel 12 · PHP 8.4 · MySQL · Blade · Alpine.js · Tailwind CSS 3 · Vite · Redis · Laravel Sanctum<br/>
-<b>🔌 Integrations:</b> Fawaterak &amp; Fawry payment gateways · Odoo ERP (two-way sync of orders &amp; users) · SMTP email · AWS S3 storage · Pusher broadcasting · DomPDF invoice generation · Laravel Excel exports · Laratrust RBAC · Bavix Wallet · Telescope<br/>
-<b>✨ Highlights:</b> Cart, wishlist &amp; multi-tier checkout (online + COD) · Coupons, sales-rep codes &amp; wallet credit · City-based free/standard shipping engine · Order tracking, returns &amp; cancellations with PDF invoices · Knowledge hub &amp; event registration with raffle draws · Role/permission admin dashboard with charts, reports &amp; activity logging<br/>
-<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · Time4VPS (VPS hosting)<br/>
-<b>👤 Role:</b> Software Engineer — built end-to-end (Laravel back-end &amp; Blade front-end)
-
-<p>
-  <a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://compass-egy.com/admin/dashboard" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🔧 Fixawy</b></summary>
-<br/>
-
-A <b>two-sided home-services marketplace with a web dashboard and two Flutter mobile apps (customer + provider)</b>. Customers browse and book vetted technicians — or post a custom job and collect provider bids — then track the assigned technician live on a map, chat in real time, pay by cash, card or in-app wallet, and rate the work; providers manage incoming jobs, availability slots, earnings and subscription plans from their own app, while admins oversee bookings, payouts and the service catalog from the web panel. The platform handles the full booking lifecycle and multi-party settlement (customer → platform → provider → technician) across web and mobile.
-
-<b>🛠 Stack:</b> Laravel 8 (PHP) · Vue 2 &amp; Bootstrap · MySQL · Laravel Sanctum · Spatie Permission · DomPDF invoices · Flutter (Dart) with MobX for the customer &amp; provider mobile apps<br/>
-<b>🔌 Integrations:</b> PayTabs &amp; Stripe payments · Firebase (FCM push, Firestore real-time chat, Crashlytics, Remote Config, Storage) · OneSignal push · Google Maps &amp; geolocation/geocoding · Google, Apple &amp; Facebook sign-in<br/>
-<b>✨ Highlights:</b> end-to-end booking flow — book → assign technician → live-track → pay → rate · post-a-job with provider bidding · real-time in-app chat over Firestore · live provider location tracking on Google Maps · in-app wallet with cash/card/wallet payments, coupons &amp; advance payments · provider earnings dashboard with revenue charts, payouts &amp; subscription plans · bilingual Arabic/English with RTL support<br/>
-<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3<br/>
-<b>👤 Role:</b> Software Engineer — Laravel + Vue web &amp; Flutter mobile apps
-
-<p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://fixawy.com/dashboard/login" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Customer App on Google Play" src="https://img.shields.io/badge/Customer%20App-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="Customer App on App Store" src="https://img.shields.io/badge/Customer%20App-App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Fixer App on Google Play" src="https://img.shields.io/badge/Fixer%20App-Google%20Play-1D4ED8?style=for-the-badge&logo=google-play&logoColor=white" /></a></p>
-
-</details>
-
-<details>
-<summary><b>🧩 Ezhal</b></summary>
-<br/>
-
-A <b>multi-tenant car-service booking platform (CarQ) with a Laravel backend powering three role-specific Flutter apps for customers, on-the-road employees, and shop managers</b>. Customers book mobile car wash/detailing slots, pay through a wallet, points, stamps or card, and follow their technician live as they go on-the-way → arrived → started → completed; managers run schedules, time-off approvals, services, and customer wallets from a dedicated app. Standout features include passwordless email login codes, Apple Wallet loyalty passes with the full PassKit web service for device-side updates, and concurrency-safe slot reservations that lock the chosen employee before re-checking conflicts.
-
-<b>🛠 Stack:</b> Laravel 12 · PHP 8.4 · MariaDB 11 · Laravel Passport (multi-guard OAuth2) · Scramble OpenAPI · Flutter 3 · Riverpod · flutter_modular · Dio/Retrofit · Hive · slang (EN/AR)<br/>
-<b>🔌 Integrations:</b> MyFatoorah · Stripe · PayPal · Firebase (Messaging, Auth, Firestore, Functions) · Apple PassKit &amp; APNs · Google Sign-In · Sign in with Apple · Twilio SMS · Geolocator<br/>
-<b>✨ Highlights:</b> Three role-scoped APIs (customer/employee/manager) behind separate auth guards · Reserve → confirm booking flow with <code>lockForUpdate</code> slot conflict re-check · Apple Wallet pass web service (device registration, update polling, push) · Live employee location updates with on-the-way/arrived/started/completed state machine · Wallet, points, stamps and subscription-plan billing · Manager dashboard for employees, weekly schedules, time-off approvals, holidays and customer wallet adjustments<br/>
-<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks) · Cloudflare (DNS &amp; SSL) · Hostinger VPS<br/>
-<b>👤 Role:</b> Software Engineer — Laravel + Blade admin panel &amp; Flutter mobile apps
-
-<p>
-  <a href="https://alpha.ezhal-qtr.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://alpha.ezhal-qtr.com/login" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
-<b>📱 Mobile apps — coming soon</b>
-<p>
-  <b>Manager</b>&nbsp;
-  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
-  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
-  <br/>
-  <b>Customer</b>&nbsp;
-  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
-  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
-  <br/>
-  <b>Employee</b>&nbsp;
-  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
-  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🏛️ Proven Results Group</b></summary>
-<br/>
-
-A <b>corporate site for a diversified investment and operating group</b> combining capital, execution and operational leadership across hospitality, real estate, healthcare, agriculture and strategic ventures in Europe and international markets. The brief was a presence credible to a Spanish-speaking board and to English-speaking international investors at the same time — without a CMS to maintain or a build pipeline to keep alive. Seven hand-built pages (home, about, vision &amp; goals, portfolio, external investments, team, contact) where <b>every line of copy exists twice in the markup</b>, once in Spanish and once in English; one toggle in the header swaps the entire site instantly, with no reload, no route change and no translation service. Both languages ship inside the HTML, so search engines index both.
-
-<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step<br/>
-<b>✨ Highlights:</b> fully bilingual ES/EN via paired nodes — both indexable, unlike a JS translation layer · instant language swap with the choice persisted across pages and visits · seven static pages, no CMS to maintain · custom domain on GitHub Pages with near-zero running cost<br/>
-<b>🚀 DevOps:</b> GitHub Pages · custom domain via CNAME<br/>
-<b>👤 Role:</b> Independent Consultant — build and deploy
-
-<p>
-  <a href="https://provengroup.es/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://provengroup.es/portfolio.html" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://provengroup.es/equipo.html" target="_blank"><img alt="Team" src="https://img.shields.io/badge/Team-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://phonicmaps.com/admin" target="_blank"><img alt="Admin Dashboard" src="https://img.shields.io/badge/Admin-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://phonicmaps.com/app" target="_blank"><img alt="App Platform" src="https://img.shields.io/badge/App-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://phonicmaps.com" target="_blank"><img alt="B2C Platform" src="https://img.shields.io/badge/B2C-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 </details>
@@ -425,7 +306,7 @@ The <b>company &amp; platform behind every pharmacy product in this portfolio</b
 
 <b>🛠 Stack:</b> Flutter (patient apps) · React (pharmacy sites &amp; corporate web) · Django · Django REST Framework · Celery · PostgreSQL · multi-tenant white-label architecture · REST API<br/>
 <b>👤 Role:</b> Software Engineer — delivered patient apps (Flutter) &amp; pharmacy websites (React) and built backend features (Django) across the client portfolio<br/>
-<b>✨ Highlights:</b> Multi-tenant white-label platform — one codebase, many branded pharmacies provisioned by client ID · custom iOS/Android patient apps &amp; React storefronts · refills, transfers, appointment booking, reminders &amp; two-way patient messaging · automated fax/email request routing via Celery · patient-engagement &amp; medication-adherence tooling · 12+ live pharmacy products delivered on one platform
+<b>✨ Highlights:</b> Multi-tenant white-label platform — one codebase, many branded pharmacies provisioned by client ID · custom iOS/Android patient apps &amp; React storefronts · refills, transfers, appointment booking, reminders &amp; two-way patient messaging · automated fax/email request routing via Celery · patient-engagement &amp; medication-adherence tooling · 13+ white-label pharmacy brands live on one platform — patient apps &amp; storefronts (fleet below)
 
 <p>
   <a href="https://revealsite.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -433,7 +314,9 @@ The <b>company &amp; platform behind every pharmacy product in this portfolio</b
 
 </details>
 
-<p align="center"><sub>🏥 <b>RevealSite Pharmacy Fleet</b> — patient apps &amp; storefronts I built and delivered on the RevealSite platform ⬇️</sub></p>
+<details>
+<summary><b>🏥 RevealSite pharmacy fleet</b> — 13 pharmacy brands + Almani Health Institute: patient apps &amp; storefronts I built on the RevealSite platform</summary>
+<br/>
 
 <details>
 <summary><b>💊 J&amp;D Pharmacy</b></summary>
@@ -657,6 +540,138 @@ A <b>marketing &amp; services website for Al-Mani Health Institute, an orthopedi
 
 </details>
 
+</details>
+
+<p align="center"><sub><b>More client work</b> ⬇️</sub></p>
+
+<details>
+<summary><b>🎓 Ibdaa Course</b></summary>
+<br/>
+
+An <b>Arabic-first e-learning platform, delivered end to end as an owned product rather than a codebase drop</b>. Arabic training providers usually run on platforms designed English-first with RTL bolted on afterwards, so the student experience, the certificate and the admin panel all read like a translation of something else. This was built the other way round: locale-prefixed <code>/ar</code> and <code>/en</code> routes over a single Next.js 16 App Router app with RTL as the default direction, backed by a Laravel 13 API split into thirteen feature modules — Auth, Users, Courses, Categories, Lectures, Enrollments, Payments, Exams, Certificates, Reviews, Discussions, Favorites and Reports — across 74 API routes. Handed over with deployment, UAT and ownership-transfer documentation so the client can run and extend it without me.
+
+<b>🛠 Stack:</b> Nx + pnpm monorepo · Laravel 13 · PHP 8.5 · PostgreSQL 17 · Redis · Laravel Sanctum · spatie/laravel-permission · Pest · Scribe (OpenAPI) · Next.js 16 (App Router) · React · TypeScript · Tailwind CSS v4 · shadcn/ui with RTL · Vitest<br/>
+<b>✨ Highlights:</b> Arabic-first by design — locale-prefixed routing with RTL as the default direction · 13 feature modules behind 74 API routes · certificates with public verification by code · role-based access (admin / instructor / student) on a single users table · API 174 tests / 616 assertions and 64 web tests, CI green · delivered with DEPLOYMENT, UAT and HANDOVER docs plus an ownership-transfer checklist<br/>
+<b>🚀 DevOps:</b> Two production Docker images (FrankenPHP PHP 8.5 API · Node 24 standalone web) · GitHub Actions CI (Pint + Postgres migrate + Pest; ESLint + Vitest + build) · local Postgres/Redis/Mailpit infra via Compose<br/>
+<b>👤 Role:</b> Senior Software Engineer — full delivery: Laravel API, Next.js web app, infrastructure and handover<br/>
+<b>🚧 Status:</b> Alpha — "Ibdaa Course" is a working title, pending the client's launch brand.
+
+<p>
+  <a href="https://alpha.ibdaacourse.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
+<br/>
+
+A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/en">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
+
+Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
+
+The product spec carries hard prohibitions, not just features: never fabricate candidate information, never promise employment or interviews, no fake ATS scores, no secret keys client-side.
+
+<b>🛠 Stack:</b> Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui (Radix, RTL) · next-intl (`/ar` default, `/en`) · Supabase (PostgreSQL, Auth, Storage) · Vitest · pnpm<br/>
+<b>🔌 Integrations:</b> Gmail OAuth (send-only) · Telegram bot with webhook + commands · pluggable AI providers behind a mock-able interface<br/>
+<b>✨ Highlights:</b> 21 feature modules (auth, resumes, matching, campaigns, credits, billing, notifications, admin…) · 54 database migrations · 96 test files · explainable company matching with unverified factors surfaced · queued application sending with skip rules · append-only credit ledger · Arabic RTL-first design system with per-language typography and LTR-locked mixed content<br/>
+<b>🏗 Architecture:</b> repositories are the only layer touching the database; Supabase clients isolated behind `src/lib/supabase`; env validated at boot; mock AI and email providers so local development never needs production services<br/>
+<b>👤 Role:</b> Solo — product, engineering and operations
+
+<p>
+  <a href="https://applyni.com/en" target="_blank"><img alt="Live — applyni.com" src="https://img.shields.io/badge/Live-applyni.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🦷 Compass Med</b></summary>
+<br/>
+
+A <b>full-stack dental e-commerce &amp; healthcare platform for the Egyptian market</b>. Dentists and dental clinics browse a categorized catalog of dental products and equipment, download product documents, manage a cart, wishlist and store-credit wallet, then check out via online payment or cash-on-delivery with city-based shipping rules. Beyond the storefront it runs a content-rich knowledge hub, event registration with live raffle draws, partner/clinic showcase pages, and a permission-driven admin dashboard with sales analytics, Excel reporting, returns and order tracking.
+
+<b>🛠 Stack:</b> Laravel 12 · PHP 8.4 · MySQL · Blade · Alpine.js · Tailwind CSS 3 · Vite · Redis · Laravel Sanctum<br/>
+<b>🔌 Integrations:</b> Fawaterak &amp; Fawry payment gateways · Odoo ERP (two-way sync of orders &amp; users) · SMTP email · AWS S3 storage · Pusher broadcasting · DomPDF invoice generation · Laravel Excel exports · Laratrust RBAC · Bavix Wallet · Telescope<br/>
+<b>✨ Highlights:</b> Cart, wishlist &amp; multi-tier checkout (online + COD) · Coupons, sales-rep codes &amp; wallet credit · City-based free/standard shipping engine · Order tracking, returns &amp; cancellations with PDF invoices · Knowledge hub &amp; event registration with raffle draws · Role/permission admin dashboard with charts, reports &amp; activity logging<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · Time4VPS (VPS hosting)<br/>
+<b>👤 Role:</b> Software Engineer — built end-to-end (Laravel back-end &amp; Blade front-end)
+
+<p>
+  <a href="http://www.compass-egy.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://compass-egy.com/admin/dashboard" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🔧 Fixawy</b></summary>
+<br/>
+
+A <b>two-sided home-services marketplace with a web dashboard and two Flutter mobile apps (customer + provider)</b>. Customers browse and book vetted technicians — or post a custom job and collect provider bids — then track the assigned technician live on a map, chat in real time, pay by cash, card or in-app wallet, and rate the work; providers manage incoming jobs, availability slots, earnings and subscription plans from their own app, while admins oversee bookings, payouts and the service catalog from the web panel. The platform handles the full booking lifecycle and multi-party settlement (customer → platform → provider → technician) across web and mobile.
+
+<b>🛠 Stack:</b> Laravel 8 (PHP) · Vue 2 &amp; Bootstrap · MySQL · Laravel Sanctum · Spatie Permission · DomPDF invoices · Flutter (Dart) with MobX for the customer &amp; provider mobile apps<br/>
+<b>🔌 Integrations:</b> PayTabs &amp; Stripe payments · Firebase (FCM push, Firestore real-time chat, Crashlytics, Remote Config, Storage) · OneSignal push · Google Maps &amp; geolocation/geocoding · Google, Apple &amp; Facebook sign-in<br/>
+<b>✨ Highlights:</b> end-to-end booking flow — book → assign technician → live-track → pay → rate · post-a-job with provider bidding · real-time in-app chat over Firestore · live provider location tracking on Google Maps · in-app wallet with cash/card/wallet payments, coupons &amp; advance payments · provider earnings dashboard with revenue charts, payouts &amp; subscription plans · bilingual Arabic/English with RTL support<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks + CD) · Cloudflare (DNS &amp; SSL) · AWS EC2 · AWS Lightsail · AWS RDS · AWS S3<br/>
+<b>👤 Role:</b> Software Engineer — Laravel + Vue web &amp; Flutter mobile apps
+
+<p><a href="https://fixawy.com/en" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://fixawy.com/dashboard/login" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en" target="_blank"><img alt="Customer App on Google Play" src="https://img.shields.io/badge/Customer%20App-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/eg/app/fixawy/id1071671875" target="_blank"><img alt="Customer App on App Store" src="https://img.shields.io/badge/Customer%20App-App%20Store-414141?style=for-the-badge&logo=app-store&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.fixawy.fixerapp&hl=en" target="_blank"><img alt="Fixer App on Google Play" src="https://img.shields.io/badge/Fixer%20App-Google%20Play-1D4ED8?style=for-the-badge&logo=google-play&logoColor=white" /></a></p>
+
+</details>
+
+<details>
+<summary><b>🧩 Ezhal</b></summary>
+<br/>
+
+A <b>multi-tenant car-service booking platform (CarQ) with a Laravel backend powering three role-specific Flutter apps for customers, on-the-road employees, and shop managers</b>. Customers book mobile car wash/detailing slots, pay through a wallet, points, stamps or card, and follow their technician live as they go on-the-way → arrived → started → completed; managers run schedules, time-off approvals, services, and customer wallets from a dedicated app. Standout features include passwordless email login codes, Apple Wallet loyalty passes with the full PassKit web service for device-side updates, and concurrency-safe slot reservations that lock the chosen employee before re-checking conflicts.
+
+<b>🛠 Stack:</b> Laravel 12 · PHP 8.4 · MariaDB 11 · Laravel Passport (multi-guard OAuth2) · Scramble OpenAPI · Flutter 3 · Riverpod · flutter_modular · Dio/Retrofit · Hive · slang (EN/AR)<br/>
+<b>🔌 Integrations:</b> MyFatoorah · Stripe · PayPal · Firebase (Messaging, Auth, Firestore, Functions) · Apple PassKit &amp; APNs · Google Sign-In · Sign in with Apple · Twilio SMS · Geolocator<br/>
+<b>✨ Highlights:</b> Three role-scoped APIs (customer/employee/manager) behind separate auth guards · Reserve → confirm booking flow with <code>lockForUpdate</code> slot conflict re-check · Apple Wallet pass web service (device registration, update polling, push) · Live employee location updates with on-the-way/arrived/started/completed state machine · Wallet, points, stamps and subscription-plan billing · Manager dashboard for employees, weekly schedules, time-off approvals, holidays and customer wallet adjustments<br/>
+<b>🚀 DevOps:</b> Docker · GitHub Actions (CI PR checks) · Cloudflare (DNS &amp; SSL) · Hostinger VPS<br/>
+<b>👤 Role:</b> Software Engineer — Laravel + Blade admin panel &amp; Flutter mobile apps
+
+<p>
+  <a href="https://alpha.ezhal-qtr.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://alpha.ezhal-qtr.com/login" target="_blank"><img alt="Admin Panel" src="https://img.shields.io/badge/Admin%20Panel-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+<b>📱 Mobile apps — coming soon</b>
+<p>
+  <b>Manager</b>&nbsp;
+  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <br/>
+  <b>Customer</b>&nbsp;
+  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <br/>
+  <b>Employee</b>&nbsp;
+  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Soon-414141?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🏛️ Proven Results Group</b></summary>
+<br/>
+
+A <b>corporate site for a diversified investment and operating group</b> combining capital, execution and operational leadership across hospitality, real estate, healthcare, agriculture and strategic ventures in Europe and international markets. The brief was a presence credible to a Spanish-speaking board and to English-speaking international investors at the same time — without a CMS to maintain or a build pipeline to keep alive. Seven hand-built pages (home, about, vision &amp; goals, portfolio, external investments, team, contact) where <b>every line of copy exists twice in the markup</b>, once in Spanish and once in English; one toggle in the header swaps the entire site instantly, with no reload, no route change and no translation service. Both languages ship inside the HTML, so search engines index both.
+
+<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step<br/>
+<b>✨ Highlights:</b> fully bilingual ES/EN via paired nodes — both indexable, unlike a JS translation layer · instant language swap with the choice persisted across pages and visits · seven static pages, no CMS to maintain · custom domain on GitHub Pages with near-zero running cost<br/>
+<b>🚀 DevOps:</b> GitHub Pages · custom domain via CNAME<br/>
+<b>👤 Role:</b> Independent Consultant — build and deploy
+
+<p>
+  <a href="https://provengroup.es/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://provengroup.es/portfolio.html" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://provengroup.es/equipo.html" target="_blank"><img alt="Team" src="https://img.shields.io/badge/Team-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+</details>
+
 <details>
 <summary><b>🦷 Xera Lab</b></summary>
 <br/>
@@ -731,6 +746,10 @@ An <b>on-demand home-services app for the Saudi market</b>, connecting household
 
 <p align="center"><sub>Design concepts, client demos and smaller builds — all live on my own domain, so you can click through them instead of taking my word for it. Each one is labelled for what it actually is: the three dental concepts are unsolicited, and no clinic commissioned or approved them.</sub></p>
 
+<br/>
+
+<details>
+<summary><b>Show all 5</b> — Reform Dental, DIGIT Dental, ITQAN Dental, Cairo Plaza, Ofoq — Smart Building</summary>
 <br/>
 
 <details>
@@ -811,6 +830,8 @@ A <b>smart-building app proposal turned into something the owner can actually us
 <p>
   <a href="https://ofoq.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-ofoq.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
+
+</details>
 
 </details>
 
