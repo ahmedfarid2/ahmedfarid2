@@ -76,6 +76,10 @@
   <img src="https://cdn.simpleicons.org/godaddy/1BDBDB" height="44" alt="GoDaddy" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/hetzner/D50C2D" height="44" alt="Hetzner" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="44" alt="App Store (iOS publishing)" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googleplay/34A853" height="44" alt="Google Play (Android publishing)" />
 </p>
 
 <p align="left"><b>Tools</b></p>
@@ -102,10 +106,9 @@
 
 <p align="left"><b>AI</b></p>
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="36" alt="Claude" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="36" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTkuMjA1IDguNjU4di0yLjI2YzAtLjE5LjA3Mi0uMzMzLjIzOC0uNDI4bDQuNTQzLTIuNjE2Yy42MTktLjM1NyAxLjM1Ni0uNTIzIDIuMTE3LS41MjMgMi44NTQgMCA0LjY2MiAyLjIxMiA0LjY2MiA0LjU2NiAwIC4xNjcgMCAuMzU3LS4wMjQuNTQ3bC00LjcxLTIuNzU5YS43OTcuNzk3IDAgMDAtLjg1NiAwbC01Ljk3IDMuNDczem0xMC42MDkgOC44VjEyLjA2YzAtLjMzMy0uMTQzLS41Ny0uNDI5LS43MzdsLTUuOTctMy40NzMgMS45NS0xLjExOGEuNDMzLjQzMyAwIDAxLjQ3NiAwbDQuNTQzIDIuNjE3YzEuMzA5Ljc2IDIuMTg5IDIuMzc4IDIuMTg5IDMuOTQ4IDAgMS44MDgtMS4wNyAzLjQ3My0yLjc2IDQuMTYzek03LjgwMiAxMi43MDNsLTEuOTUtMS4xNDJjLS4xNjctLjA5NS0uMjM5LS4yMzgtLjIzOS0uNDI4VjUuODk5YzAtMi41NDUgMS45NS00LjQ3MiA0LjU5MS00LjQ3MiAxIDAgMS45MjcuMzMzIDIuNzEyLjkyOEw4LjIzIDUuMDY3Yy0uMjg1LjE2Ni0uNDI4LjQwNC0uNDI4LjczN3Y2Ljg5OHpNMTIgMTUuMTI4bC0yLjc5NS0xLjU3di0zLjMzTDEyIDguNjU4bDIuNzk1IDEuNTd2My4zM0wxMiAxNS4xMjh6bTEuNzk2IDcuMjNjLTEgMC0xLjkyNy0uMzMyLTIuNzEyLS45MjdsNC42ODYtMi43MTJjLjI4NS0uMTY2LjQyOC0uNDA0LjQyOC0uNzM3di02Ljg5OGwxLjk3NCAxLjE0MmMuMTY3LjA5NS4yMzguMjM4LjIzOC40Mjh2NS4yMzNjMCAyLjU0NS0xLjk3NCA0LjQ3Mi00LjYxNCA0LjQ3MnptLTUuNjM3LTUuMzAzbC00LjU0NC0yLjYxN2MtMS4zMDgtLjc2MS0yLjE4OC0yLjM3OC0yLjE4OC0zLjk0OEE0LjQ4MiA0LjQ4MiAwIDAxNC4yMSA2LjMyN3Y1LjQyM2MwIC4zMzMuMTQzLjU3MS40MjguNzM4bDUuOTQ3IDMuNDQ5LTEuOTUgMS4xMThhLjQzMi40MzIgMCAwMS0uNDc2IDB6bS0uMjYyIDMuOWMtMi42ODggMC00LjY2Mi0yLjAyMS00LjY2Mi00LjUxOSAwLS4xOS4wMjQtLjM4LjA0Ny0uNTdsNC42ODYgMi43MWMuMjg2LjE2Ny41NzEuMTY3Ljg1NiAwbDUuOTctMy40NDh2Mi4yNmMwIC4xOS0uMDcuMzMzLS4yMzcuNDI4bC00LjU0MyAyLjYxNmMtLjYxOS4zNTctMS4zNTYuNTIzLTIuMTE3LjUyM3ptNS44OTkgMi44M2E1Ljk0NyA1Ljk0NyAwIDAwNS44MjctNC43NTZDMjIuMjg3IDE4LjMzOSAyNCAxNS44NCAyNCAxMy4yOTZjMC0xLjY2NS0uNzEzLTMuMjgyLTEuOTk4LTQuNDQ4LjExOS0uNS4xOS0uOTk5LjE5LTEuNDk4IDAtMy40MDEtMi43NTktNS45NDctNS45NDYtNS45NDctLjY0MiAwLTEuMjYuMDk1LTEuODguMzFBNS45NjIgNS45NjIgMCAwMDEwLjIwNSAwYTUuOTQ3IDUuOTQ3IDAgMDAtNS44MjcgNC43NTdDMS43MTMgNS40NDcgMCA3Ljk0NSAwIDEwLjQ5YzAgMS42NjYuNzEzIDMuMjgzIDEuOTk4IDQuNDQ4LS4xMTkuNS0uMTkgMS0uMTkgMS40OTkgMCAzLjQwMSAyLjc1OSA1Ljk0NiA1Ljk0NiA1Ljk0Ni42NDIgMCAxLjI2LS4wOTUgMS44OC0uMzA5YTUuOTYgNS45NiAwIDAwNC4xNjIgMS43MTN6Ij48L3BhdGg%2BPC9zdmc%2B" height="36" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTQuNzA5IDE1Ljk1NWw0LjcyLTIuNjQ3LjA4LS4yMy0uMDgtLjEyOEg5LjJsLS43OS0uMDQ4LTIuNjk4LS4wNzMtMi4zMzktLjA5Ny0yLjI2Ni0uMTIyLS41NzEtLjEyMUwwIDExLjc4NGwuMDU1LS4zNTIuNDgtLjMyMS42ODYuMDYgMS41Mi4xMDMgMi4yNzguMTU4IDEuNjUyLjA5NyAyLjQ0OS4yNTVoLjM4OWwuMDU1LS4xNTctLjEzNC0uMDk4LS4xMDMtLjA5Ny0yLjM1OC0xLjU5Ni0yLjU1Mi0xLjY4OC0xLjMzNi0uOTcyLS43MjQtLjQ5MS0uMzY0LS40NjItLjE1OC0xLjAwOC42NTYtLjcyMi44ODEuMDYuMjI1LjA2MS44OTMuNjg2IDEuOTA4IDEuNDc2IDIuNDkxIDEuODMzLjM2NS4zMDQuMTQ1LS4xMDMuMDE5LS4wNzMtLjE2NC0uMjc0LTEuMzU1LTIuNDQ2LTEuNDQ2LTIuNDktLjY0NC0xLjAzMi0uMTctLjYxOWEyLjk3IDIuOTcgMCAwMS0uMTA0LS43MjlMNi4yODMuMTM0IDYuNjk2IDBsLjk5Ni4xMzQuNDIuMzY0LjYyIDEuNDE0IDEuMDAyIDIuMjI5IDEuNTU1IDMuMDMuNDU2Ljg5OC4yNDMuODMyLjA5MS4yNTVoLjE1OFY5LjAxbC4xMjgtMS43MDYuMjM3LTIuMDk1LjIzLTIuNjk1LjA4LS43Ni4zNzYtLjkxLjc0Ny0uNDkyLjU4NC4yOC40OC42ODUtLjA2Ny40NDQtLjI4NiAxLjg1MS0uNTU5IDIuOTAzLS4zNjQgMS45NDJoLjIxMmwuMjQzLS4yNDIuOTg1LTEuMzA2IDEuNjUyLTIuMDY0LjczLS44Mi44NS0uOTA0LjU0Ny0uNDMxaDEuMDMzbC43NiAxLjEyOS0uMzQgMS4xNjYtMS4wNjQgMS4zNDctLjg4MSAxLjE0Mi0xLjI2NCAxLjctLjc5IDEuMzYuMDczLjExLjE4OC0uMDIgMi44NTYtLjYwNiAxLjU0My0uMjggMS44NDEtLjMxNS44MzMuMzg4LjA5MS4zOTUtLjMyOC44MDctMS45NjkuNDg2LTIuMzA5LjQ2Mi0zLjQzOS44MTMtLjA0Mi4wMy4wNDkuMDYxIDEuNTQ5LjE0Ni42NjIuMDM2aDEuNjIybDMuMDIuMjI1Ljc5LjUyMi40NzQuNjM4LS4wNzkuNDg1LTEuMjE1LjYyLTEuNjQtLjM4OS0zLjgyOS0uOTEtMS4zMTItLjMyOWgtLjE4MnYuMTFsMS4wOTMgMS4wNjggMi4wMDYgMS44MSAyLjUwOSAyLjMzLjEyNy41NzgtLjMyMi40NTUtLjM0LS4wNDktMi4yMDUtMS42NTctLjg1MS0uNzQ3LTEuOTI2LTEuNjJoLS4xMjh2LjE3bC40NDQuNjQ5IDIuMzQ1IDMuNTIxLjEyMiAxLjA4LS4xNy4zNTMtLjYwOC4yMTMtLjY2OC0uMTIyLTEuMzc0LTEuOTI1LTEuNDE1LTIuMTY3LTEuMTQzLTEuOTQzLS4xNC4wOC0uNjc0IDcuMjU0LS4zMTYuMzctLjcyOS4yOC0uNjA3LS40NjEtLjMyMi0uNzQ3LjMyMi0xLjQ3Ni4zODktMS45MjQuMzE1LTEuNTMuMjg2LTEuOS4xNy0uNjMyLS4wMTItLjA0Mi0uMTQuMDE4LTEuNDM0IDEuOTY3LTIuMTggMi45NDUtMS43MjYgMS44NDUtLjQxNC4xNjQtLjcxNy0uMzcuMDY3LS42NjIuNDAxLS41ODkgMi4zODgtMy4wMzYgMS40NC0xLjg4Mi45My0xLjA4Ni0uMDA2LS4xNThoLS4wNTVMNC4xMzIgMTguNTZsLTEuMTMuMTQ2LS40ODctLjQ1Ni4wNjEtLjc0Ni4yMzEtLjI0MyAxLjkwOC0xLjMxMi0uMDA2LjAwNnoiPjwvcGF0aD48L3N2Zz4%3D" height="36" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOC4wODYuNDU3YTYuMTA1IDYuMTA1IDAgMDEzLjA0Ni0uNDE1YzEuMzMzLjE1MyAyLjUyMS43MiAzLjU2NCAxLjdhLjExNy4xMTcgMCAwMC4xMDcuMDI5YzEuNDA4LS4zNDYgMi43NjItLjIyNCA0LjA2MS4zNjZsLjA2My4wMy4xNTQuMDc2YzEuMzU3LjcwMyAyLjMzIDEuNzcgMi45MTggMy4xOTguMjc4LjY3OS40MTggMS4zODguNDIxIDIuMTI2YTUuNjU1IDUuNjU1IDAgMDEtLjE4IDEuNjMxLjE2Ny4xNjcgMCAwMC4wNC4xNTUgNS45ODIgNS45ODIgMCAwMTEuNTc4IDIuODkxYy4zODUgMS45MDEtLjAxIDMuNjE1LTEuMTgzIDUuMTRsLS4xODIuMjJhNi4wNjMgNi4wNjMgMCAwMS0yLjkzNCAxLjg1MS4xNjIuMTYyIDAgMDAtLjEwOC4xMDJjLS4yNTUuNzM2LS41MTEgMS4zNjQtLjk4NyAxLjk5Mi0xLjE5OSAxLjU4Mi0yLjk2MiAyLjQ2Mi00Ljk0OCAyLjQ1MS0xLjU4My0uMDA4LTIuOTg2LS41ODctNC4yMS0xLjczNmEuMTQ1LjE0NSAwIDAwLS4xNC0uMDMyYy0uNTE4LjE2Ny0xLjA0LjE5MS0xLjYwNC4xODVhNS45MjQgNS45MjQgMCAwMS0yLjU5NS0uNjIyIDYuMDU4IDYuMDU4IDAgMDEtMi4xNDYtMS43ODFjLS4yMDMtLjI2OS0uNDA0LS41MjItLjU1MS0uODIxYTcuNzQgNy43NCAwIDAxLS40OTUtMS4yODMgNi4xMSA2LjExIDAgMDEtLjAxNy0zLjA2NC4xNjYuMTY2IDAgMDAuMDA4LS4wNzQuMTE1LjExNSAwIDAwLS4wMzctLjA2NCA1Ljk1OCA1Ljk1OCAwIDAxLTEuMzgtMi4yMDIgNS4xOTYgNS4xOTYgMCAwMS0uMzMzLTEuNTg5IDYuOTE1IDYuOTE1IDAgMDEuMTg4LTIuMTMyYy40NS0xLjQ4NCAxLjMwOS0yLjY0OCAyLjU3Ny0zLjQ5My4yODItLjE4OC41NS0uMzM0LjgwMi0uNDM4LjI4Ni0uMTIuNTczLS4yMi44NjEtLjMwNGEuMTI5LjEyOSAwIDAwLjA4Ny0uMDg3QTYuMDE2IDYuMDE2IDAgMDE1LjYzNSAyLjMxQzYuMzE1IDEuNDY0IDcuMTMyLjg0NiA4LjA4Ni40NTd6bS0uODA0IDcuODVhLjg0OC44NDggMCAwMC0xLjQ3My44NDJsMS42OTQgMi45NjUtMS42ODggMi44NDhhLjg0OS44NDkgMCAwMDEuNDYuODY0bDEuOTQtMy4yNzJhLjg0OS44NDkgMCAwMC4wMDctLjg1NGwtMS45NC0zLjM5M3ptNS40NDYgNi4yNGEuODQ5Ljg0OSAwIDAwMCAxLjY5NWg0Ljg0OGEuODQ5Ljg0OSAwIDAwMC0xLjY5NmgtNC44NDh6Ij48L3BhdGg%2BPC9zdmc%2B" height="36" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="36" alt="Cursor" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="36" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTkuMjcgMTUuMjlsNy45NzgtNS44OTdjLjM5MS0uMjkuOTUtLjE3NyAxLjEzNy4yNzIuOTggMi4zNjkuNTQyIDUuMjE1LTEuNDEgNy4xNjktMS45NTEgMS45NTQtNC42NjcgMi4zODItNy4xNDkgMS40MDZsLTIuNzExIDEuMjU3YzMuODg5IDIuNjYxIDguNjExIDIuMDAzIDExLjU2Mi0uOTUzIDIuMzQxLTIuMzQ0IDMuMDY2LTUuNTM5IDIuMzg4LTguNDJsLjAwNi4wMDdjLS45ODMtNC4yMzIuMjQyLTUuOTI0IDIuNzUtOS4zODMuMDYtLjA4Mi4xMi0uMTY0LjE3OS0uMjQ4bC0zLjMwMSAzLjMwNXYtLjAxTDkuMjY3IDE1LjI5Mk03LjYyMyAxNi43MjNjLTIuNzkyLTIuNjctMi4zMS02LjgwMS4wNzEtOS4xODQgMS43NjEtMS43NjMgNC42NDctMi40ODMgNy4xNjYtMS40MjVsMi43MDUtMS4yNWE3LjgwOCA3LjgwOCAwIDAwLTEuODI5LTFBOC45NzUgOC45NzUgMCAwMDUuOTg0IDUuODNjLTIuNTMzIDIuNTM2LTMuMzMgNi40MzYtMS45NjIgOS43NjQgMS4wMjIgMi40ODctLjY1MyA0LjI0Ni0yLjM0IDYuMDIyLS41OTkuNjMtMS4xOTkgMS4yNTktMS42ODIgMS45MjVsNy42Mi02LjgxNSI%2BPC9wYXRoPjwvc3ZnPg%3D%3D" height="36" alt="Grok" />
@@ -260,6 +263,29 @@ An <b>Arabic-first e-learning platform, delivered end to end as an owned product
 </details>
 
 <details>
+<summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
+<br/>
+
+A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/ar">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
+
+Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
+
+The product spec carries hard prohibitions, not just features: never fabricate candidate information, never promise employment or interviews, no fake ATS scores, no secret keys client-side.
+
+<b>🛠 Stack:</b> Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui (Radix, RTL) · next-intl (`/ar` default, `/en`) · Supabase (PostgreSQL, Auth, Storage) · Vitest · pnpm<br/>
+<b>🔌 Integrations:</b> Gmail OAuth (send-only) · Telegram bot with webhook + commands · pluggable AI providers behind a mock-able interface<br/>
+<b>✨ Highlights:</b> 21 feature modules (auth, resumes, matching, campaigns, credits, billing, notifications, admin…) · 54 database migrations · 96 test files · explainable company matching with unverified factors surfaced · queued application sending with skip rules · append-only credit ledger · Arabic RTL-first design system with per-language typography and LTR-locked mixed content<br/>
+<b>🏗 Architecture:</b> repositories are the only layer touching the database; Supabase clients isolated behind `src/lib/supabase`; env validated at boot; mock AI and email providers so local development never needs production services<br/>
+<b>👤 Role:</b> Solo — product, engineering and operations
+
+<p>
+  <a href="https://applyni.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://applyni.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-applyni.com%2Fen-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>🦷 Compass Med</b></summary>
 <br/>
 
@@ -343,39 +369,6 @@ A <b>corporate site for a diversified investment and operating group</b> combini
   <a href="https://provengroup.es/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://provengroup.es/portfolio.html" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://provengroup.es/equipo.html" target="_blank"><img alt="Team" src="https://img.shields.io/badge/Team-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🏢 Cairo Plaza</b></summary>
-<br/>
-
-A <b>payment-plan calculator and project pages for a New Cairo real-estate developer</b>. Buying off-plan property in Egypt means comparing down payments, instalment lengths and delivery dates across plans that are usually explained verbally or in a PDF. This turns that conversation into a tool the sales team can open on a phone in front of a buyer: pick a plan, see the numbers move. Bilingual English and Arabic, fully static, no backend and no build step — which is why it loads instantly on a phone in a showroom with poor signal.
-
-<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step · Vercel<br/>
-<b>✨ Highlights:</b> interactive payment-plan calculator · per-project pages (Hyde Park, New Cairo) · bilingual EN/AR with English as default · deploy root scoped to `site/` so internal sales material physically cannot be served, with `.vercelignore` as a second line of defence<br/>
-<b>👤 Role:</b> Independent Consultant — build and deploy
-
-<p>
-  <a href="https://cairoplaza.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-cairoplaza.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🏢 Ofoq — Smart Building</b></summary>
-<br/>
-
-A <b>smart-building app proposal turned into something the owner can actually use</b>, rather than another document to read. Built from the Ofoq Smart Building App Proposal as Demo Milestone 1: one polished journey, end to end, with the member and management sides genuinely connected rather than mocked. A booking made in the member app appears on the management calendar. A café order placed in the member app lands on the kitchen board. Mark that order <b>Ready</b> in the kitchen and the member is notified — live, including in another browser tab.
-
-<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · QR code generation · Vercel<br/>
-<b>✨ Highlights:</b> member app — spaces, booking flow, review and confirmation, digital pass with a QR that resolves to a check-in route, café ordering and order tracking · management side — dashboard, master calendar, kitchen order board · cross-surface live updates between member and management · every piece of invented placeholder content documented in `PLACEHOLDERS.md` so nothing fabricated can be mistaken for the client's real data<br/>
-<b>👤 Role:</b> Independent Consultant — full demo build<br/>
-<b>🚧 Status:</b> Demo Milestone 1. Milestone 2 screens (rewards, notification centre, admin users/pricing/menu/reports, booking overrides) are deliberately not built.
-
-<p>
-  <a href="https://ofoq.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-ofoq.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 </details>
@@ -639,7 +632,7 @@ A <b>B2B dental-outsourcing marketplace built to act as a global dental outsourc
 
 An <b>on-demand home-services app for the Saudi market</b>, connecting households with vetted workers for cleaning, maintenance and everyday household tasks — browse services, book a worker for a chosen time slot, and manage requests end to end from the app.
 
-<sub><i>Unrelated to <b>Ofoq — Smart Building</b> above; the two share a name only.</i></sub>
+<sub><i>Unrelated to <b>Ofoq — Smart Building</b> under Concepts, Demos &amp; Recent Builds below; the two share a name only.</i></sub>
 
 <b>🛠 Stack:</b> Flutter · Laravel · MySQL · Firebase · REST API<br/>
 <b>👤 Role:</b> Software Engineer — Flutter mobile &amp; Laravel back-end<br/>
@@ -654,30 +647,11 @@ An <b>on-demand home-services app for the Saudi market</b>, connecting household
 
 <p align="center"><sub>Client work shows what I deliver against someone else's brief. These are the ones where I picked the problem, shipped the product, and host it on my own domain.</sub></p>
 
-<br/>
-
-<details open>
-<summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
-<br/>
-
-A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/ar">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
-
-Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
-
-The product spec carries hard prohibitions, not just features: never fabricate candidate information, never promise employment or interviews, no fake ATS scores, no secret keys client-side.
-
-<b>🛠 Stack:</b> Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui (Radix, RTL) · next-intl (`/ar` default, `/en`) · Supabase (PostgreSQL, Auth, Storage) · Vitest · pnpm<br/>
-<b>🔌 Integrations:</b> Gmail OAuth (send-only) · Telegram bot with webhook + commands · pluggable AI providers behind a mock-able interface<br/>
-<b>✨ Highlights:</b> 21 feature modules (auth, resumes, matching, campaigns, credits, billing, notifications, admin…) · 54 database migrations · 96 test files · explainable company matching with unverified factors surfaced · queued application sending with skip rules · append-only credit ledger · Arabic RTL-first design system with per-language typography and LTR-locked mixed content<br/>
-<b>🏗 Architecture:</b> repositories are the only layer touching the database; Supabase clients isolated behind `src/lib/supabase`; env validated at boot; mock AI and email providers so local development never needs production services<br/>
-<b>👤 Role:</b> Solo — product, engineering and operations
-
-<p>
-  <a href="https://applyni.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://applyni.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-applyni.com%2Fen-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<p>🎯 <b>Applyni</b> — <i>AI career agent</i> · full write-up above, under <b>Samples from My Projects</b><br/>
+  <a href="https://applyni.com/ar" target="_blank"><img alt="Applyni" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
-</details>
+<br/>
 
 <details>
 <summary><b>🧾 ReconcilePilot</b> — <i>finance ops</i></summary>
@@ -713,9 +687,9 @@ The product spec carries hard prohibitions, not just features: never fabricate c
 
 <hr>
 
-<h2 align="center">🎨 Concepts &amp; Design Studies</h2>
+<h2 align="center">🎨 Concepts, Demos &amp; Recent Builds</h2>
 
-<p align="center"><sub>Unsolicited concepts — nobody commissioned these and no client has approved them. They're here as design and engineering work, not as client engagements. Each is live so you can click through it.</sub></p>
+<p align="center"><sub>Design concepts, client demos and smaller builds — all live on my own domain, so you can click through them instead of taking my word for it. Each one is labelled for what it actually is: the three dental concepts are unsolicited, and no clinic commissioned or approved them.</sub></p>
 
 <br/>
 
@@ -763,6 +737,39 @@ The product spec carries hard prohibitions, not just features: never fabricate c
 
 <p>
   <a href="https://itqan.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-itqan.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🏢 Cairo Plaza</b> — <i>client work</i></summary>
+<br/>
+
+A <b>payment-plan calculator and project pages for a New Cairo real-estate developer</b>. Buying off-plan property in Egypt means comparing down payments, instalment lengths and delivery dates across plans that are usually explained verbally or in a PDF. This turns that conversation into a tool the sales team can open on a phone in front of a buyer: pick a plan, see the numbers move. Bilingual English and Arabic, fully static, no backend and no build step — which is why it loads instantly on a phone in a showroom with poor signal.
+
+<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step · Vercel<br/>
+<b>✨ Highlights:</b> interactive payment-plan calculator · per-project pages (Hyde Park, New Cairo) · bilingual EN/AR with English as default · deploy root scoped to `site/` so internal sales material physically cannot be served, with `.vercelignore` as a second line of defence<br/>
+<b>👤 Role:</b> Independent Consultant — build and deploy
+
+<p>
+  <a href="https://cairoplaza.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-cairoplaza.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🏢 Ofoq — Smart Building</b> — <i>client demo</i></summary>
+<br/>
+
+A <b>smart-building app proposal turned into something the owner can actually use</b>, rather than another document to read. Built from the Ofoq Smart Building App Proposal as Demo Milestone 1: one polished journey, end to end, with the member and management sides genuinely connected rather than mocked. A booking made in the member app appears on the management calendar. A café order placed in the member app lands on the kitchen board. Mark that order <b>Ready</b> in the kitchen and the member is notified — live, including in another browser tab.
+
+<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · QR code generation · Vercel<br/>
+<b>✨ Highlights:</b> member app — spaces, booking flow, review and confirmation, digital pass with a QR that resolves to a check-in route, café ordering and order tracking · management side — dashboard, master calendar, kitchen order board · cross-surface live updates between member and management · every piece of invented placeholder content documented in `PLACEHOLDERS.md` so nothing fabricated can be mistaken for the client's real data<br/>
+<b>👤 Role:</b> Independent Consultant — full demo build<br/>
+<b>🚧 Status:</b> Demo Milestone 1. Milestone 2 screens (rewards, notification centre, admin users/pricing/menu/reports, booking overrides) are deliberately not built.
+
+<p>
+  <a href="https://ofoq.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-ofoq.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 </details>
