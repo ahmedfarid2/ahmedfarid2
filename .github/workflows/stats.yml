@@ -1,13 +1,16 @@
 name: Profile Stats
 
-# Renders the two static stat cards the README shows — github-metrics.svg
-# (lowlighter/metrics) and languages.svg (.github/scripts/gen_languages.py) —
-# and publishes them to the `output` branch next to snake.svg.
+# Renders the static metrics card the README shows (github-metrics.svg, via
+# lowlighter/metrics) and publishes it to the `output` branch next to snake.svg.
 #
-# They go to `output`, not `main`, on purpose: the previous versions of these
-# workflows committed to main twice a day, and that bot noise made up most of
-# the visible commit history (removed in #152). The README reads the files
+# It goes to `output`, not `main`, on purpose: the previous version of this
+# workflow committed to main twice a day, and that bot noise made up most of
+# the visible commit history (removed in #152). The README reads the file
 # from raw.githubusercontent.com/.../output/, so main stays clean.
+#
+# A top-languages card used to be rendered here too. It was removed because it
+# only counts public repos, which are mostly exported HTML pages, so it showed
+# "HTML 93%" and misrepresented the stack the README's badges already list.
 
 on:
   schedule:
@@ -18,7 +21,6 @@ on:
     branches: [main]
     paths:
       - .github/workflows/stats.yml
-      - .github/scripts/gen_languages.py
 
 permissions:
   contents: write          # needed to push to the output branch
@@ -33,27 +35,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: false   # nothing pushes through the workspace .git
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      # Each card fails independently; whatever renders still publishes, and a
-      # card that failed keeps its previous copy on output (keep_files).
-      - name: Generate languages.svg
-        id: languages
-        continue-on-error: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: ahmedfarid2
-          OUTPUT: dist/languages.svg
-        run: |
-          mkdir -p dist
-          python .github/scripts/gen_languages.py
-
+      # continue-on-error so the failure step below can report it; on failure
+      # the previous copy on output stays (keep_files).
       - name: Generate github-metrics.svg
         id: metrics
         continue-on-error: true
@@ -74,14 +57,15 @@ jobs:
 
       - name: Collect github-metrics.svg
         run: |
+          mkdir -p dist
           if [ -f /metrics_renders/github-metrics.svg ]; then
             cp /metrics_renders/github-metrics.svg dist/
           else
             echo "::warning::github-metrics.svg was not rendered; the previous copy on output (if any) stays."
           fi
 
-      # keep_files: only the files in dist/ are replaced; snake.svg and any
-      # card not rendered this run stay as they are on the branch.
+      # keep_files: only the files in dist/ are replaced; snake.svg stays as
+      # it is on the branch. An empty dist/ makes this a no-op.
       - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -94,8 +78,8 @@ jobs:
       # continue-on-error keeps the run green, so a card that stops rendering
       # (e.g. an expired METRICS_TOKEN) would freeze silently. Fail the run
       # after publishing so GitHub sends the usual failure email.
-      - name: Fail if a card did not render
-        if: steps.languages.outcome == 'failure' || steps.metrics.outcome == 'failure'
+      - name: Fail if the card did not render
+        if: steps.metrics.outcome == 'failure'
         run: |
-          echo "::error::languages=${{ steps.languages.outcome }} metrics=${{ steps.metrics.outcome }}"
+          echo "::error::github-metrics.svg did not render (outcome: ${{ steps.metrics.outcome }})"
           exit 1

@@ -136,16 +136,12 @@
 <h3 align="center">📊 My Stats</h3>
 
 <!--
-  Both images are static SVGs rendered by .github/workflows/stats.yml and
-  published to the `output` branch (next to snake.svg), refreshed every 12 hours.
+  Static SVG rendered by .github/workflows/stats.yml and published to the
+  `output` branch (next to snake.svg), refreshed every 12 hours.
 -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmedfarid2/ahmedfarid2/output/github-metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedfarid2/ahmedfarid2/output/languages.svg" alt="Most used languages" />
 </p>
 
 <hr>
