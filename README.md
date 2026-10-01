@@ -88,7 +88,7 @@
 
 <p align="left"><b>DevOps &amp; Cloud</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,cloudflare,nginx,linux,ubuntu,githubactions,grafana,sentry,vercel" height="48" alt="Docker, AWS, GCP, Firebase, Cloudflare, Nginx, Linux, Ubuntu, GitHub Actions, Grafana, Sentry, Vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,firebase,cloudflare,nginx,linux,ubuntu,githubactions,grafana,sentry,vercel" height="48" alt="Docker, Kubernetes, AWS, GCP, Firebase, Cloudflare, Nginx, Linux, Ubuntu, GitHub Actions, Grafana, Sentry, Vercel" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="Apache" />
   &nbsp;
