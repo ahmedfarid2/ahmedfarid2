@@ -11,7 +11,8 @@ name: Profile Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # :30, offset from snake.yml's 00:00 run and the busy top-of-hour slot.
+    - cron: "30 */12 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -30,14 +31,21 @@ concurrency:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false   # nothing pushes through the workspace .git
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
+      # Each card fails independently; whatever renders still publishes, and a
+      # card that failed keeps its previous copy on output (keep_files).
       - name: Generate languages.svg
+        id: languages
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ahmedfarid2
@@ -46,9 +54,10 @@ jobs:
           mkdir -p dist
           python .github/scripts/gen_languages.py
 
-      # A metrics failure must not block the languages card from publishing.
       - name: Generate github-metrics.svg
+        id: metrics
         continue-on-error: true
+        timeout-minutes: 10
         uses: lowlighter/metrics@latest
         with:
           # Prefers a repo secret named METRICS_TOKEN (a read-only GitHub PAT)
@@ -59,7 +68,7 @@ jobs:
           filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Cairo
+          config_timezone: Asia/Dubai
           # Render only; the publish step below does the push.
           output_action: none
 
@@ -68,7 +77,7 @@ jobs:
           if [ -f /metrics_renders/github-metrics.svg ]; then
             cp /metrics_renders/github-metrics.svg dist/
           else
-            echo "::warning::github-metrics.svg was not rendered; keeping the previous copy on output."
+            echo "::warning::github-metrics.svg was not rendered; the previous copy on output (if any) stays."
           fi
 
       # keep_files: only the files in dist/ are replaced; snake.svg and any
@@ -81,3 +90,12 @@ jobs:
           publish_dir: ./dist
           keep_files: true
           commit_message: "chore(stats): refresh profile stat cards"
+
+      # continue-on-error keeps the run green, so a card that stops rendering
+      # (e.g. an expired METRICS_TOKEN) would freeze silently. Fail the run
+      # after publishing so GitHub sends the usual failure email.
+      - name: Fail if a card did not render
+        if: steps.languages.outcome == 'failure' || steps.metrics.outcome == 'failure'
+        run: |
+          echo "::error::languages=${{ steps.languages.outcome }} metrics=${{ steps.metrics.outcome }}"
+          exit 1

@@ -4,7 +4,7 @@ GitHub profile README repository (README, CV PDF, contribution-snake and profile
 
 ## Repository facts
 
-**What it is.** GitHub profile repository: `README.md` is rendered on github.com/ahmedfarid2. Also holds the CV PDF and two automation pieces.
+**What it is.** GitHub profile repository: `README.md` is rendered on github.com/ahmedfarid2. Also holds the CV PDF and three automation pieces (snake workflow, stats workflow, languages script).
 
 **Stack.** Markdown README; GitHub Actions (`.github/workflows/snake.yml` publishes a contribution-snake SVG to the `output` branch daily; `.github/workflows/stats.yml` publishes `github-metrics.svg` and `languages.svg` to the same branch every 12 hours); Python 3 stdlib script `.github/scripts/gen_languages.py` that renders a languages SVG from the GitHub API.
 
