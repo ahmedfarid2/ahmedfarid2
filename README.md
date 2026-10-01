@@ -263,6 +263,29 @@ An <b>Arabic-first e-learning platform, delivered end to end as an owned product
 </details>
 
 <details>
+<summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
+<br/>
+
+A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/ar">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
+
+Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
+
+The product spec carries hard prohibitions, not just features: never fabricate candidate information, never promise employment or interviews, no fake ATS scores, no secret keys client-side.
+
+<b>🛠 Stack:</b> Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui (Radix, RTL) · next-intl (`/ar` default, `/en`) · Supabase (PostgreSQL, Auth, Storage) · Vitest · pnpm<br/>
+<b>🔌 Integrations:</b> Gmail OAuth (send-only) · Telegram bot with webhook + commands · pluggable AI providers behind a mock-able interface<br/>
+<b>✨ Highlights:</b> 21 feature modules (auth, resumes, matching, campaigns, credits, billing, notifications, admin…) · 54 database migrations · 96 test files · explainable company matching with unverified factors surfaced · queued application sending with skip rules · append-only credit ledger · Arabic RTL-first design system with per-language typography and LTR-locked mixed content<br/>
+<b>🏗 Architecture:</b> repositories are the only layer touching the database; Supabase clients isolated behind `src/lib/supabase`; env validated at boot; mock AI and email providers so local development never needs production services<br/>
+<b>👤 Role:</b> Solo — product, engineering and operations
+
+<p>
+  <a href="https://applyni.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://applyni.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-applyni.com%2Fen-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
 <summary><b>🦷 Compass Med</b></summary>
 <br/>
 
@@ -346,39 +369,6 @@ A <b>corporate site for a diversified investment and operating group</b> combini
   <a href="https://provengroup.es/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://provengroup.es/portfolio.html" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://provengroup.es/equipo.html" target="_blank"><img alt="Team" src="https://img.shields.io/badge/Team-059669?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🏢 Cairo Plaza</b></summary>
-<br/>
-
-A <b>payment-plan calculator and project pages for a New Cairo real-estate developer</b>. Buying off-plan property in Egypt means comparing down payments, instalment lengths and delivery dates across plans that are usually explained verbally or in a PDF. This turns that conversation into a tool the sales team can open on a phone in front of a buyer: pick a plan, see the numbers move. Bilingual English and Arabic, fully static, no backend and no build step — which is why it loads instantly on a phone in a showroom with poor signal.
-
-<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step · Vercel<br/>
-<b>✨ Highlights:</b> interactive payment-plan calculator · per-project pages (Hyde Park, New Cairo) · bilingual EN/AR with English as default · deploy root scoped to `site/` so internal sales material physically cannot be served, with `.vercelignore` as a second line of defence<br/>
-<b>👤 Role:</b> Independent Consultant — build and deploy
-
-<p>
-  <a href="https://cairoplaza.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-cairoplaza.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><b>🏢 Ofoq — Smart Building</b></summary>
-<br/>
-
-A <b>smart-building app proposal turned into something the owner can actually use</b>, rather than another document to read. Built from the Ofoq Smart Building App Proposal as Demo Milestone 1: one polished journey, end to end, with the member and management sides genuinely connected rather than mocked. A booking made in the member app appears on the management calendar. A café order placed in the member app lands on the kitchen board. Mark that order <b>Ready</b> in the kitchen and the member is notified — live, including in another browser tab.
-
-<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · QR code generation · Vercel<br/>
-<b>✨ Highlights:</b> member app — spaces, booking flow, review and confirmation, digital pass with a QR that resolves to a check-in route, café ordering and order tracking · management side — dashboard, master calendar, kitchen order board · cross-surface live updates between member and management · every piece of invented placeholder content documented in `PLACEHOLDERS.md` so nothing fabricated can be mistaken for the client's real data<br/>
-<b>👤 Role:</b> Independent Consultant — full demo build<br/>
-<b>🚧 Status:</b> Demo Milestone 1. Milestone 2 screens (rewards, notification centre, admin users/pricing/menu/reports, booking overrides) are deliberately not built.
-
-<p>
-  <a href="https://ofoq.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-ofoq.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 </details>
@@ -642,7 +632,7 @@ A <b>B2B dental-outsourcing marketplace built to act as a global dental outsourc
 
 An <b>on-demand home-services app for the Saudi market</b>, connecting households with vetted workers for cleaning, maintenance and everyday household tasks — browse services, book a worker for a chosen time slot, and manage requests end to end from the app.
 
-<sub><i>Unrelated to <b>Ofoq — Smart Building</b> above; the two share a name only.</i></sub>
+<sub><i>Unrelated to <b>Ofoq — Smart Building</b> under Concepts, Demos &amp; Recent Builds below; the two share a name only.</i></sub>
 
 <b>🛠 Stack:</b> Flutter · Laravel · MySQL · Firebase · REST API<br/>
 <b>👤 Role:</b> Software Engineer — Flutter mobile &amp; Laravel back-end<br/>
@@ -657,30 +647,11 @@ An <b>on-demand home-services app for the Saudi market</b>, connecting household
 
 <p align="center"><sub>Client work shows what I deliver against someone else's brief. These are the ones where I picked the problem, shipped the product, and host it on my own domain.</sub></p>
 
-<br/>
-
-<details open>
-<summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
-<br/>
-
-A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/ar">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
-
-Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
-
-The product spec carries hard prohibitions, not just features: never fabricate candidate information, never promise employment or interviews, no fake ATS scores, no secret keys client-side.
-
-<b>🛠 Stack:</b> Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui (Radix, RTL) · next-intl (`/ar` default, `/en`) · Supabase (PostgreSQL, Auth, Storage) · Vitest · pnpm<br/>
-<b>🔌 Integrations:</b> Gmail OAuth (send-only) · Telegram bot with webhook + commands · pluggable AI providers behind a mock-able interface<br/>
-<b>✨ Highlights:</b> 21 feature modules (auth, resumes, matching, campaigns, credits, billing, notifications, admin…) · 54 database migrations · 96 test files · explainable company matching with unverified factors surfaced · queued application sending with skip rules · append-only credit ledger · Arabic RTL-first design system with per-language typography and LTR-locked mixed content<br/>
-<b>🏗 Architecture:</b> repositories are the only layer touching the database; Supabase clients isolated behind `src/lib/supabase`; env validated at boot; mock AI and email providers so local development never needs production services<br/>
-<b>👤 Role:</b> Solo — product, engineering and operations
-
-<p>
-  <a href="https://applyni.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://applyni.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-applyni.com%2Fen-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<p>🎯 <b>Applyni</b> — <i>AI career agent</i> · full write-up above, under <b>Samples from My Projects</b><br/>
+  <a href="https://applyni.com/ar" target="_blank"><img alt="Applyni" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
-</details>
+<br/>
 
 <details>
 <summary><b>🧾 ReconcilePilot</b> — <i>finance ops</i></summary>
@@ -716,9 +687,9 @@ The product spec carries hard prohibitions, not just features: never fabricate c
 
 <hr>
 
-<h2 align="center">🎨 Concepts &amp; Design Studies</h2>
+<h2 align="center">🎨 Concepts, Demos &amp; Recent Builds</h2>
 
-<p align="center"><sub>Unsolicited concepts — nobody commissioned these and no client has approved them. They're here as design and engineering work, not as client engagements. Each is live so you can click through it.</sub></p>
+<p align="center"><sub>Design concepts, client demos and smaller builds — all live on my own domain, so you can click through them instead of taking my word for it. Each one is labelled for what it actually is: the three dental concepts are unsolicited, and no clinic commissioned or approved them.</sub></p>
 
 <br/>
 
@@ -766,6 +737,39 @@ The product spec carries hard prohibitions, not just features: never fabricate c
 
 <p>
   <a href="https://itqan.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-itqan.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🏢 Cairo Plaza</b> — <i>client work</i></summary>
+<br/>
+
+A <b>payment-plan calculator and project pages for a New Cairo real-estate developer</b>. Buying off-plan property in Egypt means comparing down payments, instalment lengths and delivery dates across plans that are usually explained verbally or in a PDF. This turns that conversation into a tool the sales team can open on a phone in front of a buyer: pick a plan, see the numbers move. Bilingual English and Arabic, fully static, no backend and no build step — which is why it loads instantly on a phone in a showroom with poor signal.
+
+<b>🛠 Stack:</b> HTML · CSS · vanilla JavaScript — no framework, no build step · Vercel<br/>
+<b>✨ Highlights:</b> interactive payment-plan calculator · per-project pages (Hyde Park, New Cairo) · bilingual EN/AR with English as default · deploy root scoped to `site/` so internal sales material physically cannot be served, with `.vercelignore` as a second line of defence<br/>
+<b>👤 Role:</b> Independent Consultant — build and deploy
+
+<p>
+  <a href="https://cairoplaza.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-cairoplaza.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🏢 Ofoq — Smart Building</b> — <i>client demo</i></summary>
+<br/>
+
+A <b>smart-building app proposal turned into something the owner can actually use</b>, rather than another document to read. Built from the Ofoq Smart Building App Proposal as Demo Milestone 1: one polished journey, end to end, with the member and management sides genuinely connected rather than mocked. A booking made in the member app appears on the management calendar. A café order placed in the member app lands on the kitchen board. Mark that order <b>Ready</b> in the kitchen and the member is notified — live, including in another browser tab.
+
+<b>🛠 Stack:</b> Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · QR code generation · Vercel<br/>
+<b>✨ Highlights:</b> member app — spaces, booking flow, review and confirmation, digital pass with a QR that resolves to a check-in route, café ordering and order tracking · management side — dashboard, master calendar, kitchen order board · cross-surface live updates between member and management · every piece of invented placeholder content documented in `PLACEHOLDERS.md` so nothing fabricated can be mistaken for the client's real data<br/>
+<b>👤 Role:</b> Independent Consultant — full demo build<br/>
+<b>🚧 Status:</b> Demo Milestone 1. Milestone 2 screens (rewards, notification centre, admin users/pricing/menu/reports, booking overrides) are deliberately not built.
+
+<p>
+  <a href="https://ofoq.iamahmedfarid.com" target="_blank"><img alt="Live" src="https://img.shields.io/badge/Live-ofoq.iamahmedfarid.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 </details>
