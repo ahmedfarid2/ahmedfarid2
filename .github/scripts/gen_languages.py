@@ -4,8 +4,9 @@
 Runs inside GitHub Actions using only the built-in GITHUB_TOKEN (public read),
 so it needs no personal access token. Aggregates language byte counts across all
 public, non-fork repositories owned by GH_USER and renders a compact dark-themed
-card that is committed to the repo as languages.svg — because GitHub serves that
-file directly, it can never render as the broken "image not exist" icon.
+card written to OUTPUT (default languages.svg). stats.yml publishes it to the
+repo's `output` branch, so GitHub serves the file directly and it can never
+render as the broken "image not exist" icon.
 """
 
 import json
