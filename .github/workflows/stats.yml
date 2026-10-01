@@ -35,10 +35,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      # continue-on-error so the failure step below can report it; on failure
-      # the previous copy on output stays (keep_files).
+      # Do NOT give this step an `id:`. The action reads `github.action` (which
+      # becomes the step id when one is set) to decide whether it is the
+      # official action; with an id it treats itself as a fork, skips the
+      # pre-built image and rebuilds from its Dockerfile, which currently
+      # fails. Failure is detected from the rendered file instead (below).
       - name: Generate github-metrics.svg
-        id: metrics
         continue-on-error: true
         timeout-minutes: 10
         uses: lowlighter/metrics@latest
@@ -56,12 +58,15 @@ jobs:
           output_action: none
 
       - name: Collect github-metrics.svg
+        id: collect
         run: |
           mkdir -p dist
           if [ -f /metrics_renders/github-metrics.svg ]; then
             cp /metrics_renders/github-metrics.svg dist/
+            echo "rendered=true" >> "$GITHUB_OUTPUT"
           else
             echo "::warning::github-metrics.svg was not rendered; the previous copy on output (if any) stays."
+            echo "rendered=false" >> "$GITHUB_OUTPUT"
           fi
 
       # keep_files: only the files in dist/ are replaced; snake.svg stays as
@@ -79,7 +84,7 @@ jobs:
       # (e.g. an expired METRICS_TOKEN) would freeze silently. Fail the run
       # after publishing so GitHub sends the usual failure email.
       - name: Fail if the card did not render
-        if: steps.metrics.outcome == 'failure'
+        if: steps.collect.outputs.rendered != 'true'
         run: |
-          echo "::error::github-metrics.svg did not render (outcome: ${{ steps.metrics.outcome }})"
+          echo "::error::github-metrics.svg did not render; see the Generate step's log."
           exit 1
