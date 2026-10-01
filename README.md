@@ -297,7 +297,7 @@ An <b>Arabic-first e-learning platform, delivered end to end as an owned product
 <summary><b>🎯 Applyni</b> — <i>AI career agent</i></summary>
 <br/>
 
-A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/ar">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
+A <b>Saudi-first AI job-search and career-outreach platform</b> at <a href="https://applyni.com/en">applyni.com</a>. Job seekers in the Gulf send the same CV to every opening and hear nothing back; the tools that promise to fix that mostly automate the spraying, then dress it up with invented ATS scores and match percentages that explain nothing.
 
 Applyni is built to do the opposite of volume. It reads your CV, matches you against Saudi companies and <b>explains each match in words — including what it could not verify</b>, so a weak match says so rather than hiding behind a number. It drafts the outreach, you review it, and it sends <b>from your own Gmail</b> on a queue with skip rules. Nothing leaves without your approval.
 
@@ -310,8 +310,7 @@ The product spec carries hard prohibitions, not just features: never fabricate c
 <b>👤 Role:</b> Solo — product, engineering and operations
 
 <p>
-  <a href="https://applyni.com/ar" target="_blank"><img alt="Arabic" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://applyni.com/en" target="_blank"><img alt="English" src="https://img.shields.io/badge/English-applyni.com%2Fen-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://applyni.com/en" target="_blank"><img alt="Live — applyni.com" src="https://img.shields.io/badge/Live-applyni.com-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 </details>
