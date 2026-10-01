@@ -678,10 +678,6 @@ An <b>on-demand home-services app for the Saudi market</b>, connecting household
 
 <p align="center"><sub>Client work shows what I deliver against someone else's brief. These are the ones where I picked the problem, shipped the product, and host it on my own domain.</sub></p>
 
-<p>🎯 <b>Applyni</b> — <i>AI career agent</i> · full write-up above, under <b>Samples from My Projects</b><br/>
-  <a href="https://applyni.com/ar" target="_blank"><img alt="Applyni" src="https://img.shields.io/badge/Live-applyni.com%2Far-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
 <br/>
 
 <details>
