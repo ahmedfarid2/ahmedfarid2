@@ -1,0 +1,83 @@
+name: Profile Stats
+
+# Renders the two static stat cards the README shows — github-metrics.svg
+# (lowlighter/metrics) and languages.svg (.github/scripts/gen_languages.py) —
+# and publishes them to the `output` branch next to snake.svg.
+#
+# They go to `output`, not `main`, on purpose: the previous versions of these
+# workflows committed to main twice a day, and that bot noise made up most of
+# the visible commit history (removed in #152). The README reads the files
+# from raw.githubusercontent.com/.../output/, so main stays clean.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/stats.yml
+      - .github/scripts/gen_languages.py
+
+permissions:
+  contents: write          # needed to push to the output branch
+
+# Shared with snake.yml so two publishers never push to `output` at once.
+concurrency:
+  group: profile-output-branch
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate languages.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ahmedfarid2
+          OUTPUT: dist/languages.svg
+        run: |
+          mkdir -p dist
+          python .github/scripts/gen_languages.py
+
+      # A metrics failure must not block the languages card from publishing.
+      - name: Generate github-metrics.svg
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          # Prefers a repo secret named METRICS_TOKEN (a read-only GitHub PAT)
+          # for complete data, but falls back to the built-in GITHUB_TOKEN so
+          # the workflow works with zero extra setup for public stats.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: ahmedfarid2
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Cairo
+          # Render only; the publish step below does the push.
+          output_action: none
+
+      - name: Collect github-metrics.svg
+        run: |
+          if [ -f /metrics_renders/github-metrics.svg ]; then
+            cp /metrics_renders/github-metrics.svg dist/
+          else
+            echo "::warning::github-metrics.svg was not rendered; keeping the previous copy on output."
+          fi
+
+      # keep_files: only the files in dist/ are replaced; snake.svg and any
+      # card not rendered this run stay as they are on the branch.
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          keep_files: true
+          commit_message: "chore(stats): refresh profile stat cards"

@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write          # needed to push the generated file
 
+# Shared with stats.yml so two publishers never push to `output` at once.
+concurrency:
+  group: profile-output-branch
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,3 +30,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
+          # Keep the stat cards stats.yml publishes to the same branch;
+          # without this every snake run would delete them.
+          keep_files: true
