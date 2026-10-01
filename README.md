@@ -49,7 +49,7 @@
 
 <p align="left"><b>⭐ Core Stack</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,ts,js,react,nodejs,py,flutter,postgres,redis,aws,docker,githubactions" height="56" alt="Core stack: PHP, Laravel, Next.js, TypeScript, JavaScript, React, Node.js, Python, Flutter, PostgreSQL, Redis, AWS, Docker, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,ts,js,react,nodejs,py,flutter,mysql,postgres,redis,aws,docker,githubactions" height="56" alt="Core stack: PHP, Laravel, Next.js, TypeScript, JavaScript, React, Node.js, Python, Flutter, MySQL, PostgreSQL, Redis, AWS, Docker, GitHub Actions" />
 </p>
 
 <p align="left"><b>Languages</b></p>
