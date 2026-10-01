@@ -47,30 +47,42 @@
 
 ###
 
+<p align="left"><b>⭐ Core Stack</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,ts,react,flutter,postgres,redis,aws,docker" height="56" alt="Core stack: Laravel, Next.js, TypeScript, React, Flutter, PostgreSQL, Redis, AWS, Docker" />
+</p>
+
 <p align="left"><b>Languages</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,js,ts,dart,py,go,html,css" height="48" alt="PHP, JavaScript, TypeScript, Dart, Python, Go, HTML, CSS" />
 </p>
 
-<p align="left"><b>Frameworks &amp; Libraries</b></p>
+<p align="left"><b>Backend</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,fastapi,django,react,nextjs,vue,flutter,bootstrap,tailwind,materialui,vite,sass" height="48" alt="Laravel, Node.js, Express, NestJS, FastAPI, Django, React, Next.js, Vue, Flutter, Bootstrap, Tailwind, Material UI, Vite, Sass" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,fastapi,django" height="48" alt="Laravel, Node.js, Express, NestJS, FastAPI, Django" />
+</p>
+
+<p align="left"><b>Frontend &amp; Mobile</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,materialui,vite,sass" height="48" alt="React, Next.js, Vue, Tailwind, Bootstrap, Material UI, Vite, Sass" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="42" alt="shadcn/ui" />
-  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/000000/ffffff" height="42" alt="shadcn/ui" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter" />
+  &nbsp;
   <!-- skillicons has no React Native icon, so this is a badge rather than a
-       glyph — same approach the AI row already uses. -->
+       glyph — the same approach the AI row uses. -->
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="36" alt="React Native" />
 </p>
 
-<p align="left"><b>Databases</b></p>
+<p align="left"><b>Data &amp; Storage</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase" height="48" alt="MySQL, PostgreSQL, MongoDB, Redis, Supabase" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="48" alt="MariaDB" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" height="48" alt="InfluxDB" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white" height="30" alt="pgvector (PostgreSQL vector DB)" />
 </p>
 
@@ -79,43 +91,45 @@
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,cloudflare,nginx,linux,ubuntu,githubactions,grafana,sentry,vercel" height="48" alt="Docker, AWS, GCP, Firebase, Cloudflare, Nginx, Linux, Ubuntu, GitHub Actions, Grafana, Sentry, Vercel" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="Apache" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/auth0/EB5424" height="44" alt="Auth0" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="44" alt="Hostinger" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/godaddy/1BDBDB" height="44" alt="GoDaddy" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/hetzner/D50C2D" height="44" alt="Hetzner" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="44" alt="App Store (iOS publishing)" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/googleplay/34A853" height="44" alt="Google Play (Android publishing)" />
 </p>
 
-<p align="left"><b>Tools</b></p>
+<p align="left"><b>Engineering Tools</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,pnpm,postman,figma,notion,replit" height="48" alt="Git, GitHub, pnpm, Postman, Figma, Notion, Replit" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48" alt="Swagger" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nx/143055" height="44" alt="Nx" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nx/143055/ffffff" height="44" alt="Nx" />
 </p>
 
 <p align="left"><b>Collaboration</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=discord" height="48" alt="Discord" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="44" alt="Slack" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/googlechat/00AC47" height="42" alt="Google Chat" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/clickup/7B68EE" height="42" alt="ClickUp" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/asana/F06A6A" height="42" alt="Asana" />
 </p>
 
-<p align="left"><b>AI</b></p>
+<p align="left"><b>AI &amp; AI Engineering</b></p>
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTkuMjA1IDguNjU4di0yLjI2YzAtLjE5LjA3Mi0uMzMzLjIzOC0uNDI4bDQuNTQzLTIuNjE2Yy42MTktLjM1NyAxLjM1Ni0uNTIzIDIuMTE3LS41MjMgMi44NTQgMCA0LjY2MiAyLjIxMiA0LjY2MiA0LjU2NiAwIC4xNjcgMCAuMzU3LS4wMjQuNTQ3bC00LjcxLTIuNzU5YS43OTcuNzk3IDAgMDAtLjg1NiAwbC01Ljk3IDMuNDczem0xMC42MDkgOC44VjEyLjA2YzAtLjMzMy0uMTQzLS41Ny0uNDI5LS43MzdsLTUuOTctMy40NzMgMS45NS0xLjExOGEuNDMzLjQzMyAwIDAxLjQ3NiAwbDQuNTQzIDIuNjE3YzEuMzA5Ljc2IDIuMTg5IDIuMzc4IDIuMTg5IDMuOTQ4IDAgMS44MDgtMS4wNyAzLjQ3My0yLjc2IDQuMTYzek03LjgwMiAxMi43MDNsLTEuOTUtMS4xNDJjLS4xNjctLjA5NS0uMjM5LS4yMzgtLjIzOS0uNDI4VjUuODk5YzAtMi41NDUgMS45NS00LjQ3MiA0LjU5MS00LjQ3MiAxIDAgMS45MjcuMzMzIDIuNzEyLjkyOEw4LjIzIDUuMDY3Yy0uMjg1LjE2Ni0uNDI4LjQwNC0uNDI4LjczN3Y2Ljg5OHpNMTIgMTUuMTI4bC0yLjc5NS0xLjU3di0zLjMzTDEyIDguNjU4bDIuNzk1IDEuNTd2My4zM0wxMiAxNS4xMjh6bTEuNzk2IDcuMjNjLTEgMC0xLjkyNy0uMzMyLTIuNzEyLS45MjdsNC42ODYtMi43MTJjLjI4NS0uMTY2LjQyOC0uNDA0LjQyOC0uNzM3di02Ljg5OGwxLjk3NCAxLjE0MmMuMTY3LjA5NS4yMzguMjM4LjIzOC40Mjh2NS4yMzNjMCAyLjU0NS0xLjk3NCA0LjQ3Mi00LjYxNCA0LjQ3MnptLTUuNjM3LTUuMzAzbC00LjU0NC0yLjYxN2MtMS4zMDgtLjc2MS0yLjE4OC0yLjM3OC0yLjE4OC0zLjk0OEE0LjQ4MiA0LjQ4MiAwIDAxNC4yMSA2LjMyN3Y1LjQyM2MwIC4zMzMuMTQzLjU3MS40MjguNzM4bDUuOTQ3IDMuNDQ5LTEuOTUgMS4xMThhLjQzMi40MzIgMCAwMS0uNDc2IDB6bS0uMjYyIDMuOWMtMi42ODggMC00LjY2Mi0yLjAyMS00LjY2Mi00LjUxOSAwLS4xOS4wMjQtLjM4LjA0Ny0uNTdsNC42ODYgMi43MWMuMjg2LjE2Ny41NzEuMTY3Ljg1NiAwbDUuOTctMy40NDh2Mi4yNmMwIC4xOS0uMDcuMzMzLS4yMzcuNDI4bC00LjU0MyAyLjYxNmMtLjYxOS4zNTctMS4zNTYuNTIzLTIuMTE3LjUyM3ptNS44OTkgMi44M2E1Ljk0NyA1Ljk0NyAwIDAwNS44MjctNC43NTZDMjIuMjg3IDE4LjMzOSAyNCAxNS44NCAyNCAxMy4yOTZjMC0xLjY2NS0uNzEzLTMuMjgyLTEuOTk4LTQuNDQ4LjExOS0uNS4xOS0uOTk5LjE5LTEuNDk4IDAtMy40MDEtMi43NTktNS45NDctNS45NDYtNS45NDctLjY0MiAwLTEuMjYuMDk1LTEuODguMzFBNS45NjIgNS45NjIgMCAwMDEwLjIwNSAwYTUuOTQ3IDUuOTQ3IDAgMDAtNS44MjcgNC43NTdDMS43MTMgNS40NDcgMCA3Ljk0NSAwIDEwLjQ5YzAgMS42NjYuNzEzIDMuMjgzIDEuOTk4IDQuNDQ4LS4xMTkuNS0uMTkgMS0uMTkgMS40OTkgMCAzLjQwMSAyLjc1OSA1Ljk0NiA1Ljk0NiA1Ljk0Ni42NDIgMCAxLjI2LS4wOTUgMS44OC0uMzA5YTUuOTYgNS45NiAwIDAwNC4xNjIgMS43MTN6Ij48L3BhdGg%2BPC9zdmc%2B" height="36" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTQuNzA5IDE1Ljk1NWw0LjcyLTIuNjQ3LjA4LS4yMy0uMDgtLjEyOEg5LjJsLS43OS0uMDQ4LTIuNjk4LS4wNzMtMi4zMzktLjA5Ny0yLjI2Ni0uMTIyLS41NzEtLjEyMUwwIDExLjc4NGwuMDU1LS4zNTIuNDgtLjMyMS42ODYuMDYgMS41Mi4xMDMgMi4yNzguMTU4IDEuNjUyLjA5NyAyLjQ0OS4yNTVoLjM4OWwuMDU1LS4xNTctLjEzNC0uMDk4LS4xMDMtLjA5Ny0yLjM1OC0xLjU5Ni0yLjU1Mi0xLjY4OC0xLjMzNi0uOTcyLS43MjQtLjQ5MS0uMzY0LS40NjItLjE1OC0xLjAwOC42NTYtLjcyMi44ODEuMDYuMjI1LjA2MS44OTMuNjg2IDEuOTA4IDEuNDc2IDIuNDkxIDEuODMzLjM2NS4zMDQuMTQ1LS4xMDMuMDE5LS4wNzMtLjE2NC0uMjc0LTEuMzU1LTIuNDQ2LTEuNDQ2LTIuNDktLjY0NC0xLjAzMi0uMTctLjYxOWEyLjk3IDIuOTcgMCAwMS0uMTA0LS43MjlMNi4yODMuMTM0IDYuNjk2IDBsLjk5Ni4xMzQuNDIuMzY0LjYyIDEuNDE0IDEuMDAyIDIuMjI5IDEuNTU1IDMuMDMuNDU2Ljg5OC4yNDMuODMyLjA5MS4yNTVoLjE1OFY5LjAxbC4xMjgtMS43MDYuMjM3LTIuMDk1LjIzLTIuNjk1LjA4LS43Ni4zNzYtLjkxLjc0Ny0uNDkyLjU4NC4yOC40OC42ODUtLjA2Ny40NDQtLjI4NiAxLjg1MS0uNTU5IDIuOTAzLS4zNjQgMS45NDJoLjIxMmwuMjQzLS4yNDIuOTg1LTEuMzA2IDEuNjUyLTIuMDY0LjczLS44Mi44NS0uOTA0LjU0Ny0uNDMxaDEuMDMzbC43NiAxLjEyOS0uMzQgMS4xNjYtMS4wNjQgMS4zNDctLjg4MSAxLjE0Mi0xLjI2NCAxLjctLjc5IDEuMzYuMDczLjExLjE4OC0uMDIgMi44NTYtLjYwNiAxLjU0My0uMjggMS44NDEtLjMxNS44MzMuMzg4LjA5MS4zOTUtLjMyOC44MDctMS45NjkuNDg2LTIuMzA5LjQ2Mi0zLjQzOS44MTMtLjA0Mi4wMy4wNDkuMDYxIDEuNTQ5LjE0Ni42NjIuMDM2aDEuNjIybDMuMDIuMjI1Ljc5LjUyMi40NzQuNjM4LS4wNzkuNDg1LTEuMjE1LjYyLTEuNjQtLjM4OS0zLjgyOS0uOTEtMS4zMTItLjMyOWgtLjE4MnYuMTFsMS4wOTMgMS4wNjggMi4wMDYgMS44MSAyLjUwOSAyLjMzLjEyNy41NzgtLjMyMi40NTUtLjM0LS4wNDktMi4yMDUtMS42NTctLjg1MS0uNzQ3LTEuOTI2LTEuNjJoLS4xMjh2LjE3bC40NDQuNjQ5IDIuMzQ1IDMuNTIxLjEyMiAxLjA4LS4xNy4zNTMtLjYwOC4yMTMtLjY2OC0uMTIyLTEuMzc0LTEuOTI1LTEuNDE1LTIuMTY3LTEuMTQzLTEuOTQzLS4xNC4wOC0uNjc0IDcuMjU0LS4zMTYuMzctLjcyOS4yOC0uNjA3LS40NjEtLjMyMi0uNzQ3LjMyMi0xLjQ3Ni4zODktMS45MjQuMzE1LTEuNTMuMjg2LTEuOS4xNy0uNjMyLS4wMTItLjA0Mi0uMTQuMDE4LTEuNDM0IDEuOTY3LTIuMTggMi45NDUtMS43MjYgMS44NDUtLjQxNC4xNjQtLjcxNy0uMzcuMDY3LS42NjIuNDAxLS41ODkgMi4zODgtMy4wMzYgMS40NC0xLjg4Mi45My0xLjA4Ni0uMDA2LS4xNThoLS4wNTVMNC4xMzIgMTguNTZsLTEuMTMuMTQ2LS40ODctLjQ1Ni4wNjEtLjc0Ni4yMzEtLjI0MyAxLjkwOC0xLjMxMi0uMDA2LjAwNnoiPjwvcGF0aD48L3N2Zz4%3D" height="36" alt="Claude" />
