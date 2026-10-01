@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Farid&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Senior%20Software%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" alt="Ahmed Farid" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Farid&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20SaaS%20%26%20AI&descSize=18&descAlignY=55&animation=fadeIn" alt="Ahmed Farid" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamahmedfarid" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=00FFAA&center=true&vCenter=true&width=600&lines=Building+Multi-Tenant+SaaS+Platforms;Engineering+Real-Time+Systems;Building+Mobile+%26+AI-Enabled+Products;Shipping+Production+Systems+End+to+End" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=00FFAA&center=true&vCenter=true&width=600&lines=Building+Multi-Tenant+SaaS+Platforms;AI+Features+in+Production%3A+RAG+%26+LLMs;Engineering+Real-Time+Systems;Building+Web+%26+Mobile+Products;Shipping+Production+Systems+End+to+End" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 </p>
 
 <p align="center">
-  🚀 <b>Senior Software Engineer</b> building multi&#8209;tenant SaaS, real&#8209;time systems, mobile and AI&#8209;enabled products.<br/>
+  🚀 <b>Senior Software Engineer</b> building multi&#8209;tenant SaaS, real&#8209;time systems and mobile apps.<br/>
+  🤖 <b>AI in production:</b> RAG, multi&#8209;LLM gateways and AI features shipped inside real products.<br/>
   <b>Laravel</b> and <b>Next.js</b> at the core, <b>Flutter</b> for&nbsp;mobile.<br/>
   Backend architecture, APIs, infrastructure and production delivery.<br/>
   Based in Dubai, United Arab Emirates 🇦🇪
