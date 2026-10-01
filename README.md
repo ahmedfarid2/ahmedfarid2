@@ -76,6 +76,10 @@
   <img src="https://cdn.simpleicons.org/godaddy/1BDBDB" height="44" alt="GoDaddy" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/hetzner/D50C2D" height="44" alt="Hetzner" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="44" alt="App Store (iOS publishing)" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googleplay/34A853" height="44" alt="Google Play (Android publishing)" />
 </p>
 
 <p align="left"><b>Tools</b></p>
