@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Farid&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20SaaS%20%26%20AI&descSize=18&descAlignY=55&animation=fadeIn" alt="Ahmed Farid" />
+<img width="100%" src="./assets/header.svg" alt="Ahmed Farid — Senior Software Engineer · SaaS &amp; AI" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamahmedfarid" target="_blank">
@@ -836,4 +836,4 @@ A <b>smart-building app proposal turned into something the owner can actually us
 </details>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" />
+<img width="100%" src="./assets/footer.svg" alt="" />
