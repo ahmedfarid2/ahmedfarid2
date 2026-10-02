@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="200" viewBox="0 0 854 200" role="img" aria-labelledby="t d">
+  <title id="t">Ahmed Farid</title>
+  <desc id="d">Senior Software Engineer · SaaS &amp; AI</desc>
+  <!-- Served from this repo instead of capsule-render.vercel.app, whose
+       outages left a broken image at the top of the profile. -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b3d4a"/>
+      <stop offset="0.5" stop-color="#0e6b6b"/>
+      <stop offset="1" stop-color="#11a37f"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .fade { animation: fade 1.2s ease-out both; }
+    @keyframes fade { from { opacity: 0 } to { opacity: 1 } }
+    @media (prefers-reduced-motion: reduce) { .fade { animation: none } }
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #fff; text-anchor: middle; }
+  </style>
+  <path d="M0 0H854V150C760 182 676 128 570 146C452 166 392 196 284 174C182 153 96 136 0 168Z" fill="url(#g)" opacity=".45"/>
+  <path d="M0 0H854V134C742 170 650 116 546 132C430 150 368 184 256 160C156 139 82 122 0 150Z" fill="url(#g)"/>
+  <g class="fade">
+    <text x="427" y="72" font-size="44" font-weight="700" dominant-baseline="middle">Ahmed Farid</text>
+    <text x="427" y="110" font-size="18" font-weight="500" dominant-baseline="middle" opacity=".92">Senior Software Engineer · SaaS &amp; AI</text>
+  </g>
+</svg>

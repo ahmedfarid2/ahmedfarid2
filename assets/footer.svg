@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="120" viewBox="0 0 854 120" aria-hidden="true">
+  <!-- Pairs with header.svg; served from this repo, not capsule-render. -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b3d4a"/>
+      <stop offset="0.5" stop-color="#0e6b6b"/>
+      <stop offset="1" stop-color="#11a37f"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 120H854V30C760 0 676 50 570 34C452 16 392 -8 284 12C182 31 96 46 0 18Z" fill="url(#g)" opacity=".45"/>
+  <path d="M0 120H854V46C742 14 650 64 546 50C430 34 368 4 256 26C156 45 82 60 0 34Z" fill="url(#g)"/>
+</svg>
