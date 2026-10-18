@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://calendly.com/ahmedfareed2025/30min"><img alt="Book a 30-minute call" src="https://img.shields.io/badge/Book%20a%2030--min%20call-D9B978?style=for-the-badge&logo=calendly&logoColor=0B0D10&labelColor=D9B978" /></a>
+  <a href="https://calendly.com/iamahmedfarid/30min"><img alt="Book a 30-minute call" src="https://img.shields.io/badge/Book%20a%2030--min%20call-D9B978?style=for-the-badge&logo=calendly&logoColor=0B0D10&labelColor=D9B978" /></a>
   <a href="https://iamahmedfarid.com/work/"><img alt="Case studies" src="https://img.shields.io/badge/Case%20studies-iamahmedfarid.com-0B0D10?style=for-the-badge&logo=googlechrome&logoColor=D9B978&labelColor=0B0D10" /></a>
   <a href="mailto:ahmed@iamahmedfarid.com"><img alt="Email ahmed@iamahmedfarid.com" src="https://img.shields.io/badge/Email-ahmed%40iamahmedfarid.com-0B0D10?style=for-the-badge&labelColor=0B0D10" /></a>
   <a href="https://wa.me/message/CFOPUVBTQVPLM1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
