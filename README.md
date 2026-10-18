@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://calendly.com/ahmedfareed2025/30min"><img alt="Book a 30-minute call" src="https://img.shields.io/badge/Book%20a%2030--min%20call-D9B978?style=for-the-badge&logo=calendly&logoColor=0B0D10&labelColor=D9B978" /></a>
   <a href="https://iamahmedfarid.com/work/"><img alt="Case studies" src="https://img.shields.io/badge/Case%20studies-iamahmedfarid.com-0B0D10?style=for-the-badge&logo=googlechrome&logoColor=D9B978&labelColor=0B0D10" /></a>
-  <a href="mailto:ahmed@iamahmedfarid.com"><img alt="Email ahmed@iamahmedfarid.com" src="https://img.shields.io/badge/Email-ahmed%40iamahmedfarid.com-0B0D10?style=for-the-badge&logo=maildotru&logoColor=D9B978&labelColor=0B0D10" /></a>
+  <a href="mailto:ahmed@iamahmedfarid.com"><img alt="Email ahmed@iamahmedfarid.com" src="https://img.shields.io/badge/Email-ahmed%40iamahmedfarid.com-0B0D10?style=for-the-badge&labelColor=0B0D10" /></a>
   <a href="https://wa.me/message/CFOPUVBTQVPLM1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <h3 align="center">🤝 Ways to work together</h3>
 
-| | |
+| Engagement | What you get |
 |---|---|
 | **Fixed-scope build** | A product or major feature, scoped up front and delivered end to end — backend, web, mobile, deploy. One price, no hourly drift. |
 | **Technical advisory** | An architecture review of your codebase or plan — multi-tenancy, real-time, scaling, AI features — with written findings you can act on. |
@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,ts,react,nodejs,py,flutter,postgres,mysql,redis,aws,docker,githubactions" height="48" alt="PHP, Laravel, Next.js, TypeScript, React, Node.js, Python, Flutter, PostgreSQL, MySQL, Redis, AWS, Docker, GitHub Actions" />
 </p>
 
-| | |
+| Layer | Tools |
 |---|---|
 | **Backend** | Laravel / PHP first · Node (Express, NestJS) · FastAPI · Django / DRF |
 | **Web** | Next.js (App Router, server components) · React 19 · TypeScript · Tailwind · shadcn/ui · TanStack Query |
