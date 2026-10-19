@@ -68,7 +68,8 @@
 
 **Client platforms**
 
-- **[Ibdaa Course](https://alpha.ibdaacourse.com/en)** — Arabic-first e-learning platform delivered as an owned product: Laravel API, Next.js web, infrastructure and handover
+- **[Ibdaa Course](https://ibdaacourse.com/en)** — Arabic-first e-learning platform delivered as an owned product: Laravel API, Next.js web, infrastructure and handover
+- **[Applyni](https://applyni.com/en)** — Saudi-first AI job-search and career-outreach agent, built and run end to end for its founder
 - **[Ezhal](https://alpha.ezhal-qtr.com/)** — multi-tenant car-service booking: one Laravel backend, three role-specific Flutter apps
 - **[Fixawy](https://fixawy.com/en)** — two-sided home-services marketplace: web dashboard plus customer and provider apps on [Google Play](https://play.google.com/store/apps/details?id=com.fixawy.servicebooking&hl=en) and the [App Store](https://apps.apple.com/eg/app/fixawy/id1071671875)
 - **[Compass Med](http://www.compass-egy.com)** — dental e-commerce &amp; healthcare platform for Egypt
@@ -83,7 +84,6 @@
 
 **Products I build and run**
 
-- **[Applyni](https://applyni.com/en)** — Saudi-first AI job-search and career-outreach agent
 - **[ReconcilePilot](https://reconcilepilot.iamahmedfarid.com)** — invoice ↔ bank-statement reconciliation for accountants
 - **[SheetPilot AI](https://sheetpilot.iamahmedfarid.com)** — turns a raw CSV into a business report
 
