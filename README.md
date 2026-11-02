@@ -1,6 +1,6 @@
-<img width="100%" src="./assets/header.svg" alt="Ahmed Farid — Senior Software Engineer · SaaS &amp; AI" />
+<img width="100%" src="./assets/header.svg" alt="Ahmed Farid — Senior Software Engineer · SaaS, Mobile &amp; AI" />
 
-<h3 align="center">I build real-time, multi-tenant SaaS end to end —<br/>Laravel and Next.js at the core, Flutter when the product needs mobile.</h3>
+<h3 align="center">Building scalable products and real-world systems —<br/>Laravel and Next.js at the core, Flutter and React Native when the product needs mobile.</h3>
 
 <p align="center">
   Senior software engineer in Dubai 🇦🇪 · 6+ years in production · 27+ products shipped across 17+ countries.<br/>

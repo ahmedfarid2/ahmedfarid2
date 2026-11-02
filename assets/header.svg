@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="854" height="200" viewBox="0 0 854 200" role="img" aria-labelledby="t d">
   <title id="t">Ahmed Farid</title>
-  <desc id="d">Senior Software Engineer · SaaS &amp; AI</desc>
+  <desc id="d">Senior Software Engineer · SaaS, Mobile &amp; AI</desc>
   <!-- Served from this repo instead of capsule-render.vercel.app, whose
        outages left a broken image at the top of the profile. -->
   <defs>
@@ -20,6 +20,6 @@
   <path d="M0 0H854V134C742 170 650 116 546 132C430 150 368 184 256 160C156 139 82 122 0 150Z" fill="url(#g)"/>
   <g class="fade">
     <text x="427" y="72" font-size="44" font-weight="700" dominant-baseline="middle">Ahmed Farid</text>
-    <text x="427" y="110" font-size="18" font-weight="500" dominant-baseline="middle" opacity=".92">Senior Software Engineer · SaaS &amp; AI</text>
+    <text x="427" y="110" font-size="18" font-weight="500" dominant-baseline="middle" opacity=".92">Senior Software Engineer · SaaS, Mobile &amp; AI</text>
   </g>
 </svg>
